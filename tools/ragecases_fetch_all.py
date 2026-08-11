@@ -20,6 +20,7 @@ PREVIEW = OUT / "index.html"
 READY = OUT / "READY_TO_SWITCH.txt"
 BASE = "https://ggstand.com"
 PAGES_BASE = "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/"
+FANDOM_API = "https://standoff-2.fandom.com/api.php"
 FORCE = os.environ.get("FORCE_REDOWNLOAD", "false").lower() in {"1","true","yes","on"}
 
 HEADERS = {
@@ -177,6 +178,58 @@ def page_candidates(item: dict) -> list[str]:
     add(FALLBACK)
     return [make_page_url(x) for x in slugs]
 
+def fandom_image_candidates(session: requests.Session, item: dict) -> list[str]:
+    """Fallback for item renders absent from GGSTAND page indices."""
+    weapon = str(item.get("weapon") or "")
+    skin = str(item.get("skin") or "")
+    canonical = str(item.get("canonical_name") or "")
+    searches = [canonical, f"{weapon} {skin}".strip(), skin]
+    wanted_skin = [x for x in re.findall(r"[a-z0-9]+", skin.casefold()) if len(x) > 1]
+    wanted_weapon = [x for x in re.findall(r"[a-z0-9]+", weapon.casefold()) if len(x) > 1]
+    scored = []
+    seen_urls = set()
+    for q in searches:
+        if not q:
+            continue
+        try:
+            r = session.get(FANDOM_API, params={
+                "action":"query", "generator":"search", "gsrnamespace":6,
+                "gsrsearch":q, "gsrlimit":20, "prop":"imageinfo",
+                "iiprop":"url|mime|size", "format":"json"
+            }, headers=HEADERS, timeout=(20,70), allow_redirects=True)
+            if r.status_code >= 400:
+                continue
+            payload = r.json()
+        except Exception:
+            continue
+        pages = (payload.get("query") or {}).get("pages") or {}
+        for page in pages.values():
+            title = str(page.get("title") or "")
+            infos = page.get("imageinfo") or []
+            if not infos:
+                continue
+            info = infos[0] or {}
+            u = info.get("url")
+            if not u or u in seen_urls:
+                continue
+            mime = str(info.get("mime") or "").casefold()
+            if mime and not mime.startswith("image/"):
+                continue
+            nt = norm(title.replace("File:", ""))
+            skin_hits = sum(1 for t in wanted_skin if t in nt)
+            weapon_hits = sum(1 for t in wanted_weapon if t in nt)
+            if wanted_skin and skin_hits < max(1, len(wanted_skin)-1):
+                continue
+            score = skin_hits*10 + weapon_hits*4
+            if "stattrack" in nt or "stat track" in nt:
+                score += 1
+            if int(info.get("width") or 0) >= 300 and int(info.get("height") or 0) >= 120:
+                score += 2
+            seen_urls.add(u)
+            scored.append((score,u))
+    scored.sort(key=lambda x:x[0], reverse=True)
+    return [u for _,u in scored]
+
 def has_alpha(im: Image.Image) -> tuple[bool,float]:
     rgba=im.convert("RGBA")
     hist=rgba.getchannel("A").histogram(); total=max(1,sum(hist))
@@ -281,6 +334,16 @@ def main() -> int:
             if u not in source_urls: source_urls.append(u)
         if discovered and resolution!="KNOWN_OVERRIDE": resolution="DISCOVERED"
         elif discovered: resolution="KNOWN_OVERRIDE+DISCOVERED"
+
+        # V3: only reached for the few skins not indexed by GGSTAND and not
+        # covered by direct overrides. Fandom file URLs still pass through the
+        # normal image/alpha validator below.
+        if not source_urls:
+            fandom_urls = fandom_image_candidates(session, item)
+            for u in fandom_urls:
+                if u not in source_urls: source_urls.append(u)
+            if fandom_urls:
+                resolution = "FANDOM_FALLBACK"
 
         if not source_urls:
             note=f"No image URL found for target {target}"
