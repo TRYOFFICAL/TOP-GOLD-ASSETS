@@ -1,0 +1,225 @@
+[
+  {
+    "index": 1,
+    "skin_name": "STATTRACK* AKR \"Carbon\"",
+    "canonical_name": "AKR \"Carbon\"",
+    "output_base": "akr_carbon",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/akr_carbon.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/168807890671c53751ccfc5fc3959e8e1c61046a63.png"
+    ]
+  },
+  {
+    "index": 2,
+    "skin_name": "STATTRACK* G22 \"White Carbon\"",
+    "canonical_name": "G22 \"White Carbon\"",
+    "output_base": "g22_white_carbon",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/g22_white_carbon.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/16897697237f96aa29394807dd7b573db9dd43fbdf.png"
+    ]
+  },
+  {
+    "index": 3,
+    "skin_name": "STATTRACK* MP5 \"Project Z9\"",
+    "canonical_name": "MP5 \"Project Z9\"",
+    "output_base": "mp5_project_z9",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/mp5_project_z9.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/168812942670eabfa6bca29a1f60f4e8098ee3c6dc.png"
+    ]
+  },
+  {
+    "index": 4,
+    "skin_name": "STATTRACK* G22 \"Haunt\"",
+    "canonical_name": "G22 \"Haunt\"",
+    "output_base": "g22_haunt",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/g22_haunt.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/1698486265c1380646ffb651c974238f20293a35fe.png"
+    ]
+  },
+  {
+    "index": 5,
+    "skin_name": "STATTRACK* M4 \"Night Wolf\"",
+    "canonical_name": "M4 \"Night Wolf\"",
+    "output_base": "m4_night_wolf",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/m4_night_wolf.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/168812768237421987d8b59c6d115468e2a6f87dd5.png"
+    ]
+  },
+  {
+    "index": 6,
+    "skin_name": "STATTRACK* M4 \"Ironclad\"",
+    "canonical_name": "M4 \"Ironclad\"",
+    "output_base": "m4_ironclad",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/m4_ironclad.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/1725201635f760f28c3684c3181a44d3c221e9c1d4.png"
+    ]
+  },
+  {
+    "index": 7,
+    "skin_name": "STATTRACK* MP7 \"Space Blaster\"",
+    "canonical_name": "MP7 \"Space Blaster\"",
+    "output_base": "mp7_space_blaster",
+    "mode": "ADD_NEW",
+    "old_github_url": "",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/16885080602f2573b135dbf235e94387999719fd96.png"
+    ]
+  },
+  {
+    "index": 8,
+    "skin_name": "STATTRACK* SPAS \"Raider\"",
+    "canonical_name": "SPAS \"Raider\"",
+    "output_base": "spas_raider",
+    "mode": "ADD_NEW",
+    "old_github_url": "",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/1689736132cac8e836971b49b867801792adbe8677.png"
+    ]
+  },
+  {
+    "index": 9,
+    "skin_name": "STATTRACK* M60 \"Grunge\"",
+    "canonical_name": "M60 \"Grunge\"",
+    "output_base": "m60_grunge",
+    "mode": "ADD_NEW",
+    "old_github_url": "",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/1688128337708747050dce60958703b10a8c025772.png"
+    ]
+  },
+  {
+    "index": 10,
+    "skin_name": "STATTRACK* G22 \"Flor de Muertos\"",
+    "canonical_name": "G22 \"Flor de Muertos\"",
+    "output_base": "g22_flor_de_muertos",
+    "mode": "ADD_NEW",
+    "old_github_url": "",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/1761659259c8420d10583ba367d7e56450c8986ad7.png"
+    ]
+  },
+  {
+    "index": 11,
+    "skin_name": "M4A1 \"Ferocity\"",
+    "canonical_name": "M4A1 \"Ferocity\"",
+    "output_base": "m4a1_ferocity",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/m4a1_ferocity.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/171043518908c69a9e6e0d72ed1b3278a42d7f5451.png"
+    ]
+  },
+  {
+    "index": 12,
+    "skin_name": "M4A1 \"Kitsune\"",
+    "canonical_name": "M4A1 \"Kitsune\"",
+    "output_base": "m4a1_kitsune",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/m4a1_kitsune.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/1688127805c5d0e2325786e6ab9893b474ccad8701.png"
+    ]
+  },
+  {
+    "index": 13,
+    "skin_name": "AKR \"Night Fury\"",
+    "canonical_name": "AKR \"Night Fury\"",
+    "output_base": "akr_night_fury",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/akr_night_fury.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/16896920994db4473996d7f52e49b62c6a776f7147.png"
+    ]
+  },
+  {
+    "index": 14,
+    "skin_name": "AKR \"Dragon\"",
+    "canonical_name": "AKR \"Dragon\"",
+    "output_base": "akr_dragon",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/akr_dragon.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/168807893941fcc53f435789d8ac9e6d2cdb8d70e3.png"
+    ]
+  },
+  {
+    "index": 15,
+    "skin_name": "AWM \"Genesis\"",
+    "canonical_name": "AWM \"Genesis\"",
+    "output_base": "awm_genesis",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/awm_genesis.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/1688080339e2c18d28d53e59f4b350858b4e522a7c.png"
+    ]
+  },
+  {
+    "index": 16,
+    "skin_name": "Desert Eagle \"Razorwire\"",
+    "canonical_name": "Desert Eagle \"Razorwire\"",
+    "output_base": "desert_eagle_razorwire",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/desert_eagle_razorwire.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/1775564698b9ff57f40572f172fef6e16d321d6747.png"
+    ]
+  },
+  {
+    "index": 17,
+    "skin_name": "Butterfly \"Black Widow\"",
+    "canonical_name": "Butterfly \"Black Widow\"",
+    "output_base": "butterfly_black_widow",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/butterfly_black_widow.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/17712747544ecfc1db0dc45a283f5468fdf5ea7982.png"
+    ]
+  },
+  {
+    "index": 18,
+    "skin_name": "Karambit \"Claw\"",
+    "canonical_name": "Karambit \"Claw\"",
+    "output_base": "karambit_claw",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/karambit_claw.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/168969118718545375e2a0390efbea504bddcde8d3.png",
+      "https://ggstandoff.pro/public/storage/items/168969118718545375e2a0390efbea504bddcde8d3.png"
+    ]
+  },
+  {
+    "index": 19,
+    "skin_name": "Karambit \"Scratch\"",
+    "canonical_name": "Karambit \"Scratch\"",
+    "output_base": "karambit_scratch",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/karambit_scratch.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/16896911835da99ce1f62caee83d3971038f44d726.png",
+      "https://ggstandoff.pro/public/storage/items/16896911835da99ce1f62caee83d3971038f44d726.png"
+    ]
+  },
+  {
+    "index": 20,
+    "skin_name": "Butterfly \"Legacy\"",
+    "canonical_name": "Butterfly \"Legacy\"",
+    "output_base": "butterfly_legacy",
+    "mode": "REPLACE_EXISTING",
+    "old_github_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/butterfly_legacy.webp",
+    "source_urls": [
+      "https://ggstand.com/public/storage/items/16896904248ad56dff1a99466a6ed62aa59ca3639b.png",
+      "https://ggstandoff.pro/public/storage/items/16896904248ad56dff1a99466a6ed62aa59ca3639b.png"
+    ]
+  }
+]
