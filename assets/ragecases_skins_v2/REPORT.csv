@@ -96,7 +96,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 95,"M9 Bayonet ""Ancient""",REPLACE_EXISTING,SKIPPED_VALID,m9_bayonet_ancient.webp,14592,,,alpha=89.9269%
 96,"M9 Bayonet ""Dragon Glass""",REPLACE_EXISTING,SKIPPED_VALID,m9_bayonet_dragon_glass.webp,14904,,,alpha=89.9284%
 97,"M9 Bayonet ""Universe""",REPLACE_EXISTING,SKIPPED_VALID,m9_bayonet_universe.webp,13728,,,alpha=89.9284%
-98,"MAC10 ""Arcane Surge""",ADD_NEW,OK_KNOWN_OVERRIDE,mac10_arcane_surge.webp,14810,https://skins4fps.com/images/standoff/mac10-arcane-surge.png,,source=PNG; alpha=84.5818%
+98,"MAC10 ""Arcane Surge""",ADD_NEW,SKIPPED_VALID,mac10_arcane_surge.webp,14810,,,alpha=84.5818%
 99,"MAC10 ""Arid""",ADD_NEW,SKIPPED_VALID,mac10_arid.webp,22632,,,alpha=93.8316%
 100,"MAC10 ""Corrode""",ADD_NEW,SKIPPED_VALID,mac10_corrode.webp,23614,,,alpha=93.5287%
 101,"MP5 ""Arcane Surge""",ADD_NEW,SKIPPED_VALID,mp5_arcane_surge.webp,22424,,,alpha=78.8750%
@@ -129,7 +129,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 128,"Scorpion ""Ahau""",ADD_NEW,SKIPPED_VALID,scorpion_ahau.webp,16926,,,alpha=83.9554%
 129,"Scorpion ""Howling Ghost""",ADD_NEW,SKIPPED_VALID,scorpion_howling_ghost.webp,18712,,,alpha=83.8737%
 130,"Sticker ""Sandstone""",ADD_NEW,SKIPPED_VALID,sticker_sandstone.webp,33374,,,alpha=86.1328%
-131,"Sting ""Arcane Surge""",ADD_NEW,OK_KNOWN_OVERRIDE,sting_arcane_surge.webp,22032,https://skins4fps.com/images/standoff/sting-arcane-surge.png,,source=PNG; alpha=89.5164%
+131,"Sting ""Arcane Surge""",ADD_NEW,SKIPPED_VALID,sting_arcane_surge.webp,22032,,,alpha=89.5164%
 132,"TEC-9 ""Fable""",ADD_NEW,SKIPPED_VALID,tec_9_fable.webp,27034,,,alpha=87.8792%
 133,"TEC-9 ""Restless""",ADD_NEW,SKIPPED_VALID,tec_9_restless.webp,25476,,,alpha=92.2371%
 134,"TEC-9 ""Splash""",ADD_NEW,SKIPPED_VALID,tec_9_splash.webp,21142,,,alpha=91.7458%
@@ -138,7 +138,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 137,"UMP45 ""Cyberpunk""",ADD_NEW,SKIPPED_VALID,ump45_cyberpunk.webp,38586,,,alpha=85.6232%
 138,"UMP45 ""Leviathan""",ADD_NEW,SKIPPED_VALID,ump45_leviathan.webp,18364,,,alpha=81.1783%
 139,"UMP45 ""Luminous""",ADD_NEW,SKIPPED_VALID,ump45_luminous.webp,45240,,,alpha=88.7512%
-140,"USP ""2 Years""",REPLACE_EXISTING,OK_KNOWN_OVERRIDE,usp_2_years.webp,43410,https://skins4fps.com/images/standoff/usp-2-years.png,,source=PNG; alpha=79.1725%
+140,"USP ""2 Years""",REPLACE_EXISTING,SKIPPED_VALID,usp_2_years.webp,43410,,,alpha=79.1725%
 141,"USP ""Corrode""",ADD_NEW,SKIPPED_VALID,usp_corrode.webp,28932,,,alpha=90.8051%
 142,"USP ""Digital Burst""",REPLACE_EXISTING,SKIPPED_VALID,usp_digital_burst.webp,31186,,,alpha=88.1310%
 143,"USP ""Griffin""",ADD_NEW,SKIPPED_VALID,usp_griffin.webp,32074,,,alpha=86.9804%

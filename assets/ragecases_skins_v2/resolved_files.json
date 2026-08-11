@@ -2218,11 +2218,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://skins4fps.com/images/standoff/mac10-arcane-surge.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mac10_arcane_surge.webp",
     "alpha_ratio": 0.8458175659179688,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 99,
@@ -2956,11 +2956,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://skins4fps.com/images/standoff/sting-arcane-surge.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sting_arcane_surge.webp",
     "alpha_ratio": 0.8951644897460938,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 132,
@@ -3160,11 +3160,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://skins4fps.com/images/standoff/usp-2-years.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_2_years.webp",
     "alpha_ratio": 0.7917251586914062,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 141,
