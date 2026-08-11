@@ -1,0 +1,58 @@
+name: RAGECASES Fetch ALL 146 Skins V2
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_redownload:
+        description: 'Force re-download files already present in V2 folder'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-all-skins:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_REDOWNLOAD: ${{ inputs.force_redownload }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install downloader dependencies
+        run: python -m pip install --disable-pip-version-check requests pillow beautifulsoup4
+
+      - name: Resolve, download and validate all RAGECASES skins
+        id: fetch
+        continue-on-error: true
+        run: python tools/ragecases_fetch_all.py
+
+      - name: Commit V2 images, report and generated map
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/ragecases_skins_v2
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "RAGECASES: refresh full V2 skin library"
+            git push
+          fi
+
+      - name: Final result
+        if: always()
+        run: |
+          if [ -f assets/ragecases_skins_v2/READY_TO_SWITCH.txt ]; then
+            echo "ALL RAGECASES SKINS V2 ARE READY"
+            exit 0
+          fi
+          echo "Some skins still need a source. Open assets/ragecases_skins_v2/REPORT.csv and FAILED_ITEMS.json."
+          exit 1
