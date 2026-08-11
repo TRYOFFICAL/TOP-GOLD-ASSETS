@@ -17,11 +17,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688078575cb9e17c192d17c307406386961add934.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_2_years_red.webp",
     "alpha_ratio": 0.8829116821289062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 2,
@@ -39,11 +39,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1775564099ac44eb2adfc51023b9393bbd2f3a8e9f.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_arctic_camo.webp",
     "alpha_ratio": 0.8226165771484375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 3,
@@ -65,11 +65,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168807890671c53751ccfc5fc3959e8e1c61046a63.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_carbon.webp",
     "alpha_ratio": 0.8502044677734375,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 4,
@@ -87,11 +87,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16897045977e2594497532ac8bbcfc9681b7c27701.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_digital_burst.webp",
     "alpha_ratio": 0.9091262817382812,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 5,
@@ -111,11 +111,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168807893941fcc53f435789d8ac9e6d2cdb8d70e3.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_dragon.webp",
     "alpha_ratio": 0.8473892211914062,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 6,
@@ -135,11 +135,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688078975197f7250ef9b01b9cce3b9bbb69daa9b.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_fabric_storm.webp",
     "alpha_ratio": 0.8604354858398438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 7,
@@ -159,11 +159,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1742828218599ef842914ae3f1c54464451d437367.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_genesis.webp",
     "alpha_ratio": 0.8254852294921875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 8,
@@ -181,11 +181,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1693405187359b626835c9112bdd7873fab04b84b1.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_mirage_menace.webp",
     "alpha_ratio": 0.9174118041992188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 9,
@@ -205,11 +205,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16896920994db4473996d7f52e49b62c6a776f7147.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_night_fury.webp",
     "alpha_ratio": 0.893951416015625,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 10,
@@ -227,11 +227,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16896920998068ba9f4f2216ad5edc47641853b2ce.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_scylla.webp",
     "alpha_ratio": 0.893951416015625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 11,
@@ -249,11 +249,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1766142321943e9c0dcbf9785d7b795e68a85e095d.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_sketch.webp",
     "alpha_ratio": 0.8237533569335938,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 12,
@@ -273,11 +273,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688079164d7564911bc4d864b3347618feaeb26cc.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_sport.webp",
     "alpha_ratio": 0.8534622192382812,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 13,
@@ -297,11 +297,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688079225f9b7ff60f158341ebcf26ed53d3d9b66.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_treasure_hunter.webp",
     "alpha_ratio": 0.8497543334960938,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 14,
@@ -319,11 +319,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/177737196222ec63a69a5a338039d3c50cce907a06.png",
-    "source_page": "https://ggstand.com/en/case/akr",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_twilight.webp",
     "alpha_ratio": 0.8246536254882812,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 15,
@@ -341,11 +341,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16880794321f06e2a88983683dc21537c6e28932d0.png",
-    "source_page": "https://ggstand.com/en/case/akr12",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_geometric.webp",
     "alpha_ratio": 0.8576889038085938,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 16,
@@ -363,11 +363,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17586326718052fcc2cef429e679d17786805c272c.png",
-    "source_page": "https://ggstand.com/en/case/akr12",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_kensei.webp",
     "alpha_ratio": 0.7429580688476562,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 17,
@@ -385,11 +385,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16880802900037bc0f17f83d13a3daf4ffbdff9559.png",
-    "source_page": "https://ggstand.com/en/case/awm",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_gear.webp",
     "alpha_ratio": 0.8789749145507812,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 18,
@@ -409,11 +409,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688080339e2c18d28d53e59f4b350858b4e522a7c.png",
-    "source_page": "https://ggstand.com/en/case/awm",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_genesis.webp",
     "alpha_ratio": 0.8858108520507812,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 19,
@@ -431,11 +431,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17709866926d186b31fb1258480445905114743c86.png",
-    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_jade_stone.webp",
     "alpha_ratio": 0.7371749877929688,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 20,
@@ -453,11 +453,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1689944070c4997fb59ed2dd9930620ad07401a8c5.png",
-    "source_page": "https://ggstand.com/en/case/awm",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_nebula.webp",
     "alpha_ratio": 0.9220199584960938,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 21,
@@ -476,11 +476,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168808040452504bda1e3ffa1cbbda2b2b1e2c4705.png",
-    "source_page": "https://ggstand.com/en/case/awm",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_polar_night.webp",
     "alpha_ratio": 0.8773956298828125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 22,
@@ -498,11 +498,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1689692333cb2c5fa86c1726e0cfd7010f52c243cd.png",
-    "source_page": "https://ggstand.com/en/case/awm",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_stickerbomb.webp",
     "alpha_ratio": 0.9089889526367188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 23,
@@ -522,11 +522,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1756134518f218ca750d49dcb9504093e186764a33.png",
-    "source_page": "https://ggstand.com/en/case/aguia-noob",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akimbo_uzi_yokai.webp",
     "alpha_ratio": 0.814178466796875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 24,
@@ -545,11 +545,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1756134533dbc52bcafebc39ab02378dc77a0178a3.png",
-    "source_page": "https://ggstand.com/en/case/berettas",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/berettas_cascade.webp",
     "alpha_ratio": 0.8318328857421875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 25,
@@ -569,11 +569,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17712747544ecfc1db0dc45a283f5468fdf5ea7982.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/butterfly_black_widow.webp",
     "alpha_ratio": 0.9211196899414062,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 26,
@@ -591,11 +591,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1771274836967e47283139b6ab33cd8c687dceb72e.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/butterfly_dragon_glass.webp",
     "alpha_ratio": 0.9211196899414062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 27,
@@ -613,11 +613,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17712374635053b9592564d243615c4411e94bb4d5.png",
-    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/butterfly_jade_stone.webp",
     "alpha_ratio": 0.919525146484375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 28,
@@ -637,11 +637,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16896904248ad56dff1a99466a6ed62aa59ca3639b.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/butterfly_legacy.webp",
     "alpha_ratio": 0.96185302734375,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 29,
@@ -659,11 +659,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16880806961e7419157bd7b862885cfc13bb394818.png",
-    "source_page": "https://ggstand.com/en/case/deagle",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_dragon_glass.webp",
     "alpha_ratio": 0.8340911865234375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 30,
@@ -681,11 +681,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/174282806429d307817c36e6656997ad695365e482.png",
-    "source_page": "https://ggstand.com/en/case/deagle",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_eclipse.webp",
     "alpha_ratio": 0.7847442626953125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 31,
@@ -703,11 +703,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16897047008d0a43313af5b5859faf1a2098401161.png",
-    "source_page": "https://ggstand.com/en/case/deagle",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_infection.webp",
     "alpha_ratio": 0.7934417724609375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 32,
@@ -725,11 +725,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1771237648dacfb337d117376df98832f740162087.png",
-    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_jade_stone.webp",
     "alpha_ratio": 0.7899551391601562,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 33,
@@ -749,11 +749,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688080714f9d0093bfa8cf8a2803a336759e7efaf.png",
-    "source_page": "https://ggstand.com/en/case/deagle",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_morgan.webp",
     "alpha_ratio": 0.9025650024414062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 34,
@@ -773,11 +773,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1775564698b9ff57f40572f172fef6e16d321d6747.png",
-    "source_page": "https://ggstand.com/en/case/deagle",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_razorwire.webp",
     "alpha_ratio": 0.7907333374023438,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 35,
@@ -795,11 +795,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688080812f1d4fa2d1f5569d8a6effa52f46cbb2f.png",
-    "source_page": "https://ggstand.com/en/case/deagle",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_red_dragon.webp",
     "alpha_ratio": 0.7873916625976562,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 36,
@@ -817,11 +817,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688405645e379f2464e11db2c54cd8817c98242e8.png",
-    "source_page": "https://ggstand.com/en/case/deagle",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_venator.webp",
     "alpha_ratio": 0.8819351196289062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 37,
@@ -839,11 +839,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1710439666fc669ef3147a4f7ca78f2965708ae93b.png",
-    "source_page": "https://ggstand.com/en/case/deagle",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_violet_flame.webp",
     "alpha_ratio": 0.8934402465820312,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 38,
@@ -863,11 +863,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168808102501b30a819b61514b8a3786fd7ef5b027.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_yakuza.webp",
     "alpha_ratio": 0.8753509521484375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 39,
@@ -885,11 +885,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/177929264814d16061bc05122363c4daa4374e3f6f.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/dual_daggers_demonic_steel.webp",
     "alpha_ratio": 0.8395004272460938,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 40,
@@ -907,11 +907,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1704636638390fe6c88f39237e7278ee4fc03dc535.png",
-    "source_page": "https://ggstand.com/en/case/f-s",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_hellspawn.webp",
     "alpha_ratio": 0.9123458862304688,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 41,
@@ -929,11 +929,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1689692510785f67a70b1a86267991a1d79c02e050.png",
-    "source_page": "https://ggstand.com/en/case/f-s",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_octopus.webp",
     "alpha_ratio": 0.8844528198242188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 42,
@@ -951,11 +951,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16880819372432b3b57a68aa04249782481186d484.png",
-    "source_page": "https://ggstand.com/en/case/f-s",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_rush.webp",
     "alpha_ratio": 0.8158721923828125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 43,
@@ -973,11 +973,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17104380845ecbdfc0e1ec6c6587b3e62ba4ba707d.png",
-    "source_page": "https://ggstand.com/en/case/f-s",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_toxic.webp",
     "alpha_ratio": 0.9367523193359375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 44,
@@ -995,11 +995,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/175164591544ab3ae6906c4c136026f4e550d46a28.png",
-    "source_page": "https://ggstand.com/en/case/f-s",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_vines.webp",
     "alpha_ratio": 0.8040390014648438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 45,
@@ -1019,11 +1019,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688081467ff8190000b8c76389c8acd4e012e162f.png",
-    "source_page": "https://ggstand.com/en/case/famas",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/famas_fury.webp",
     "alpha_ratio": 0.8393402099609375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 46,
@@ -1041,11 +1041,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168985694794cba744271ba1b55cfd679a8b26f06d.png",
-    "source_page": "https://ggstand.com/en/case/famas",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/famas_handcraft.webp",
     "alpha_ratio": 0.9107131958007812,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 47,
@@ -1063,11 +1063,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/176165960312b9d407a411a7e33efe6c129bcd152f.png",
-    "source_page": "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/famas_raider.webp",
     "alpha_ratio": 0.7767105102539062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 48,
@@ -1085,11 +1085,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1749648401497b815abc0b11c40211e9e46550d2e9.png",
-    "source_page": "https://ggstand.com/en/case/famas",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/famas_ritual.webp",
     "alpha_ratio": 0.7760543823242188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 49,
@@ -1107,11 +1107,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17301963445d149978c4effc8195cb1a07fc277c3c.png",
-    "source_page": "https://ggstand.com/en/case/fn-fal",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_astral_rift.webp",
     "alpha_ratio": 0.9441757202148438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 50,
@@ -1131,11 +1131,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168808165720a3f88e15139bcba96640387d2a99c5.png",
-    "source_page": "https://ggstand.com/en/case/fn-fal",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_phoenix_risen.webp",
     "alpha_ratio": 0.8714370727539062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 51,
@@ -1154,11 +1154,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/175164590114f6bd9c2f0a83262d50b485f98517af.png",
-    "source_page": "https://ggstand.com/en/case/fn-fal",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_splash.webp",
     "alpha_ratio": 0.8209991455078125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 52,
@@ -1178,11 +1178,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/177928738935bdf32912c19558ab7f12ce4c4914f0.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fang_aureate.webp",
     "alpha_ratio": 0.9005661010742188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 53,
@@ -1200,11 +1200,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17792875925ce37d7151e102ea5622f08c6bd2207d.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fang_flare.webp",
     "alpha_ratio": 0.9008865356445312,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 54,
@@ -1223,11 +1223,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1761659259c8420d10583ba367d7e56450c8986ad7.png",
-    "source_page": "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_flor_de_muertos.webp",
     "alpha_ratio": 0.821990966796875,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 55,
@@ -1248,11 +1248,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168812727366c0bfbb64ce827c64bd86d937f50fe8.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_frost_wyrm.webp",
     "alpha_ratio": 0.8213348388671875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 56,
@@ -1272,11 +1272,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1698486265c1380646ffb651c974238f20293a35fe.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_haunt.webp",
     "alpha_ratio": 0.906036376953125,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 57,
@@ -1294,11 +1294,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16884057250efb279aa96c6aa61745113a1d542842.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_lion_lord.webp",
     "alpha_ratio": 0.9168014526367188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 58,
@@ -1316,11 +1316,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688127267f41b83f890ba35a76c6e3098ac52bba8.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_monster.webp",
     "alpha_ratio": 0.8342971801757812,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 60,
@@ -1338,11 +1338,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/176614233617bbc6ddc5899942547fc9756dc6a8c6.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_twilight.webp",
     "alpha_ratio": 0.8219146728515625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 61,
@@ -1363,11 +1363,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16897697237f96aa29394807dd7b573db9dd43fbdf.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_white_carbon.webp",
     "alpha_ratio": 0.8329849243164062,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 62,
@@ -1387,11 +1387,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168969118718545375e2a0390efbea504bddcde8d3.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/karambit_claw.webp",
     "alpha_ratio": 0.8979034423828125,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 63,
@@ -1409,11 +1409,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/177127509808681759ea4ecc2849062ee769e66a1b.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/karambit_nebula.webp",
     "alpha_ratio": 0.8788070678710938,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 64,
@@ -1433,11 +1433,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1771275105b4e8c56340a6ee7a344c613f0449d4d4.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/karambit_pelagia.webp",
     "alpha_ratio": 0.8765411376953125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 65,
@@ -1457,11 +1457,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16896911835da99ce1f62caee83d3971038f44d726.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/karambit_scratch.webp",
     "alpha_ratio": 0.8979034423828125,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 66,
@@ -1481,11 +1481,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1771274974d6441c49de96cd2cb77ec658385ed374.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/karambit_universe.webp",
     "alpha_ratio": 0.8771133422851562,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 67,
@@ -1503,11 +1503,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1756135016542a8eb6533674244d9027686285ad3f.png",
-    "source_page": "https://ggstand.com/en/case/syndicate-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/kukri_cascade.webp",
     "alpha_ratio": 0.8794784545898438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 68,
@@ -1525,11 +1525,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17792928501e09e797f2b0aef9d2cf93c41f94cc43.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/kukri_prophet.webp",
     "alpha_ratio": 0.879364013671875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 69,
@@ -1547,11 +1547,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16896914156eac09bfdb4fcd756faeb53c4c0c40e3.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/kunai_poison.webp",
     "alpha_ratio": 0.90289306640625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 70,
@@ -1569,11 +1569,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/170318837427e33360c0438b3a870762a09dd00675.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m16_bigfoot.webp",
     "alpha_ratio": 0.9193267822265625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 71,
@@ -1592,11 +1592,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1689692917447ce59fab44f431a6f8ca371e4dc6d0.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m16_muraena.webp",
     "alpha_ratio": 0.8871002197265625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 72,
@@ -1614,11 +1614,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/176582924447ca24c920405df4aa51312d2643ed03.webp",
-    "source_page": "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m16_naga.webp",
     "alpha_ratio": 0.8538970947265625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 73,
@@ -1637,11 +1637,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17191365631f3d44d94d19ac0bd5f9a4fd5d63708a.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m16_sea_glint.webp",
     "alpha_ratio": 0.8847503662109375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 74,
@@ -1661,11 +1661,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688127693fc070f2046cd4c976693c9e020317d03.png",
-    "source_page": "https://ggstand.com/en/case/sttrack",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_demon.webp",
     "alpha_ratio": 0.836669921875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 75,
@@ -1683,11 +1683,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/174489521467470ef1203c5216b9880b3df32f1109.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_flex.webp",
     "alpha_ratio": 0.8028488159179688,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 76,
@@ -1707,11 +1707,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1725201635f760f28c3684c3181a44d3c221e9c1d4.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_ironclad.webp",
     "alpha_ratio": 0.8662643432617188,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 77,
@@ -1729,11 +1729,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17353939386407183854d5dd34be3a76c414f40240.png",
-    "source_page": "https://ggstand.com/en/case/sttrack",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_kachi.webp",
     "alpha_ratio": 0.8030929565429688,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 78,
@@ -1753,11 +1753,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688127688433d109abf26ec56b7d342c2cbdc1561.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_lizard.webp",
     "alpha_ratio": 0.8433609008789062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 79,
@@ -1777,11 +1777,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168812768237421987d8b59c6d115468e2a6f87dd5.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_night_wolf.webp",
     "alpha_ratio": 0.8307113647460938,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 80,
@@ -1799,11 +1799,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688127677203f4c7bca7a6304ee703f69c5bb28f1.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_pro.webp",
     "alpha_ratio": 0.8512039184570312,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 81,
@@ -1823,11 +1823,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16879772784565a7903992d248cb2bfc8fb85e7e22.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_pixel_storm.webp",
     "alpha_ratio": 0.8402481079101562,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 82,
@@ -1847,11 +1847,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688127666bee9cd4ad5288a4fac522769b9c67d0d.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_samurai.webp",
     "alpha_ratio": 0.8464889526367188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 83,
@@ -1869,11 +1869,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168971412310e6d06c2eb733dc951fd6c770ec15e4.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m40_arctic.webp",
     "alpha_ratio": 0.923919677734375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 84,
@@ -1893,11 +1893,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1766142445dfb88374a8a52d0ac08a3d8981aea4ac.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m40_auric_bloom.webp",
     "alpha_ratio": 0.77294921875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 85,
@@ -1918,11 +1918,11 @@
       "Legendary",
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16881278092f7316d7e2498d08fc2b98bd44f3a2e6.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_bubblegum.webp",
     "alpha_ratio": 0.8772201538085938,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 86,
@@ -1942,11 +1942,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/171043518908c69a9e6e0d72ed1b3278a42d7f5451.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_ferocity.webp",
     "alpha_ratio": 0.917266845703125,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 87,
@@ -1964,11 +1964,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1771237729f0acd7cb72d8852f0aeb5b8fcaa4d8ea.png",
-    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_jade_stone.webp",
     "alpha_ratio": 0.8179779052734375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 88,
@@ -1988,11 +1988,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688127805c5d0e2325786e6ab9893b474ccad8701.png",
-    "source_page": "https://ggstand.com/en/case/sttrack",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_kitsune.webp",
     "alpha_ratio": 0.8782577514648438,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 89,
@@ -2010,11 +2010,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1689692915e9bdaec352489b00972c0e46b96373d8.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_mermaid.webp",
     "alpha_ratio": 0.9142074584960938,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 90,
@@ -2032,11 +2032,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1693400318cb99bf8725dfdb1090ba4d9f9bd783c4.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_serpent.webp",
     "alpha_ratio": 0.9343032836914062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 91,
@@ -2056,11 +2056,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1735487209ba48113a0f04ebe80a99555a3f7fd0ec.png",
-    "source_page": "https://ggstand.com/en/case/sttrack",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_sparkling_gaze.webp",
     "alpha_ratio": 0.8196640014648438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 92,
@@ -2080,11 +2080,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1766142340275bd7b8ffd4382916acea72fe95e3e7.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_treasure_hunter.webp",
     "alpha_ratio": 0.817718505859375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 93,
@@ -2102,11 +2102,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688128337708747050dce60958703b10a8c025772.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m60_grunge.webp",
     "alpha_ratio": 0.8665008544921875,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 94,
@@ -2124,11 +2124,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1689714082483860aeac07a0f2c1d3158578c494a3.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m60_spaceware.webp",
     "alpha_ratio": 0.8257598876953125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 95,
@@ -2148,11 +2148,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1771275296b07475d76fde299bbdede9237829d32e.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m9_bayonet_ancient.webp",
     "alpha_ratio": 0.8992691040039062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 96,
@@ -2172,11 +2172,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17712753152b90602bc403cee4884e66c1efd4e008.png",
-    "source_page": "https://ggstand.com/en/case/origin",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m9_bayonet_dragon_glass.webp",
     "alpha_ratio": 0.8992843627929688,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 97,
@@ -2196,11 +2196,33 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1771275336cc90feaea01061b9204f5a412ad169fd.png",
-    "source_page": "https://ggstand.com/en/case/origin",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m9_bayonet_universe.webp",
     "alpha_ratio": 0.8992843627929688,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
+  },
+  {
+    "index": 98,
+    "canonical_name": "MAC10 \"Arcane Surge\"",
+    "target_title": "MAC10 | Arcane Surge",
+    "weapon": "MAC10",
+    "skin": "Arcane Surge",
+    "output_base": "mac10_arcane_surge",
+    "output_file": "mac10_arcane_surge.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* MAC10 \"Arcane Surge\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "source_url": "https://skins4fps.com/images/standoff/mac10-arcane-surge.png",
+    "source_page": "",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mac10_arcane_surge.webp",
+    "alpha_ratio": 0.8458175659179688,
+    "status": "OK_KNOWN_OVERRIDE"
   },
   {
     "index": 99,
@@ -2218,11 +2240,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/169340047331591582e31342e9d349a585df1ebf0c.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mac10_arid.webp",
     "alpha_ratio": 0.9383163452148438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 100,
@@ -2240,11 +2262,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1710434414745846790155f4c8ab6bdb612a2b3b23.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mac10_corrode.webp",
     "alpha_ratio": 0.9352874755859375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 101,
@@ -2262,11 +2284,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17616596438ec88b15bd38af383ff3550420ceb4d5.png",
-    "source_page": "https://ggstand.com/en/case/wild-safari-s-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_arcane_surge.webp",
     "alpha_ratio": 0.7887496948242188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 102,
@@ -2284,11 +2306,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1756134530050508b7c92681cce26165943a52afca.png",
-    "source_page": "https://ggstand.com/en/case/syndicate-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_clouds.webp",
     "alpha_ratio": 0.7891387939453125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 103,
@@ -2306,11 +2328,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/169848822372c671b35c9560058d5f7c02f8a6aff9.png",
-    "source_page": "https://ggstand.com/en/case/subject-x-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_insanity.webp",
     "alpha_ratio": 0.9018325805664062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 104,
@@ -2328,11 +2350,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688129423d17b32cf2218b0b4362b476d53055186.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_northern_fury.webp",
     "alpha_ratio": 0.8454742431640625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 105,
@@ -2350,11 +2372,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1777372075a2bf6e6442a91f37fb1c5e9b6b0f222c.png",
-    "source_page": "https://ggstand.com/en/case/wild-safari-s-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_phantom_form.webp",
     "alpha_ratio": 0.7894134521484375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 106,
@@ -2374,11 +2396,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168812942670eabfa6bca29a1f60f4e8098ee3c6dc.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_project_z9.webp",
     "alpha_ratio": 0.853790283203125,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 107,
@@ -2396,11 +2418,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16885080602f2573b135dbf235e94387999719fd96.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_space_blaster.webp",
     "alpha_ratio": 0.8867568969726562,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 108,
@@ -2420,11 +2442,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168813020905ef29a763c8d7b77d889a99fbdac7bf.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_winter_sport.webp",
     "alpha_ratio": 0.8744735717773438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 109,
@@ -2442,11 +2464,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1742828219365b1145430d01cf3440330d0b63c71c.png",
-    "source_page": "https://ggstand.com/en/case/turbo",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mantis_eclipse.webp",
     "alpha_ratio": 0.8755722045898438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 110,
@@ -2464,11 +2486,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168813246520baaf6465a3a83eac21e0dec67a5f1c.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_autumn.webp",
     "alpha_ratio": 0.8350143432617188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 111,
@@ -2486,11 +2508,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688132469974e5478171fb6540f01492bbaac908f.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_blizzard.webp",
     "alpha_ratio": 0.8580169677734375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 112,
@@ -2508,11 +2530,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17661423176b3def7be71edd59bc872493ac54882c.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_emberbird.webp",
     "alpha_ratio": 0.806396484375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 113,
@@ -2532,11 +2554,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16881324722336deb0c748bd1f2cbb094a7a9ac38b.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_forest_spirit.webp",
     "alpha_ratio": 0.8516998291015625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 114,
@@ -2556,11 +2578,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688132476187da7aec5d8a08e21dadb018a4e6e79.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_neon.webp",
     "alpha_ratio": 0.8412857055664062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 115,
@@ -2578,11 +2600,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1689713926ebd09e7729ca8c8ea483e1527a690eaf.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_raider.webp",
     "alpha_ratio": 0.8123779296875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 116,
@@ -2600,11 +2622,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688132485c0d68473bf8293971b41ae3b197550aa.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_rally.webp",
     "alpha_ratio": 0.79119873046875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 117,
@@ -2624,11 +2646,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16881304374601f35300f664118095eff93f6463e4.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p90_ghoul.webp",
     "alpha_ratio": 0.79351806640625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 118,
@@ -2646,11 +2668,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16899440688b7bb97a032cf4d262090efee24278c0.png",
-    "source_page": "https://ggstand.com/en/case/arcane",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p90_nebula.webp",
     "alpha_ratio": 0.8256378173828125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 119,
@@ -2668,11 +2690,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1770987124496f58d8eff4bc09d39da8cdd404bb7d.png",
-    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/s1_fabm_cloud_lily.webp",
     "alpha_ratio": 0.817230224609375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 120,
@@ -2690,11 +2712,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1777046344e0255b4435fb0b69d9d642a8c8bfa790.webp",
-    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/s2_f_s_burning_mist.webp",
     "alpha_ratio": 0.803619384765625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 121,
@@ -2712,11 +2734,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/177709883413141f7b0fde3251a4b14c1c7fd758b2.webp",
-    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/s3_mallard_ink_wash.webp",
     "alpha_ratio": 0.8037490844726562,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 122,
@@ -2736,11 +2758,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16881329054c64bfb074881d77cb0d95c47e9fe164.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sm1014_pathfinder.webp",
     "alpha_ratio": 0.8973159790039062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 123,
@@ -2758,11 +2780,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17191368577b498c24dbd03a1dc6ec185549079d61.png",
-    "source_page": "https://ggstand.com/en/case/sttrack",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sm1014_triton.webp",
     "alpha_ratio": 0.92291259765625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 124,
@@ -2780,11 +2802,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688132903c5308054441b9d99ae3ee11227c60323.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sm1014_wave.webp",
     "alpha_ratio": 0.8860931396484375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 125,
@@ -2802,11 +2824,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168969295383e8fd56f9afa11b83fafd416a7bbe74.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/spas_octopus.webp",
     "alpha_ratio": 0.9150543212890625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 126,
@@ -2824,11 +2846,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1689736132cac8e836971b49b867801792adbe8677.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/spas_raider.webp",
     "alpha_ratio": 0.9234390258789062,
-    "status": "OK_KNOWN_OVERRIDE+DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 127,
@@ -2846,11 +2868,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168840659077af8abc3e4c1df0c84035e270f65445.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/spas_taint.webp",
     "alpha_ratio": 0.8814544677734375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 128,
@@ -2868,11 +2890,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/177929336461605081d85611d9decedcd670ed904f.png",
-    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/scorpion_ahau.webp",
     "alpha_ratio": 0.8395538330078125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 129,
@@ -2890,11 +2912,11 @@
     "rarities": [
       "Arcane"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1761658329d201832fe153dbbe1d16f2dfc69d0e74.png",
-    "source_page": "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/scorpion_howling_ghost.webp",
     "alpha_ratio": 0.8387374877929688,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 130,
@@ -2912,11 +2934,33 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16884757106868704e119e5ed535d2be7573492677.png",
-    "source_page": "https://ggstand.com/en/case/sandstone",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sticker_sandstone.webp",
     "alpha_ratio": 0.861328125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
+  },
+  {
+    "index": 131,
+    "canonical_name": "Sting \"Arcane Surge\"",
+    "target_title": "Sting | Arcane Surge",
+    "weapon": "Sting",
+    "skin": "Arcane Surge",
+    "output_base": "sting_arcane_surge",
+    "output_file": "sting_arcane_surge.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Sting \"Arcane Surge\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "source_url": "https://skins4fps.com/images/standoff/sting-arcane-surge.png",
+    "source_page": "",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sting_arcane_surge.webp",
+    "alpha_ratio": 0.8951644897460938,
+    "status": "OK_KNOWN_OVERRIDE"
   },
   {
     "index": 132,
@@ -2934,11 +2978,11 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688133134617f7a22866ee64ab0064a6010ba243a.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_fable.webp",
     "alpha_ratio": 0.8787918090820312,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 133,
@@ -2956,11 +3000,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16897361827dc81f522d9a98e4034ad0227c7fe153.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_restless.webp",
     "alpha_ratio": 0.9223709106445312,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 134,
@@ -2979,11 +3023,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168969305582bdff84db2fc363aadcccbcd00cf78c.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_splash.webp",
     "alpha_ratio": 0.9174575805664062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 135,
@@ -3001,11 +3045,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168813314185e541fadad1008d5356c2f5317d1d30.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_splinter_storm.webp",
     "alpha_ratio": 0.9009170532226562,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 136,
@@ -3025,11 +3069,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688133143dd025c7caf8c6ebc095bb743051cc1ac.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_tropic.webp",
     "alpha_ratio": 0.882965087890625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 137,
@@ -3047,11 +3091,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688133511ff311ea508b42c75f0db45b871437eea.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_cyberpunk.webp",
     "alpha_ratio": 0.856231689453125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 138,
@@ -3070,11 +3114,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17616599748e30151b8b23a200c89f0ba3fe3a9544.png",
-    "source_page": "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_leviathan.webp",
     "alpha_ratio": 0.8117828369140625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 139,
@@ -3092,11 +3136,35 @@
     "rarities": [
       "Legendary"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688507818426a26da0c7d1cd469926620a31f1a4c.png",
-    "source_page": "https://ggstand.com/en/case/legendary",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_luminous.webp",
     "alpha_ratio": 0.88751220703125,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
+  },
+  {
+    "index": 140,
+    "canonical_name": "USP \"2 Years\"",
+    "target_title": "USP | 2 Years",
+    "weapon": "USP",
+    "skin": "2 Years",
+    "output_base": "usp_2_years",
+    "output_file": "usp_2_years.webp",
+    "mode": "REPLACE_EXISTING",
+    "old_github_urls": [
+      "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/usp_2_years.webp"
+    ],
+    "appears_as": [
+      "USP \"2 Years\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "source_url": "https://skins4fps.com/images/standoff/usp-2-years.png",
+    "source_page": "",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_2_years.webp",
+    "alpha_ratio": 0.7917251586914062,
+    "status": "OK_KNOWN_OVERRIDE"
   },
   {
     "index": 141,
@@ -3114,11 +3182,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17104344898b411c3b6945755bd09a4aace6481017.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_corrode.webp",
     "alpha_ratio": 0.908050537109375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 142,
@@ -3138,11 +3206,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168850776090fc3f0eb9fb7e9c710c5217e1eae0a4.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_digital_burst.webp",
     "alpha_ratio": 0.8813095092773438,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 143,
@@ -3160,11 +3228,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/16884066886e93f7aadaee99ba4f6d236ae1cdda97.png",
-    "source_page": "https://ggstand.com/en/case/rare",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_griffin.webp",
     "alpha_ratio": 0.8698043823242188,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 144,
@@ -3184,11 +3252,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/168813376263b683ca0c8d739d53e833d5bc6dc219.png",
-    "source_page": "https://ggstand.com/en/case/epic",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_stone_cold.webp",
     "alpha_ratio": 0.8686599731445312,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 145,
@@ -3206,11 +3274,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17773722595179d4b3cedbfdb100477c86840310a3.png",
-    "source_page": "https://ggstand.com/en/case/summer-st-case",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_warden.webp",
     "alpha_ratio": 0.7928924560546875,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 146,
@@ -3228,10 +3296,10 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/176165982289e8453f2f2f581ffe754ce1022fd1fd.png",
-    "source_page": "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/val_rosa_mortal.webp",
     "alpha_ratio": 0.8482437133789062,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   }
 ]
