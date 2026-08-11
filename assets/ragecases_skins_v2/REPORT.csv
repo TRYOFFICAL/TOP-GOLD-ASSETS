@@ -57,7 +57,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 56,"G22 ""Haunt""",REPLACE_EXISTING,SKIPPED_VALID,g22_haunt.webp,25034,,,alpha=90.6036%
 57,"G22 ""Lion Lord""",ADD_NEW,SKIPPED_VALID,g22_lion_lord.webp,22018,,,alpha=91.6801%
 58,"G22 ""Monster""",ADD_NEW,SKIPPED_VALID,g22_monster.webp,43466,,,alpha=83.4297%
-59,"G22 ""Reindeer Sweater""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
+59,"G22 ""Reindeer Sweater""",ADD_NEW,OK_KNOWN_OVERRIDE,g22_reindeer_sweater.webp,21166,https://ggstand.com/public/storage/items/1766142343990c70547a438e4e060e970acf4701e2.png,,source=WEBP; alpha=82.1831%
 60,"G22 ""Twilight""",ADD_NEW,SKIPPED_VALID,g22_twilight.webp,12510,,,alpha=82.1915%
 61,"G22 ""White Carbon""",REPLACE_EXISTING,SKIPPED_VALID,g22_white_carbon.webp,32766,,,alpha=83.2985%
 62,"Karambit ""Claw""",REPLACE_EXISTING,SKIPPED_VALID,karambit_claw.webp,22370,,,alpha=89.7903%
