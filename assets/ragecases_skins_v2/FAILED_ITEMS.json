@@ -16,7 +16,7 @@
       "Epic"
     ],
     "status": "UNRESOLVED",
-    "note": "No exact weapon+skin image URL found for target USP | Warden; removed untrusted cached image after exact-match failure",
+    "note": "No exact weapon+skin image URL found for target USP | Warden",
     "pages_tried": [
       "https://ggstand.com/ru/case/9-years-st",
       "https://ggstand.com/en/case/usp",
@@ -28,7 +28,7 @@
       "https://ggstandoff.plus/en/case/usp"
     ],
     "strict_repair": false,
-    "removed_wrong_cached": true
+    "removed_wrong_cached": false
   },
   {
     "index": 202,
