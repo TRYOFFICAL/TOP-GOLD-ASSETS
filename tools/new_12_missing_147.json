@@ -1,0 +1,2986 @@
+[
+  {
+    "index": 147,
+    "canonical_name": "Akimbo Uzi \"Howling Ghost\"",
+    "target_title": "Akimbo Uzi | Howling Ghost",
+    "weapon": "Akimbo Uzi",
+    "skin": "Howling Ghost",
+    "output_base": "akimbo_uzi_howling_ghost",
+    "output_file": "akimbo_uzi_howling_ghost.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Akimbo Uzi \"Howling Ghost\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 148,
+    "canonical_name": "Akimbo Uzi \"No Escape\"",
+    "target_title": "Akimbo Uzi | No Escape",
+    "weapon": "Akimbo Uzi",
+    "skin": "No Escape",
+    "output_base": "akimbo_uzi_no_escape",
+    "output_file": "akimbo_uzi_no_escape.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* Akimbo Uzi \"No Escape\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 149,
+    "canonical_name": "Akimbo Uzi \"Overdrive Red\"",
+    "target_title": "Akimbo Uzi | Overdrive Red",
+    "weapon": "Akimbo Uzi",
+    "skin": "Overdrive Red",
+    "output_base": "akimbo_uzi_overdrive_red",
+    "output_file": "akimbo_uzi_overdrive_red.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Akimbo Uzi \"Overdrive Red\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street",
+      "camo"
+    ]
+  },
+  {
+    "index": 150,
+    "canonical_name": "Akimbo Uzi \"Spray\"",
+    "target_title": "Akimbo Uzi | Spray",
+    "weapon": "Akimbo Uzi",
+    "skin": "Spray",
+    "output_base": "akimbo_uzi_spray",
+    "output_file": "akimbo_uzi_spray.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Akimbo Uzi \"Spray\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 151,
+    "canonical_name": "AKR12 \"4 Years\"",
+    "target_title": "AKR12 | 4 Years",
+    "weapon": "AKR12",
+    "skin": "4 Years",
+    "output_base": "akr12_4_years",
+    "output_file": "akr12_4_years.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR12 \"4 Years\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 152,
+    "canonical_name": "AKR12 \"Armored\"",
+    "target_title": "AKR12 | Armored",
+    "weapon": "AKR12",
+    "skin": "Armored",
+    "output_base": "akr12_armored",
+    "output_file": "akr12_armored.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR12 \"Armored\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 153,
+    "canonical_name": "AKR12 \"Ashbringer\"",
+    "target_title": "AKR12 | Ashbringer",
+    "weapon": "AKR12",
+    "skin": "Ashbringer",
+    "output_base": "akr12_ashbringer",
+    "output_file": "akr12_ashbringer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR12 \"Ashbringer\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 154,
+    "canonical_name": "AKR12 \"Carbon\"",
+    "target_title": "AKR12 | Carbon",
+    "weapon": "AKR12",
+    "skin": "Carbon",
+    "output_base": "akr12_carbon",
+    "output_file": "akr12_carbon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR12 \"Carbon\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 155,
+    "canonical_name": "AKR12 \"Carving\"",
+    "target_title": "AKR12 | Carving",
+    "weapon": "AKR12",
+    "skin": "Carving",
+    "output_base": "akr12_carving",
+    "output_file": "akr12_carving.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR12 \"Carving\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 156,
+    "canonical_name": "AKR12 \"Emberbird\"",
+    "target_title": "AKR12 | Emberbird",
+    "weapon": "AKR12",
+    "skin": "Emberbird",
+    "output_base": "akr12_emberbird",
+    "output_file": "akr12_emberbird.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR12 \"Emberbird\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ]
+  },
+  {
+    "index": 157,
+    "canonical_name": "AKR12 \"Transistor\"",
+    "target_title": "AKR12 | Transistor",
+    "weapon": "AKR12",
+    "skin": "Transistor",
+    "output_base": "akr12_transistor",
+    "output_file": "akr12_transistor.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR12 \"Transistor\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 158,
+    "canonical_name": "AKR \"Evolution\"",
+    "target_title": "AKR | Evolution",
+    "weapon": "AKR",
+    "skin": "Evolution",
+    "output_base": "akr_evolution",
+    "output_file": "akr_evolution.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR \"Evolution\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 159,
+    "canonical_name": "AKR \"Nano\"",
+    "target_title": "AKR | Nano",
+    "weapon": "AKR",
+    "skin": "Nano",
+    "output_base": "akr_nano",
+    "output_file": "akr_nano.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR \"Nano\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 160,
+    "canonical_name": "AKR \"Tag King\"",
+    "target_title": "AKR | Tag King",
+    "weapon": "AKR",
+    "skin": "Tag King",
+    "output_base": "akr_tag_king",
+    "output_file": "akr_tag_king.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR \"Tag King\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ]
+  },
+  {
+    "index": 161,
+    "canonical_name": "AKR \"Worm\"",
+    "target_title": "AKR | Worm",
+    "weapon": "AKR",
+    "skin": "Worm",
+    "output_base": "akr_worm",
+    "output_file": "akr_worm.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR \"Worm\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ]
+  },
+  {
+    "index": 162,
+    "canonical_name": "AWM \"Dark Camo\"",
+    "target_title": "AWM | Dark Camo",
+    "weapon": "AWM",
+    "skin": "Dark Camo",
+    "output_base": "awm_dark_camo",
+    "output_file": "awm_dark_camo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AWM \"Dark Camo\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 163,
+    "canonical_name": "AWM \"Poseidon\"",
+    "target_title": "AWM | Poseidon",
+    "weapon": "AWM",
+    "skin": "Poseidon",
+    "output_base": "awm_poseidon",
+    "output_file": "awm_poseidon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AWM \"Poseidon\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 164,
+    "canonical_name": "AWM \"Xenoguard\"",
+    "target_title": "AWM | Xenoguard",
+    "weapon": "AWM",
+    "skin": "Xenoguard",
+    "output_base": "awm_xenoguard",
+    "output_file": "awm_xenoguard.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AWM \"Xenoguard\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 165,
+    "canonical_name": "Berettas \"Arctic Camo\"",
+    "target_title": "Berettas | Arctic Camo",
+    "weapon": "Berettas",
+    "skin": "Arctic Camo",
+    "output_base": "berettas_arctic_camo",
+    "output_file": "berettas_arctic_camo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Arctic Camo\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 166,
+    "canonical_name": "Berettas \"Damascus\"",
+    "target_title": "Berettas | Damascus",
+    "weapon": "Berettas",
+    "skin": "Damascus",
+    "output_base": "berettas_damascus",
+    "output_file": "berettas_damascus.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Damascus\"",
+      "STATTRACK* Berettas \"Damascus\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "rust",
+      "camo"
+    ]
+  },
+  {
+    "index": 167,
+    "canonical_name": "Berettas \"Hexagon\"",
+    "target_title": "Berettas | Hexagon",
+    "weapon": "Berettas",
+    "skin": "Hexagon",
+    "output_base": "berettas_hexagon",
+    "output_file": "berettas_hexagon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Hexagon\"",
+      "STATTRACK* Berettas \"Hexagon\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch",
+      "cyber"
+    ]
+  },
+  {
+    "index": 168,
+    "canonical_name": "Berettas \"Marco\"",
+    "target_title": "Berettas | Marco",
+    "weapon": "Berettas",
+    "skin": "Marco",
+    "output_base": "berettas_marco",
+    "output_file": "berettas_marco.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Marco\"",
+      "STATTRACK* Berettas \"Marco\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "sandstone",
+      "rust"
+    ]
+  },
+  {
+    "index": 169,
+    "canonical_name": "Berettas \"Royal Rose\"",
+    "target_title": "Berettas | Royal Rose",
+    "weapon": "Berettas",
+    "skin": "Royal Rose",
+    "output_base": "berettas_royal_rose",
+    "output_file": "berettas_royal_rose.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Royal Rose\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 170,
+    "canonical_name": "Berettas \"Verdict\"",
+    "target_title": "Berettas | Verdict",
+    "weapon": "Berettas",
+    "skin": "Verdict",
+    "output_base": "berettas_verdict",
+    "output_file": "berettas_verdict.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Verdict\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 171,
+    "canonical_name": "Butterfly \"Glitch\"",
+    "target_title": "Butterfly | Glitch",
+    "weapon": "Butterfly",
+    "skin": "Glitch",
+    "output_base": "butterfly_glitch",
+    "output_file": "butterfly_glitch.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Butterfly \"Glitch\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 172,
+    "canonical_name": "Butterfly \"Kumo\"",
+    "target_title": "Butterfly | Kumo",
+    "weapon": "Butterfly",
+    "skin": "Kumo",
+    "output_base": "butterfly_kumo",
+    "output_file": "butterfly_kumo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Butterfly \"Kumo\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 173,
+    "canonical_name": "Desert Eagle \"Ace\"",
+    "target_title": "Desert Eagle | Ace",
+    "weapon": "Desert Eagle",
+    "skin": "Ace",
+    "output_base": "desert_eagle_ace",
+    "output_file": "desert_eagle_ace.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Ace\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 174,
+    "canonical_name": "Desert Eagle \"Blood\"",
+    "target_title": "Desert Eagle | Blood",
+    "weapon": "Desert Eagle",
+    "skin": "Blood",
+    "output_base": "desert_eagle_blood",
+    "output_file": "desert_eagle_blood.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Blood\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ]
+  },
+  {
+    "index": 175,
+    "canonical_name": "Desert Eagle \"Dust Devil\"",
+    "target_title": "Desert Eagle | Dust Devil",
+    "weapon": "Desert Eagle",
+    "skin": "Dust Devil",
+    "output_base": "desert_eagle_dust_devil",
+    "output_file": "desert_eagle_dust_devil.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* Desert Eagle \"Dust Devil\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 176,
+    "canonical_name": "Desert Eagle \"Gambit\"",
+    "target_title": "Desert Eagle | Gambit",
+    "weapon": "Desert Eagle",
+    "skin": "Gambit",
+    "output_base": "desert_eagle_gambit",
+    "output_file": "desert_eagle_gambit.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Gambit\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 177,
+    "canonical_name": "Desert Eagle \"Glory\"",
+    "target_title": "Desert Eagle | Glory",
+    "weapon": "Desert Eagle",
+    "skin": "Glory",
+    "output_base": "desert_eagle_glory",
+    "output_file": "desert_eagle_glory.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Glory\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 178,
+    "canonical_name": "Desert Eagle \"Orochi\"",
+    "target_title": "Desert Eagle | Orochi",
+    "weapon": "Desert Eagle",
+    "skin": "Orochi",
+    "output_base": "desert_eagle_orochi",
+    "output_file": "desert_eagle_orochi.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Orochi\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 179,
+    "canonical_name": "Desert Eagle \"Wildflower\"",
+    "target_title": "Desert Eagle | Wildflower",
+    "weapon": "Desert Eagle",
+    "skin": "Wildflower",
+    "output_base": "desert_eagle_wildflower",
+    "output_file": "desert_eagle_wildflower.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Wildflower\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 180,
+    "canonical_name": "Dual Daggers \"Jaws\"",
+    "target_title": "Dual Daggers | Jaws",
+    "weapon": "Dual Daggers",
+    "skin": "Jaws",
+    "output_base": "dual_daggers_jaws",
+    "output_file": "dual_daggers_jaws.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Dual Daggers \"Jaws\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 181,
+    "canonical_name": "F/S \"Enforcer\"",
+    "target_title": "F/S | Enforcer",
+    "weapon": "F/S",
+    "skin": "Enforcer",
+    "output_base": "f_s_enforcer",
+    "output_file": "f_s_enforcer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "F/S \"Enforcer\"",
+      "STATTRACK* F/S \"Enforcer\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 182,
+    "canonical_name": "F/S \"Flashing Flame\"",
+    "target_title": "F/S | Flashing Flame",
+    "weapon": "F/S",
+    "skin": "Flashing Flame",
+    "output_base": "f_s_flashing_flame",
+    "output_file": "f_s_flashing_flame.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "F/S \"Flashing Flame\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 183,
+    "canonical_name": "F/S \"Pink Shot\"",
+    "target_title": "F/S | Pink Shot",
+    "weapon": "F/S",
+    "skin": "Pink Shot",
+    "output_base": "f_s_pink_shot",
+    "output_file": "f_s_pink_shot.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* F/S \"Pink Shot\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 184,
+    "canonical_name": "F/S \"Zone\"",
+    "target_title": "F/S | Zone",
+    "weapon": "F/S",
+    "skin": "Zone",
+    "output_base": "f_s_zone",
+    "output_file": "f_s_zone.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* F/S \"Zone\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 185,
+    "canonical_name": "FabM \"BOOM\"",
+    "target_title": "FabM | BOOM",
+    "weapon": "FabM",
+    "skin": "BOOM",
+    "output_base": "fabm_boom",
+    "output_file": "fabm_boom.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"BOOM\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "basic"
+    ]
+  },
+  {
+    "index": 186,
+    "canonical_name": "FabM \"Cranium\"",
+    "target_title": "FabM | Cranium",
+    "weapon": "FabM",
+    "skin": "Cranium",
+    "output_base": "fabm_cranium",
+    "output_file": "fabm_cranium.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Cranium\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 187,
+    "canonical_name": "FabM \"Death Herald\"",
+    "target_title": "FabM | Death Herald",
+    "weapon": "FabM",
+    "skin": "Death Herald",
+    "output_base": "fabm_death_herald",
+    "output_file": "fabm_death_herald.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Death Herald\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "basic"
+    ]
+  },
+  {
+    "index": 188,
+    "canonical_name": "FabM \"Gangster\"",
+    "target_title": "FabM | Gangster",
+    "weapon": "FabM",
+    "skin": "Gangster",
+    "output_base": "fabm_gangster",
+    "output_file": "fabm_gangster.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Gangster\"",
+      "STATTRACK* FabM \"Gangster\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "province"
+    ]
+  },
+  {
+    "index": 189,
+    "canonical_name": "FabM \"Hercules\"",
+    "target_title": "FabM | Hercules",
+    "weapon": "FabM",
+    "skin": "Hercules",
+    "output_base": "fabm_hercules",
+    "output_file": "fabm_hercules.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FabM \"Hercules\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 190,
+    "canonical_name": "FabM \"Mayhem\"",
+    "target_title": "FabM | Mayhem",
+    "weapon": "FabM",
+    "skin": "Mayhem",
+    "output_base": "fabm_mayhem",
+    "output_file": "fabm_mayhem.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Mayhem\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 191,
+    "canonical_name": "FabM \"Streak\"",
+    "target_title": "FabM | Streak",
+    "weapon": "FabM",
+    "skin": "Streak",
+    "output_base": "fabm_streak",
+    "output_file": "fabm_streak.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Streak\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 192,
+    "canonical_name": "FabM \"Thief Of The Christmas\"",
+    "target_title": "FabM | Thief Of The Christmas",
+    "weapon": "FabM",
+    "skin": "Thief Of The Christmas",
+    "output_base": "fabm_thief_of_the_christmas",
+    "output_file": "fabm_thief_of_the_christmas.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Thief Of The Christmas\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "basic"
+    ]
+  },
+  {
+    "index": 193,
+    "canonical_name": "FAMAS \"Beagle\"",
+    "target_title": "FAMAS | Beagle",
+    "weapon": "FAMAS",
+    "skin": "Beagle",
+    "output_base": "famas_beagle",
+    "output_file": "famas_beagle.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FAMAS \"Beagle\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 194,
+    "canonical_name": "FAMAS \"Feral\"",
+    "target_title": "FAMAS | Feral",
+    "weapon": "FAMAS",
+    "skin": "Feral",
+    "output_base": "famas_feral",
+    "output_file": "famas_feral.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FAMAS \"Feral\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 195,
+    "canonical_name": "FAMAS \"Oxide\"",
+    "target_title": "FAMAS | Oxide",
+    "weapon": "FAMAS",
+    "skin": "Oxide",
+    "output_base": "famas_oxide",
+    "output_file": "famas_oxide.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FAMAS \"Oxide\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 196,
+    "canonical_name": "FAMAS \"Spline\"",
+    "target_title": "FAMAS | Spline",
+    "weapon": "FAMAS",
+    "skin": "Spline",
+    "output_base": "famas_spline",
+    "output_file": "famas_spline.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FAMAS \"Spline\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 197,
+    "canonical_name": "FN FAL \"Basilisk\"",
+    "target_title": "FN FAL | Basilisk",
+    "weapon": "FN FAL",
+    "skin": "Basilisk",
+    "output_base": "fn_fal_basilisk",
+    "output_file": "fn_fal_basilisk.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FN FAL \"Basilisk\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ]
+  },
+  {
+    "index": 198,
+    "canonical_name": "FN FAL \"Charred Wood\"",
+    "target_title": "FN FAL | Charred Wood",
+    "weapon": "FN FAL",
+    "skin": "Charred Wood",
+    "output_base": "fn_fal_charred_wood",
+    "output_file": "fn_fal_charred_wood.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FN FAL \"Charred Wood\"",
+      "STATTRACK* FN FAL \"Charred Wood\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "street",
+      "breeze",
+      "default",
+      "basic"
+    ]
+  },
+  {
+    "index": 199,
+    "canonical_name": "FN FAL \"Empyrean\"",
+    "target_title": "FN FAL | Empyrean",
+    "weapon": "FN FAL",
+    "skin": "Empyrean",
+    "output_base": "fn_fal_empyrean",
+    "output_file": "fn_fal_empyrean.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FN FAL \"Empyrean\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ]
+  },
+  {
+    "index": 200,
+    "canonical_name": "FN FAL \"PRO\"",
+    "target_title": "FN FAL | PRO",
+    "weapon": "FN FAL",
+    "skin": "PRO",
+    "output_base": "fn_fal_pro",
+    "output_file": "fn_fal_pro.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FN FAL \"PRO\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default",
+      "camo"
+    ]
+  },
+  {
+    "index": 201,
+    "canonical_name": "FN FAL \"Scaleskitter\"",
+    "target_title": "FN FAL | Scaleskitter",
+    "weapon": "FN FAL",
+    "skin": "Scaleskitter",
+    "output_base": "fn_fal_scaleskitter",
+    "output_file": "fn_fal_scaleskitter.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FN FAL \"Scaleskitter\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ]
+  },
+  {
+    "index": 202,
+    "canonical_name": "G22 \"Adam\"",
+    "target_title": "G22 | Adam",
+    "weapon": "G22",
+    "skin": "Adam",
+    "output_base": "g22_adam",
+    "output_file": "g22_adam.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* G22 \"Adam\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 203,
+    "canonical_name": "G22 \"Casual\"",
+    "target_title": "G22 | Casual",
+    "weapon": "G22",
+    "skin": "Casual",
+    "output_base": "g22_casual",
+    "output_file": "g22_casual.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "G22 \"Casual\"",
+      "STATTRACK* G22 \"Casual\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "glitch",
+      "cyber",
+      "basic"
+    ]
+  },
+  {
+    "index": 204,
+    "canonical_name": "G22 \"Pixel Camouflage\"",
+    "target_title": "G22 | Pixel Camouflage",
+    "weapon": "G22",
+    "skin": "Pixel Camouflage",
+    "output_base": "g22_pixel_camouflage",
+    "output_file": "g22_pixel_camouflage.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "G22 \"Pixel Camouflage\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "low"
+    ]
+  },
+  {
+    "index": 205,
+    "canonical_name": "Graffiti \"Gold Skull\" Packed",
+    "target_title": "Graffiti | Gold Skull Packed",
+    "weapon": "Graffiti",
+    "skin": "Gold Skull Packed",
+    "output_base": "graffiti_gold_skull_packed",
+    "output_file": "graffiti_gold_skull_packed.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Graffiti \"Gold Skull\" Packed"
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 206,
+    "canonical_name": "jKommando \"Reaper\"",
+    "target_title": "jKommando | Reaper",
+    "weapon": "jKommando",
+    "skin": "Reaper",
+    "output_base": "jkommando_reaper",
+    "output_file": "jkommando_reaper.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "jKommando \"Reaper\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 207,
+    "canonical_name": "Karambit \"Hologram\"",
+    "target_title": "Karambit | Hologram",
+    "weapon": "Karambit",
+    "skin": "Hologram",
+    "output_base": "karambit_hologram",
+    "output_file": "karambit_hologram.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Karambit \"Hologram\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 208,
+    "canonical_name": "Karambit \"Purple Camo\"",
+    "target_title": "Karambit | Purple Camo",
+    "weapon": "Karambit",
+    "skin": "Purple Camo",
+    "output_base": "karambit_purple_camo",
+    "output_file": "karambit_purple_camo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Karambit \"Purple Camo\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 209,
+    "canonical_name": "Kukri \"Divine Power\"",
+    "target_title": "Kukri | Divine Power",
+    "weapon": "Kukri",
+    "skin": "Divine Power",
+    "output_base": "kukri_divine_power",
+    "output_file": "kukri_divine_power.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Kukri \"Divine Power\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 210,
+    "canonical_name": "Kunai \"Glitch\"",
+    "target_title": "Kunai | Glitch",
+    "weapon": "Kunai",
+    "skin": "Glitch",
+    "output_base": "kunai_glitch",
+    "output_file": "kunai_glitch.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Kunai \"Glitch\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 211,
+    "canonical_name": "M110 \"Grid\"",
+    "target_title": "M110 | Grid",
+    "weapon": "M110",
+    "skin": "Grid",
+    "output_base": "m110_grid",
+    "output_file": "m110_grid.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* M110 \"Grid\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 212,
+    "canonical_name": "M110 \"Z-07 M.A.R.K.S.M.A.N.\"",
+    "target_title": "M110 | Z-07 M.A.R.K.S.M.A.N.",
+    "weapon": "M110",
+    "skin": "Z-07 M.A.R.K.S.M.A.N.",
+    "output_base": "m110_z_07_m_a_r_k_s_m_a_n",
+    "output_file": "m110_z_07_m_a_r_k_s_m_a_n.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M110 \"Z-07 M.A.R.K.S.M.A.N.\"",
+      "STATTRACK* M110 \"Z-07 M.A.R.K.S.M.A.N.\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 213,
+    "canonical_name": "M16 \"4 Years\"",
+    "target_title": "M16 | 4 Years",
+    "weapon": "M16",
+    "skin": "4 Years",
+    "output_base": "m16_4_years",
+    "output_file": "m16_4_years.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M16 \"4 Years\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 214,
+    "canonical_name": "M16 \"Dust Devil\"",
+    "target_title": "M16 | Dust Devil",
+    "weapon": "M16",
+    "skin": "Dust Devil",
+    "output_base": "m16_dust_devil",
+    "output_file": "m16_dust_devil.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M16 \"Dust Devil\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 215,
+    "canonical_name": "M16 \"Shogun Stripes\"",
+    "target_title": "M16 | Shogun Stripes",
+    "weapon": "M16",
+    "skin": "Shogun Stripes",
+    "output_base": "m16_shogun_stripes",
+    "output_file": "m16_shogun_stripes.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M16 \"Shogun Stripes\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 216,
+    "canonical_name": "M4 \"Grand Prix\"",
+    "target_title": "M4 | Grand Prix",
+    "weapon": "M4",
+    "skin": "Grand Prix",
+    "output_base": "m4_grand_prix",
+    "output_file": "m4_grand_prix.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Grand Prix\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 217,
+    "canonical_name": "M4 \"N-Kai\"",
+    "target_title": "M4 | N-Kai",
+    "weapon": "M4",
+    "skin": "N-Kai",
+    "output_base": "m4_n_kai",
+    "output_file": "m4_n_kai.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"N-Kai\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 218,
+    "canonical_name": "M4 \"Necromancer\"",
+    "target_title": "M4 | Necromancer",
+    "weapon": "M4",
+    "skin": "Necromancer",
+    "output_base": "m4_necromancer",
+    "output_file": "m4_necromancer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Necromancer\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "neon",
+      "cyber"
+    ]
+  },
+  {
+    "index": 219,
+    "canonical_name": "M4 \"Retro Film\"",
+    "target_title": "M4 | Retro Film",
+    "weapon": "M4",
+    "skin": "Retro Film",
+    "output_base": "m4_retro_film",
+    "output_file": "m4_retro_film.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Retro Film\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "basic"
+    ]
+  },
+  {
+    "index": 220,
+    "canonical_name": "M4 \"Revival\"",
+    "target_title": "M4 | Revival",
+    "weapon": "M4",
+    "skin": "Revival",
+    "output_base": "m4_revival",
+    "output_file": "m4_revival.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Revival\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ]
+  },
+  {
+    "index": 221,
+    "canonical_name": "M4 \"Sunset\"",
+    "target_title": "M4 | Sunset",
+    "weapon": "M4",
+    "skin": "Sunset",
+    "output_base": "m4_sunset",
+    "output_file": "m4_sunset.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Sunset\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 222,
+    "canonical_name": "M4A1 \"Contour\"",
+    "target_title": "M4A1 | Contour",
+    "weapon": "M4A1",
+    "skin": "Contour",
+    "output_base": "m4a1_contour",
+    "output_file": "m4a1_contour.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4A1 \"Contour\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "low"
+    ]
+  },
+  {
+    "index": 223,
+    "canonical_name": "M4A1 \"Cyber Dragon\"",
+    "target_title": "M4A1 | Cyber Dragon",
+    "weapon": "M4A1",
+    "skin": "Cyber Dragon",
+    "output_base": "m4a1_cyber_dragon",
+    "output_file": "m4a1_cyber_dragon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4A1 \"Cyber Dragon\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 224,
+    "canonical_name": "M4A1 \"Lincoln\"",
+    "target_title": "M4A1 | Lincoln",
+    "weapon": "M4A1",
+    "skin": "Lincoln",
+    "output_base": "m4a1_lincoln",
+    "output_file": "m4a1_lincoln.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4A1 \"Lincoln\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 225,
+    "canonical_name": "M4A1 \"Overdrive\"",
+    "target_title": "M4A1 | Overdrive",
+    "weapon": "M4A1",
+    "skin": "Overdrive",
+    "output_base": "m4a1_overdrive",
+    "output_file": "m4a1_overdrive.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* M4A1 \"Overdrive\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 226,
+    "canonical_name": "M4A1 \"Renegade\"",
+    "target_title": "M4A1 | Renegade",
+    "weapon": "M4A1",
+    "skin": "Renegade",
+    "output_base": "m4a1_renegade",
+    "output_file": "m4a1_renegade.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4A1 \"Renegade\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 227,
+    "canonical_name": "M4A1 \"Stainless\"",
+    "target_title": "M4A1 | Stainless",
+    "weapon": "M4A1",
+    "skin": "Stainless",
+    "output_base": "m4a1_stainless",
+    "output_file": "m4a1_stainless.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4A1 \"Stainless\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 228,
+    "canonical_name": "M60 \"Steam Beast\"",
+    "target_title": "M60 | Steam Beast",
+    "weapon": "M60",
+    "skin": "Steam Beast",
+    "output_base": "m60_steam_beast",
+    "output_file": "m60_steam_beast.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* M60 \"Steam Beast\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 229,
+    "canonical_name": "M9 Bayonet \"Digital Burst\"",
+    "target_title": "M9 Bayonet | Digital Burst",
+    "weapon": "M9 Bayonet",
+    "skin": "Digital Burst",
+    "output_base": "m9_bayonet_digital_burst",
+    "output_file": "m9_bayonet_digital_burst.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M9 Bayonet \"Digital Burst\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 230,
+    "canonical_name": "M9 Bayonet \"Kumo\"",
+    "target_title": "M9 Bayonet | Kumo",
+    "weapon": "M9 Bayonet",
+    "skin": "Kumo",
+    "output_base": "m9_bayonet_kumo",
+    "output_file": "m9_bayonet_kumo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M9 Bayonet \"Kumo\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 231,
+    "canonical_name": "MAC10 \"Argo\"",
+    "target_title": "MAC10 | Argo",
+    "weapon": "MAC10",
+    "skin": "Argo",
+    "output_base": "mac10_argo",
+    "output_file": "mac10_argo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MAC10 \"Argo\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 232,
+    "canonical_name": "MAC10 \"Cardboard\"",
+    "target_title": "MAC10 | Cardboard",
+    "weapon": "MAC10",
+    "skin": "Cardboard",
+    "output_base": "mac10_cardboard",
+    "output_file": "mac10_cardboard.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MAC10 \"Cardboard\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ]
+  },
+  {
+    "index": 233,
+    "canonical_name": "MAC10 \"Shogun Stripes\"",
+    "target_title": "MAC10 | Shogun Stripes",
+    "weapon": "MAC10",
+    "skin": "Shogun Stripes",
+    "output_base": "mac10_shogun_stripes",
+    "output_file": "mac10_shogun_stripes.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MAC10 \"Shogun Stripes\"",
+      "STATTRACK* MAC10 \"Shogun Stripes\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "glitch",
+      "cyber"
+    ]
+  },
+  {
+    "index": 234,
+    "canonical_name": "MAC10 \"Tempest\"",
+    "target_title": "MAC10 | Tempest",
+    "weapon": "MAC10",
+    "skin": "Tempest",
+    "output_base": "mac10_tempest",
+    "output_file": "mac10_tempest.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MAC10 \"Tempest\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 235,
+    "canonical_name": "Mallard \"Snake Scales\"",
+    "target_title": "Mallard | Snake Scales",
+    "weapon": "Mallard",
+    "skin": "Snake Scales",
+    "output_base": "mallard_snake_scales",
+    "output_file": "mallard_snake_scales.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Mallard \"Snake Scales\"",
+      "STATTRACK* Mallard \"Snake Scales\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "sandstone"
+    ]
+  },
+  {
+    "index": 236,
+    "canonical_name": "Mantis \"Glacier\"",
+    "target_title": "Mantis | Glacier",
+    "weapon": "Mantis",
+    "skin": "Glacier",
+    "output_base": "mantis_glacier",
+    "output_file": "mantis_glacier.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Mantis \"Glacier\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 237,
+    "canonical_name": "MP5 \"Space Blaster\"",
+    "target_title": "MP5 | Space Blaster",
+    "weapon": "MP5",
+    "skin": "Space Blaster",
+    "output_base": "mp5_space_blaster",
+    "output_file": "mp5_space_blaster.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* MP5 \"Space Blaster\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "neon"
+    ]
+  },
+  {
+    "index": 238,
+    "canonical_name": "MP5 \"Water Gun\"",
+    "target_title": "MP5 | Water Gun",
+    "weapon": "MP5",
+    "skin": "Water Gun",
+    "output_base": "mp5_water_gun",
+    "output_file": "mp5_water_gun.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* MP5 \"Water Gun\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 239,
+    "canonical_name": "MP7 \"Arcade\"",
+    "target_title": "MP7 | Arcade",
+    "weapon": "MP7",
+    "skin": "Arcade",
+    "output_base": "mp7_arcade",
+    "output_file": "mp7_arcade.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MP7 \"Arcade\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "neon",
+      "glitch"
+    ]
+  },
+  {
+    "index": 240,
+    "canonical_name": "MP7 \"Frequency\"",
+    "target_title": "MP7 | Frequency",
+    "weapon": "MP7",
+    "skin": "Frequency",
+    "output_base": "mp7_frequency",
+    "output_file": "mp7_frequency.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MP7 \"Frequency\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ]
+  },
+  {
+    "index": 241,
+    "canonical_name": "MP7 \"Future Tech\"",
+    "target_title": "MP7 | Future Tech",
+    "weapon": "MP7",
+    "skin": "Future Tech",
+    "output_base": "mp7_future_tech",
+    "output_file": "mp7_future_tech.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* MP7 \"Future Tech\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 242,
+    "canonical_name": "MP7 \"Lich\"",
+    "target_title": "MP7 | Lich",
+    "weapon": "MP7",
+    "skin": "Lich",
+    "output_base": "mp7_lich",
+    "output_file": "mp7_lich.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MP7 \"Lich\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 243,
+    "canonical_name": "MP7 \"Palace\"",
+    "target_title": "MP7 | Palace",
+    "weapon": "MP7",
+    "skin": "Palace",
+    "output_base": "mp7_palace",
+    "output_file": "mp7_palace.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* MP7 \"Palace\"",
+      "MP7 \"Palace\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "sandstone",
+      "basic"
+    ]
+  },
+  {
+    "index": 244,
+    "canonical_name": "MP7 \"Rebellion\"",
+    "target_title": "MP7 | Rebellion",
+    "weapon": "MP7",
+    "skin": "Rebellion",
+    "output_base": "mp7_rebellion",
+    "output_file": "mp7_rebellion.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MP7 \"Rebellion\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 245,
+    "canonical_name": "P350 \"4 Years\"",
+    "target_title": "P350 | 4 Years",
+    "weapon": "P350",
+    "skin": "4 Years",
+    "output_base": "p350_4_years",
+    "output_file": "p350_4_years.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P350 \"4 Years\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 246,
+    "canonical_name": "P350 \"Gearshift\"",
+    "target_title": "P350 | Gearshift",
+    "weapon": "P350",
+    "skin": "Gearshift",
+    "output_base": "p350_gearshift",
+    "output_file": "p350_gearshift.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P350 \"Gearshift\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "basic"
+    ]
+  },
+  {
+    "index": 247,
+    "canonical_name": "P350 \"Lab Prototype\"",
+    "target_title": "P350 | Lab Prototype",
+    "weapon": "P350",
+    "skin": "Lab Prototype",
+    "output_base": "p350_lab_prototype",
+    "output_file": "p350_lab_prototype.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* P350 \"Lab Prototype\"",
+      "P350 \"Lab Prototype\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "neon",
+      "rust",
+      "camo"
+    ]
+  },
+  {
+    "index": 248,
+    "canonical_name": "P350 \"Savannah\"",
+    "target_title": "P350 | Savannah",
+    "weapon": "P350",
+    "skin": "Savannah",
+    "output_base": "p350_savannah",
+    "output_file": "p350_savannah.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P350 \"Savannah\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "low"
+    ]
+  },
+  {
+    "index": 249,
+    "canonical_name": "P350 \"Tag King\"",
+    "target_title": "P350 | Tag King",
+    "weapon": "P350",
+    "skin": "Tag King",
+    "output_base": "p350_tag_king",
+    "output_file": "p350_tag_king.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P350 \"Tag King\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "basic"
+    ]
+  },
+  {
+    "index": 250,
+    "canonical_name": "P90 \"Clash\"",
+    "target_title": "P90 | Clash",
+    "weapon": "P90",
+    "skin": "Clash",
+    "output_base": "p90_clash",
+    "output_file": "p90_clash.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* P90 \"Clash\"",
+      "P90 \"Clash\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "neon",
+      "basic"
+    ]
+  },
+  {
+    "index": 251,
+    "canonical_name": "P90 \"Data Flow\"",
+    "target_title": "P90 | Data Flow",
+    "weapon": "P90",
+    "skin": "Data Flow",
+    "output_base": "p90_data_flow",
+    "output_file": "p90_data_flow.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* P90 \"Data Flow\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 252,
+    "canonical_name": "P90 \"Noir\"",
+    "target_title": "P90 | Noir",
+    "weapon": "P90",
+    "skin": "Noir",
+    "output_base": "p90_noir",
+    "output_file": "p90_noir.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P90 \"Noir\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 253,
+    "canonical_name": "P90 \"Oops\"",
+    "target_title": "P90 | Oops",
+    "weapon": "P90",
+    "skin": "Oops",
+    "output_base": "p90_oops",
+    "output_file": "p90_oops.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P90 \"Oops\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 254,
+    "canonical_name": "P90 \"Z-50 F.U.J.I.N.\"",
+    "target_title": "P90 | Z-50 F.U.J.I.N.",
+    "weapon": "P90",
+    "skin": "Z-50 F.U.J.I.N.",
+    "output_base": "p90_z_50_f_u_j_i_n",
+    "output_file": "p90_z_50_f_u_j_i_n.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* P90 \"Z-50 F.U.J.I.N.\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 255,
+    "canonical_name": "S1 F/S \"Burning Mist\"",
+    "target_title": "S1 F/S | Burning Mist",
+    "weapon": "S1 F/S",
+    "skin": "Burning Mist",
+    "output_base": "s1_f_s_burning_mist",
+    "output_file": "s1_f_s_burning_mist.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "S1 F/S \"Burning Mist\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "target_aliases": [
+      "S2 F/S | Burning Mist"
+    ]
+  },
+  {
+    "index": 256,
+    "canonical_name": "S3 FabM \"Cloud Lily\"",
+    "target_title": "S3 FabM | Cloud Lily",
+    "weapon": "S3 FabM",
+    "skin": "Cloud Lily",
+    "output_base": "s3_fabm_cloud_lily",
+    "output_file": "s3_fabm_cloud_lily.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* S3 FabM \"Cloud Lily\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "target_aliases": [
+      "S1 FabM | Cloud Lily"
+    ]
+  },
+  {
+    "index": 257,
+    "canonical_name": "Scorpion \"Veil\"",
+    "target_title": "Scorpion | Veil",
+    "weapon": "Scorpion",
+    "skin": "Veil",
+    "output_base": "scorpion_veil",
+    "output_file": "scorpion_veil.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Scorpion \"Veil\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "rust"
+    ]
+  },
+  {
+    "index": 258,
+    "canonical_name": "SM1014 \"Necromancer\"",
+    "target_title": "SM1014 | Necromancer",
+    "weapon": "SM1014",
+    "skin": "Necromancer",
+    "output_base": "sm1014_necromancer",
+    "output_file": "sm1014_necromancer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* SM1014 \"Necromancer\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 259,
+    "canonical_name": "SM1014 \"Northern Camouflage\"",
+    "target_title": "SM1014 | Northern Camouflage",
+    "weapon": "SM1014",
+    "skin": "Northern Camouflage",
+    "output_base": "sm1014_northern_camouflage",
+    "output_file": "sm1014_northern_camouflage.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "SM1014 \"Northern Camouflage\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 260,
+    "canonical_name": "SM1014 \"Serpent\"",
+    "target_title": "SM1014 | Serpent",
+    "weapon": "SM1014",
+    "skin": "Serpent",
+    "output_base": "sm1014_serpent",
+    "output_file": "sm1014_serpent.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "SM1014 \"Serpent\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 261,
+    "canonical_name": "SM1014 \"Wasp\"",
+    "target_title": "SM1014 | Wasp",
+    "weapon": "SM1014",
+    "skin": "Wasp",
+    "output_base": "sm1014_wasp",
+    "output_file": "sm1014_wasp.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "SM1014 \"Wasp\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 262,
+    "canonical_name": "SPAS \"Vibe\"",
+    "target_title": "SPAS | Vibe",
+    "weapon": "SPAS",
+    "skin": "Vibe",
+    "output_base": "spas_vibe",
+    "output_file": "spas_vibe.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* SPAS \"Vibe\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 263,
+    "canonical_name": "SPAS \"Waypoint\"",
+    "target_title": "SPAS | Waypoint",
+    "weapon": "SPAS",
+    "skin": "Waypoint",
+    "output_base": "spas_waypoint",
+    "output_file": "spas_waypoint.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "SPAS \"Waypoint\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "basic"
+    ]
+  },
+  {
+    "index": 264,
+    "canonical_name": "SPAS \"Zeus\"",
+    "target_title": "SPAS | Zeus",
+    "weapon": "SPAS",
+    "skin": "Zeus",
+    "output_base": "spas_zeus",
+    "output_file": "spas_zeus.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* SPAS \"Zeus\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 265,
+    "canonical_name": "Sticker \"Bubblegum Space\" Swap",
+    "target_title": "Sticker | Bubblegum Space Swap",
+    "weapon": "Sticker",
+    "skin": "Bubblegum Space Swap",
+    "output_base": "sticker_bubblegum_space_swap",
+    "output_file": "sticker_bubblegum_space_swap.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Sticker \"Bubblegum Space\" Swap"
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 266,
+    "canonical_name": "Sticker \"FID\" Gold",
+    "target_title": "Sticker | FID Gold",
+    "weapon": "Sticker",
+    "skin": "FID Gold",
+    "output_base": "sticker_fid_gold",
+    "output_file": "sticker_fid_gold.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Sticker \"FID\" Gold"
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ]
+  },
+  {
+    "index": 267,
+    "canonical_name": "Sticker \"Fluffy Assassin\" Color",
+    "target_title": "Sticker | Fluffy Assassin Color",
+    "weapon": "Sticker",
+    "skin": "Fluffy Assassin Color",
+    "output_base": "sticker_fluffy_assassin_color",
+    "output_file": "sticker_fluffy_assassin_color.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Sticker \"Fluffy Assassin\" Color"
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  },
+  {
+    "index": 268,
+    "canonical_name": "Sticker \"Hot Gun\" Color",
+    "target_title": "Sticker | Hot Gun Color",
+    "weapon": "Sticker",
+    "skin": "Hot Gun Color",
+    "output_base": "sticker_hot_gun_color",
+    "output_file": "sticker_hot_gun_color.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Sticker \"Hot Gun\" Color"
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 269,
+    "canonical_name": "Sticker \"Province\"",
+    "target_title": "Sticker | Province",
+    "weapon": "Sticker",
+    "skin": "Province",
+    "output_base": "sticker_province",
+    "output_file": "sticker_province.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Sticker \"Province\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 270,
+    "canonical_name": "Stiletto \"Ascend\"",
+    "target_title": "Stiletto | Ascend",
+    "weapon": "Stiletto",
+    "skin": "Ascend",
+    "output_base": "stiletto_ascend",
+    "output_file": "stiletto_ascend.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Stiletto \"Ascend\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 271,
+    "canonical_name": "Stiletto \"Damascus\"",
+    "target_title": "Stiletto | Damascus",
+    "weapon": "Stiletto",
+    "skin": "Damascus",
+    "output_base": "stiletto_damascus",
+    "output_file": "stiletto_damascus.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Stiletto \"Damascus\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 272,
+    "canonical_name": "Tanto \"Glitch\"",
+    "target_title": "Tanto | Glitch",
+    "weapon": "Tanto",
+    "skin": "Glitch",
+    "output_base": "tanto_glitch",
+    "output_file": "tanto_glitch.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Tanto \"Glitch\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 273,
+    "canonical_name": "TEC-9 \"Dalmatian\"",
+    "target_title": "TEC-9 | Dalmatian",
+    "weapon": "TEC-9",
+    "skin": "Dalmatian",
+    "output_base": "tec_9_dalmatian",
+    "output_file": "tec_9_dalmatian.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Dalmatian\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 274,
+    "canonical_name": "TEC-9 \"Disguise\"",
+    "target_title": "TEC-9 | Disguise",
+    "weapon": "TEC-9",
+    "skin": "Disguise",
+    "output_base": "tec_9_disguise",
+    "output_file": "tec_9_disguise.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Disguise\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 275,
+    "canonical_name": "TEC-9 \"Gangster\"",
+    "target_title": "TEC-9 | Gangster",
+    "weapon": "TEC-9",
+    "skin": "Gangster",
+    "output_base": "tec_9_gangster",
+    "output_file": "tec_9_gangster.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* TEC-9 \"Gangster\"",
+      "TEC-9 \"Gangster\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "street",
+      "province"
+    ]
+  },
+  {
+    "index": 276,
+    "canonical_name": "TEC-9 \"Glitch\"",
+    "target_title": "TEC-9 | Glitch",
+    "weapon": "TEC-9",
+    "skin": "Glitch",
+    "output_base": "tec_9_glitch",
+    "output_file": "tec_9_glitch.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Glitch\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 277,
+    "canonical_name": "TEC-9 \"Needle\"",
+    "target_title": "TEC-9 | Needle",
+    "weapon": "TEC-9",
+    "skin": "Needle",
+    "output_base": "tec_9_needle",
+    "output_file": "tec_9_needle.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Needle\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 278,
+    "canonical_name": "TEC-9 \"Night Slayer\"",
+    "target_title": "TEC-9 | Night Slayer",
+    "weapon": "TEC-9",
+    "skin": "Night Slayer",
+    "output_base": "tec_9_night_slayer",
+    "output_file": "tec_9_night_slayer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* TEC-9 \"Night Slayer\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 279,
+    "canonical_name": "TEC-9 \"Reactor\"",
+    "target_title": "TEC-9 | Reactor",
+    "weapon": "TEC-9",
+    "skin": "Reactor",
+    "output_base": "tec_9_reactor",
+    "output_file": "tec_9_reactor.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Reactor\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 280,
+    "canonical_name": "TEC-9 \"Tie Dye\"",
+    "target_title": "TEC-9 | Tie Dye",
+    "weapon": "TEC-9",
+    "skin": "Tie Dye",
+    "output_base": "tec_9_tie_dye",
+    "output_file": "tec_9_tie_dye.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* TEC-9 \"Tie Dye\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ]
+  },
+  {
+    "index": 281,
+    "canonical_name": "UMP45 \"Beast\"",
+    "target_title": "UMP45 | Beast",
+    "weapon": "UMP45",
+    "skin": "Beast",
+    "output_base": "ump45_beast",
+    "output_file": "ump45_beast.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "UMP45 \"Beast\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street"
+    ]
+  },
+  {
+    "index": 282,
+    "canonical_name": "UMP45 \"Geometric\"",
+    "target_title": "UMP45 | Geometric",
+    "weapon": "UMP45",
+    "skin": "Geometric",
+    "output_base": "ump45_geometric",
+    "output_file": "ump45_geometric.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "UMP45 \"Geometric\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 283,
+    "canonical_name": "UMP45 \"Pixel V2\"",
+    "target_title": "UMP45 | Pixel V2",
+    "weapon": "UMP45",
+    "skin": "Pixel V2",
+    "output_base": "ump45_pixel_v2",
+    "output_file": "ump45_pixel_v2.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "UMP45 \"Pixel V2\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 284,
+    "canonical_name": "UMP45 \"Professional\"",
+    "target_title": "UMP45 | Professional",
+    "weapon": "UMP45",
+    "skin": "Professional",
+    "output_base": "ump45_professional",
+    "output_file": "ump45_professional.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "UMP45 \"Professional\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ]
+  },
+  {
+    "index": 285,
+    "canonical_name": "UMP45 \"Spirit\"",
+    "target_title": "UMP45 | Spirit",
+    "weapon": "UMP45",
+    "skin": "Spirit",
+    "output_base": "ump45_spirit",
+    "output_file": "ump45_spirit.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* UMP45 \"Spirit\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ]
+  },
+  {
+    "index": 286,
+    "canonical_name": "UMP45 \"Warchief\"",
+    "target_title": "UMP45 | Warchief",
+    "weapon": "UMP45",
+    "skin": "Warchief",
+    "output_base": "ump45_warchief",
+    "output_file": "ump45_warchief.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* UMP45 \"Warchief\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ]
+  },
+  {
+    "index": 287,
+    "canonical_name": "UMP45 \"White Carbon\"",
+    "target_title": "UMP45 | White Carbon",
+    "weapon": "UMP45",
+    "skin": "White Carbon",
+    "output_base": "ump45_white_carbon",
+    "output_file": "ump45_white_carbon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "UMP45 \"White Carbon\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "cyber",
+      "province"
+    ]
+  },
+  {
+    "index": 288,
+    "canonical_name": "USP \"Fiend\"",
+    "target_title": "USP | Fiend",
+    "weapon": "USP",
+    "skin": "Fiend",
+    "output_base": "usp_fiend",
+    "output_file": "usp_fiend.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "USP \"Fiend\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ]
+  },
+  {
+    "index": 289,
+    "canonical_name": "USP \"Pisces\"",
+    "target_title": "USP | Pisces",
+    "weapon": "USP",
+    "skin": "Pisces",
+    "output_base": "usp_pisces",
+    "output_file": "usp_pisces.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "USP \"Pisces\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "basic"
+    ]
+  },
+  {
+    "index": 290,
+    "canonical_name": "USP \"Purple Camo\"",
+    "target_title": "USP | Purple Camo",
+    "weapon": "USP",
+    "skin": "Purple Camo",
+    "output_base": "usp_purple_camo",
+    "output_file": "usp_purple_camo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "USP \"Purple Camo\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "camo"
+    ]
+  },
+  {
+    "index": 291,
+    "canonical_name": "VAL \"Gilded Gale\"",
+    "target_title": "VAL | Gilded Gale",
+    "weapon": "VAL",
+    "skin": "Gilded Gale",
+    "output_base": "val_gilded_gale",
+    "output_file": "val_gilded_gale.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "VAL \"Gilded Gale\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ]
+  },
+  {
+    "index": 292,
+    "canonical_name": "VAL \"Joker\"",
+    "target_title": "VAL | Joker",
+    "weapon": "VAL",
+    "skin": "Joker",
+    "output_base": "val_joker",
+    "output_file": "val_joker.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "VAL \"Joker\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "basic"
+    ]
+  },
+  {
+    "index": 293,
+    "canonical_name": "VAL \"Night City\"",
+    "target_title": "VAL | Night City",
+    "weapon": "VAL",
+    "skin": "Night City",
+    "output_base": "val_night_city",
+    "output_file": "val_night_city.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* VAL \"Night City\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ]
+  }
+]
