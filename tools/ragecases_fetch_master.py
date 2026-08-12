@@ -26,6 +26,16 @@ MIRROR_BASES = [
 ]
 PAGES_BASE = "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/"
 FORCE = os.environ.get("FORCE_REDOWNLOAD", "false").lower() in {"1","true","yes","on"}
+STRICT_REPAIR_ADD_NEW = os.environ.get("STRICT_REPAIR_ADD_NEW", "false").lower() in {"1","true","yes","on"}
+
+KNOWN_BAD_OUTPUT_FILES = {
+    "butterfly_glitch.webp",
+    "kunai_glitch.webp",
+    "tanto_glitch.webp",
+    "tec_9_glitch.webp",
+    "g22_adam.webp",
+    "desert_eagle_gambit.webp",
+}
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/148 Safari/537.36",
@@ -69,6 +79,12 @@ SPECIAL = {
     "Kukri | Prophet": ["legends-case"],
     "Kunai | Poison": ["ezknife-m-st", "turbo"],
     "MP5 | Insanity": ["subject-x-st-collection"],
+    "Butterfly | Glitch": ["ezknife", "black-knives"],
+    "Kunai | Glitch": ["ezknife", "kunai-pack", "black-knives"],
+    "Tanto | Glitch": ["ezknife", "tanto", "black-knives"],
+    "TEC-9 | Glitch": ["pubg-mobile", "fireplace", "poison-cocktail"],
+    "Desert Eagle | Gambit": ["gambit", "deagle"],
+    "G22 | Adam": ["g22", "division"],
 }
 
 THEME_HINTS = {
@@ -316,12 +332,14 @@ def main() -> int:
     print(f"RAGECASES — MASTER SKIN FETCH ({total} canonical images)")
     print("Output: assets/ragecases_skins_v2/")
     print("StatTrack and normal appearances share one canonical image file.")
-    print(f"Force redownload: {FORCE}\n")
+    print(f"Force redownload: {FORCE}")
+    print(f"Strict repair ADD_NEW: {STRICT_REPAIR_ADD_NEW}\n")
 
     for pos,item in enumerate(items,1):
         target=item["target_title"]; dest=OUT/item["output_file"]
         print(f"[{pos:03d}/{total}] {item['canonical_name']}")
-        if dest.exists() and not FORCE and validate_existing(dest):
+        strict_repair = STRICT_REPAIR_ADD_NEW and item.get("mode") == "ADD_NEW"
+        if dest.exists() and not FORCE and not strict_repair and validate_existing(dest):
             ok,ratio=has_alpha(Image.open(dest))
             public=PAGES_BASE+dest.name
             resolved.append({**item,"source_url":"EXISTING_V2","source_page":"","public_url":public,"alpha_ratio":ratio,"status":"SKIPPED_VALID"})
@@ -329,6 +347,8 @@ def main() -> int:
             skip_count+=1
             print("   SKIP: valid V2 file already exists")
             continue
+        if strict_repair and dest.exists():
+            print("   STRICT REPAIR: existing ADD_NEW image will be re-verified by exact weapon+skin match")
 
         source_urls=[]; source_page=""; resolution=""
         for u in overrides.get(item['canonical_name'],[]):
@@ -351,20 +371,6 @@ def main() -> int:
                 for u in idx.get(nt,[]):
                     if u not in vals:
                         vals.append(u)
-
-            # Fuzzy fallback: on a weapon/collection page, exact skin-part match
-            # is enough. This handles source labels such as S1/S2/S3 prefixes.
-            if not vals:
-                wanted_skin=norm(item.get("skin",""))
-                for page_title, urls in idx.items():
-                    if " | " not in page_title:
-                        continue
-                    right=norm(page_title.split(" | ",1)[1])
-                    if right == wanted_skin:
-                        for u in urls:
-                            if u not in vals:
-                                vals.append(u)
-
             if vals:
                 for u in vals:
                     if u not in discovered: discovered.append(u)
@@ -377,8 +383,16 @@ def main() -> int:
         elif discovered: resolution="KNOWN_OVERRIDE+DISCOVERED"
 
         if not source_urls:
-            note=f"No image URL found for target {target}"
-            failures.append({**item,"status":"UNRESOLVED","note":note,"pages_tried":page_candidates(item)})
+            note=f"No exact weapon+skin image URL found for target {target}"
+            removed_wrong=False
+            if strict_repair and dest.name in KNOWN_BAD_OUTPUT_FILES and dest.exists():
+                try:
+                    dest.unlink()
+                    removed_wrong=True
+                    note += "; removed previously known-wrong cached image"
+                except Exception as e:
+                    note += f"; failed to remove known-wrong cached image: {e}"
+            failures.append({**item,"status":"UNRESOLVED","note":note,"pages_tried":page_candidates(item),"strict_repair":strict_repair,"removed_wrong_cached":removed_wrong})
             rows.append([pos,item['canonical_name'],item['mode'],"UNRESOLVED","",0,"",source_page,note])
             print("   FAILED: UNRESOLVED")
             continue

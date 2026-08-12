@@ -4,7 +4,12 @@ on:
   workflow_dispatch:
     inputs:
       force_redownload:
-        description: 'Force re-download files already present in assets/ragecases_skins_v2'
+        description: 'Force re-download all files already present in assets/ragecases_skins_v2'
+        required: false
+        default: false
+        type: boolean
+      strict_repair_add_new:
+        description: 'One-time strict re-check of all ADD_NEW images (weapon + skin must match exactly)'
         required: false
         default: false
         type: boolean
@@ -17,6 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       FORCE_REDOWNLOAD: ${{ inputs.force_redownload }}
+      STRICT_REPAIR_ADD_NEW: ${{ inputs.strict_repair_add_new }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -43,7 +49,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "RAGECASES: sync master skin library"
+            git commit -m "RAGECASES: strict sync master skin library"
             git push
           fi
 
@@ -54,6 +60,6 @@ jobs:
             echo "RAGECASES MASTER SKIN LIBRARY IS READY"
             exit 0
           fi
-          echo "Some skins still need a source."
+          echo "Some skins still need an exact source."
           echo "Open assets/ragecases_skins_v2/FAILED_ITEMS.json and REPORT.csv."
           exit 1
