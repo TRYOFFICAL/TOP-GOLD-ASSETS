@@ -232,23 +232,75 @@ def fetch_blob(session: requests.Session, url: str) -> bytes:
 def build_page_index(page_url: str, text: str) -> dict[str,list[str]]:
     out={}
     soup=BeautifulSoup(text,"html.parser")
+
+    # 1) Normal rendered <img alt="Weapon | Skin" src="..."> path.
     for img in soup.find_all("img"):
         alt=img.get("alt") or img.get("title") or ""
         src=best_src(img)
         if " | " in alt and src:
             out.setdefault(norm(alt),[]).append(urljoin(page_url,src))
-    # Nuxt/server payload fallback: title followed soon by /public/storage/items/...
+
+        # Some GGSTAND pages keep weapon/skin as nearby card text rather than alt.
+        # Only inspect small ancestors so we do not mix neighbouring cards.
+        if src and " | " not in alt:
+            node=img
+            for _ in range(3):
+                node=getattr(node,"parent",None)
+                if not node:
+                    break
+                txt=" ".join(node.stripped_strings)
+                txt=re.sub(r"\s+"," ",txt).strip()
+                # Exact explicit "Weapon | Skin" nearby.
+                mm=re.search(r'((?:StatTrack\*\s*)?[^|]{1,70})\s*\|\s*([^|]{1,100})',txt,re.I)
+                if mm:
+                    title=(mm.group(1).strip()+" | "+mm.group(2).strip())
+                    out.setdefault(norm(title),[]).append(urljoin(page_url,src))
+                    break
+
+    # 2) Nuxt/server payload fallbacks.
     raw=htmlmod.unescape(text)
-    rx=re.compile(r'["\']([^"\']{1,90}\s\|\s[^"\']{1,120})["\'][\s\S]{0,420}?(/public/storage/items/[^"\'\\<>\s]+)',re.I)
-    for m in rx.finditer(raw):
-        title=m.group(1)
-        src=urljoin(page_url,m.group(2))
-        out.setdefault(norm(title),[]).append(src)
+    # Normalize common JSON escaping so URLs can be matched reliably.
+    raw=raw.replace("\\/","/").replace("\\u002F","/").replace("\\u002f","/")
+
+    rel_img=r'(/public/storage/items/[^"\'\\<>\s]+)'
+    abs_img=r'(https?://[^"\'\\<>\s]+/public/storage/items/[^"\'\\<>\s]+)'
+    title_pat=r'["\']([^"\']{1,90}\s\|\s[^"\']{1,120})["\']'
+
+    # title -> image (old path)
+    for img_pat in (rel_img,abs_img):
+        rx=re.compile(title_pat+r'[\s\S]{0,520}?'+img_pat,re.I)
+        for m in rx.finditer(raw):
+            title=m.group(1)
+            src=m.group(2)
+            out.setdefault(norm(title),[]).append(urljoin(page_url,src))
+
+    # image -> title (important for newer/localized GGSTAND payloads)
+    for img_pat in (rel_img,abs_img):
+        rx=re.compile(img_pat+r'[\s\S]{0,520}?'+title_pat,re.I)
+        for m in rx.finditer(raw):
+            src=m.group(1)
+            title=m.group(2)
+            out.setdefault(norm(title),[]).append(urljoin(page_url,src))
+
+    # 3) JSON-object proximity fallback.
+    # Accept only chunks that contain exactly one public item image and an explicit
+    # "Weapon | Skin" title. This stays strict and cannot fall back by skin name alone.
+    chunk_rx=re.compile(r'[^{}\n]{0,700}(?:/public/storage/items/|https?://[^"\'\s]+/public/storage/items/)[^{}\n]{0,700}',re.I)
+    img_rx=re.compile(r'(https?://[^"\'\\<>\s]+/public/storage/items/[^"\'\\<>\s]+|/public/storage/items/[^"\'\\<>\s]+)',re.I)
+    title_rx=re.compile(r'["\']([^"\']{1,90}\s\|\s[^"\']{1,120})["\']',re.I)
+    for cm in chunk_rx.finditer(raw):
+        chunk=cm.group(0)
+        imgs=img_rx.findall(chunk)
+        titles=title_rx.findall(chunk)
+        if len(imgs)==1 and len(titles)==1:
+            out.setdefault(norm(titles[0]),[]).append(urljoin(page_url,imgs[0]))
+
     # Deduplicate while preserving page order.
     for k,vals in list(out.items()):
         seen=[]
         for v in vals:
-            if v not in seen: seen.append(v)
+            if v not in seen:
+                seen.append(v)
         out[k]=seen
     return out
 
@@ -397,6 +449,10 @@ def main() -> int:
             idx=build_page_index(url,text)
             page_cache[url]=idx
             print(f"      page indexed: {url} ({len(idx)} titles)")
+            if REPAIR_FAILED_ONLY:
+                interesting=[k for k in idx if any(x in k for x in ("warden","adam","hologram","contour","frequency","cyber dragon"))]
+                if interesting:
+                    print("      exact repair titles found:", ", ".join(interesting[:12]))
             return idx
         except Exception as e:
             page_errors[url]=str(e); page_cache[url]={}
