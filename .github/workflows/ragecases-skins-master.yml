@@ -9,7 +9,12 @@ on:
         default: false
         type: boolean
       strict_repair_add_new:
-        description: 'One-time strict re-check of all ADD_NEW images (weapon + skin must match exactly)'
+        description: 'Full strict re-check of all ADD_NEW images'
+        required: false
+        default: false
+        type: boolean
+      repair_failed_only:
+        description: 'Fast repair: retry only files from current FAILED_ITEMS.json'
         required: false
         default: false
         type: boolean
@@ -23,6 +28,7 @@ jobs:
     env:
       FORCE_REDOWNLOAD: ${{ inputs.force_redownload }}
       STRICT_REPAIR_ADD_NEW: ${{ inputs.strict_repair_add_new }}
+      REPAIR_FAILED_ONLY: ${{ inputs.repair_failed_only }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -49,7 +55,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "RAGECASES: strict sync master skin library"
+            git commit -m "RAGECASES: repair failed skin images"
             git push
           fi
 

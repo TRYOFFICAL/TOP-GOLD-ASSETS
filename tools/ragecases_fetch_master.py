@@ -27,6 +27,7 @@ MIRROR_BASES = [
 PAGES_BASE = "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/"
 FORCE = os.environ.get("FORCE_REDOWNLOAD", "false").lower() in {"1","true","yes","on"}
 STRICT_REPAIR_ADD_NEW = os.environ.get("STRICT_REPAIR_ADD_NEW", "false").lower() in {"1","true","yes","on"}
+REPAIR_FAILED_ONLY = os.environ.get("REPAIR_FAILED_ONLY", "false").lower() in {"1","true","yes","on"}
 
 KNOWN_BAD_OUTPUT_FILES = {
     "butterfly_glitch.webp",
@@ -60,7 +61,7 @@ PRIMARY = {
     "MP7": ["mp7"], "Mantis": ["mantis"], "P350": ["p350"], "P90": ["p90"],
     "SM1014": ["sm1014"], "SPAS": ["spas"], "Scorpion": ["scorpion"],
     "Sticker": ["sticker"], "Sting": ["sting"], "TEC-9": ["tec9", "tec-9"],
-    "UMP45": ["ump45"], "USP": ["usp"], "VAL": ["val"],
+    "UMP45": ["ump", "ump45"], "USP": ["usp"], "VAL": ["val"],
     "S1 FabM": ["year-of-horse-st-collection"], "S2 F/S": ["year-of-horse-st-collection"],
     "S1 F/S": ["year-of-horse-st-collection"], "S3 FabM": ["year-of-horse-st-collection"],
     "S3 Mallard": ["year-of-horse-st-collection"],
@@ -85,6 +86,56 @@ SPECIAL = {
     "TEC-9 | Glitch": ["pubg-mobile", "fireplace", "poison-cocktail"],
     "Desert Eagle | Gambit": ["gambit", "deagle"],
     "G22 | Adam": ["g22", "division"],
+}
+
+ABSOLUTE_PAGE_HINTS = {
+    "USP | Warden": [
+        "https://ggstand.com/ru/case/9-years-st",
+    ],
+    "G22 | Adam": [
+        "https://ggstand.com/ru/case/9-years-st",
+    ],
+    "UMP45 | Professional": [
+        "https://ggstand.com/en/case/ump",
+        "https://ggstand.com/ru/case/9-years-st",
+    ],
+    "MP7 | Frequency": [
+        "https://ggstand.com/ru/case/9-years-st",
+    ],
+    "M4A1 | Contour": [
+        "https://ggstand.com/ru/case/9-years-st",
+    ],
+    "FabM | Mayhem": [
+        "https://ggstand.com/en/seven-keys/unommon-7keys",
+        "https://ggstand.com/cis/seven-keys/unommon-7keys",
+    ],
+    "USP | Fiend": [
+        "https://ggstand.com/en/case/fable",
+        "https://ggstand.com/en/seven-keys/unommon-7keys",
+    ],
+    "Graffiti | Gold Skull Packed": [
+        "https://ggstandoff.pro/ru/case/grafitti",
+        "https://ggstandoff.pro/ru/seven-keys/unommon-7keys",
+    ],
+    "Karambit | Hologram": [
+        "https://ggstand.io/es/case/winter-tale-st",
+    ],
+    "AWM | Dark Camo": [
+        "https://ggstand.com/en/case/valor",
+    ],
+    "MAC10 | Cardboard": [
+        "https://ggstand.com/en/case/valor",
+    ],
+    "Akimbo Uzi | No Escape": [
+        "https://ggstand.io/ru/case/breakout",
+    ],
+    "P350 | Lab Prototype": [
+        "https://ggstand.io/ru/case/breakout",
+    ],
+    "SPAS | Waypoint": [
+        "https://ggstand.io/ru/case/breakout",
+    ],
+    # M4A1 | Cyber Dragon intentionally has no guessed source.
 }
 
 THEME_HINTS = {
@@ -206,6 +257,11 @@ def page_candidates(item: dict) -> list[str]:
     weapon=item["weapon"]
     skin=item["skin"]
 
+    absolute_urls=[]
+    for u in ABSOLUTE_PAGE_HINTS.get(target,[]):
+        if u and u not in absolute_urls:
+            absolute_urls.append(u)
+
     direct_slugs=[]
     all_slugs=[]
 
@@ -240,7 +296,7 @@ def page_candidates(item: dict) -> list[str]:
         add_all([r.casefold()])
     add_all(FALLBACK)
 
-    urls=[]
+    urls=list(absolute_urls)
 
     # First: normal ggstand.com direct pages.
     for slug in direct_slugs:
@@ -253,6 +309,11 @@ def page_candidates(item: dict) -> list[str]:
         for u in mirror_page_urls(slug):
             if u not in urls:
                 urls.append(u)
+
+    # Failed-only repair is intentionally narrow and fast:
+    # exact page hints + exact weapon pages/mirrors only.
+    if REPAIR_FAILED_ONLY:
+        return urls
 
     # Finally: broad fallback pages on ggstand.com only.
     for slug in all_slugs:
@@ -311,6 +372,21 @@ def main() -> int:
     items=json.loads(MANIFEST.read_text(encoding="utf-8-sig"))
     overrides=json.loads(OVERRIDES.read_text(encoding="utf-8-sig")) if OVERRIDES.exists() else {}
     OUT.mkdir(parents=True,exist_ok=True)
+
+    previous_failed_files=set()
+    if REPAIR_FAILED_ONLY and FAILED.exists():
+        try:
+            previous_failed=json.loads(FAILED.read_text(encoding="utf-8-sig"))
+            previous_failed_files={
+                str(x.get("output_file","")).strip()
+                for x in previous_failed
+                if str(x.get("output_file","")).strip()
+            }
+            print(f"Failed-only repair targets loaded: {len(previous_failed_files)}")
+        except Exception as e:
+            print(f"WARNING: could not read previous FAILED_ITEMS.json: {e}")
+            previous_failed_files=set()
+
     session=requests.Session()
     page_cache={}; page_errors={}
 
@@ -333,13 +409,15 @@ def main() -> int:
     print("Output: assets/ragecases_skins_v2/")
     print("StatTrack and normal appearances share one canonical image file.")
     print(f"Force redownload: {FORCE}")
-    print(f"Strict repair ADD_NEW: {STRICT_REPAIR_ADD_NEW}\n")
+    print(f"Strict repair ADD_NEW: {STRICT_REPAIR_ADD_NEW}")
+    print(f"Repair previous failed only: {REPAIR_FAILED_ONLY}\n")
 
     for pos,item in enumerate(items,1):
         target=item["target_title"]; dest=OUT/item["output_file"]
         print(f"[{pos:03d}/{total}] {item['canonical_name']}")
         strict_repair = STRICT_REPAIR_ADD_NEW and item.get("mode") == "ADD_NEW"
-        if dest.exists() and not FORCE and not strict_repair and validate_existing(dest):
+        targeted_failed_repair = REPAIR_FAILED_ONLY and dest.name in previous_failed_files
+        if dest.exists() and not FORCE and not strict_repair and not targeted_failed_repair and validate_existing(dest):
             ok,ratio=has_alpha(Image.open(dest))
             public=PAGES_BASE+dest.name
             resolved.append({**item,"source_url":"EXISTING_V2","source_page":"","public_url":public,"alpha_ratio":ratio,"status":"SKIPPED_VALID"})
@@ -349,13 +427,16 @@ def main() -> int:
             continue
         if strict_repair and dest.exists():
             print("   STRICT REPAIR: existing ADD_NEW image will be re-verified by exact weapon+skin match")
+        if targeted_failed_repair and dest.exists():
+            print("   FAILED-ONLY REPAIR: previous failed image will be re-verified by exact weapon+skin match")
 
         source_urls=[]; source_page=""; resolution=""
         for u in overrides.get(item['canonical_name'],[]):
             if u and u not in source_urls: source_urls.append(u)
         if source_urls: resolution="KNOWN_OVERRIDE"
 
-        # Discover from current GGSTAND pages. Even with an override we keep discovery as fallback.
+        # Discover exact weapon+skin from pages.
+        # In failed-only mode, a known exact override is tried immediately without crawling.
         discovered=[]
         lookup_titles=[target] + list(item.get("target_aliases",[]) or [])
         lookup_norms=[]
@@ -364,7 +445,8 @@ def main() -> int:
             if nt and nt not in lookup_norms:
                 lookup_norms.append(nt)
 
-        for page in page_candidates(item):
+        discovery_pages=[] if (REPAIR_FAILED_ONLY and source_urls) else page_candidates(item)
+        for page in discovery_pages:
             idx=index_for(page)
             vals=[]
             for nt in lookup_norms:
@@ -385,11 +467,11 @@ def main() -> int:
         if not source_urls:
             note=f"No exact weapon+skin image URL found for target {target}"
             removed_wrong=False
-            if strict_repair and dest.name in KNOWN_BAD_OUTPUT_FILES and dest.exists():
+            if ((strict_repair and dest.name in KNOWN_BAD_OUTPUT_FILES) or targeted_failed_repair) and dest.exists():
                 try:
                     dest.unlink()
                     removed_wrong=True
-                    note += "; removed previously known-wrong cached image"
+                    note += "; removed untrusted cached image after exact-match failure"
                 except Exception as e:
                     note += f"; failed to remove known-wrong cached image: {e}"
             failures.append({**item,"status":"UNRESOLVED","note":note,"pages_tried":page_candidates(item),"strict_repair":strict_repair,"removed_wrong_cached":removed_wrong})
@@ -432,7 +514,15 @@ def main() -> int:
             print(f"   OK -> {dest.name} | {note}")
         else:
             note=last or "all image candidates failed"
-            failures.append({**item,"status":"DOWNLOAD_FAILED","note":note,"candidate_urls":source_urls,"source_page":source_page})
+            removed_untrusted=False
+            if targeted_failed_repair and dest.exists():
+                try:
+                    dest.unlink()
+                    removed_untrusted=True
+                    note += "; removed untrusted cached image after failed exact-source download"
+                except Exception as e:
+                    note += f"; could not remove untrusted cached image: {e}"
+            failures.append({**item,"status":"DOWNLOAD_FAILED","note":note,"candidate_urls":source_urls,"source_page":source_page,"targeted_failed_repair":targeted_failed_repair,"removed_untrusted_cached":removed_untrusted})
             rows.append([pos,item['canonical_name'],item['mode'],"DOWNLOAD_FAILED","",0,"",source_page,note])
             print(f"   FAILED: {note}")
         time.sleep(.15)
