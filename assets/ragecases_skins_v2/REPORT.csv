@@ -1,294 +1,294 @@
 index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 1,"AKR ""2 Years Red""",REPLACE_EXISTING,SKIPPED_VALID,akr_2_years_red.webp,35364,,,alpha=88.2912%
-2,"AKR ""Arctic Camo""",ADD_NEW,SKIPPED_VALID,akr_arctic_camo.webp,18544,,,alpha=82.2617%
+2,"AKR ""Arctic Camo""",ADD_NEW,OK_DISCOVERED,akr_arctic_camo.webp,18544,https://ggstand.com/public/storage/items/1775564099ac44eb2adfc51023b9393bbd2f3a8e9f.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=82.2617%
 3,"AKR ""Carbon""",REPLACE_EXISTING,SKIPPED_VALID,akr_carbon.webp,30458,,,alpha=85.0204%
-4,"AKR ""Digital Burst""",ADD_NEW,SKIPPED_VALID,akr_digital_burst.webp,29634,,,alpha=90.9126%
+4,"AKR ""Digital Burst""",ADD_NEW,OK_DISCOVERED,akr_digital_burst.webp,29634,https://ggstand.com/public/storage/items/16897045977e2594497532ac8bbcfc9681b7c27701.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=90.9126%
 5,"AKR ""Dragon""",REPLACE_EXISTING,SKIPPED_VALID,akr_dragon.webp,37240,,,alpha=84.7389%
 6,"AKR ""Fabric Storm""",REPLACE_EXISTING,SKIPPED_VALID,akr_fabric_storm.webp,37932,,,alpha=86.0435%
 7,"AKR ""Genesis""",REPLACE_EXISTING,SKIPPED_VALID,akr_genesis.webp,21036,,,alpha=82.5485%
-8,"AKR ""Mirage Menace""",ADD_NEW,SKIPPED_VALID,akr_mirage_menace.webp,35080,,,alpha=91.7412%
+8,"AKR ""Mirage Menace""",ADD_NEW,OK_DISCOVERED,akr_mirage_menace.webp,35080,https://ggstand.com/public/storage/items/1693405187359b626835c9112bdd7873fab04b84b1.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=91.7412%
 9,"AKR ""Night Fury""",REPLACE_EXISTING,SKIPPED_VALID,akr_night_fury.webp,25340,,,alpha=89.3951%
-10,"AKR ""Scylla""",ADD_NEW,SKIPPED_VALID,akr_scylla.webp,32162,,,alpha=89.3951%
-11,"AKR ""Sketch""",ADD_NEW,SKIPPED_VALID,akr_sketch.webp,23646,,,alpha=82.3753%
+10,"AKR ""Scylla""",ADD_NEW,OK_DISCOVERED,akr_scylla.webp,32162,https://ggstand.com/public/storage/items/16896920998068ba9f4f2216ad5edc47641853b2ce.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=89.3951%
+11,"AKR ""Sketch""",ADD_NEW,OK_DISCOVERED,akr_sketch.webp,23646,https://ggstand.com/public/storage/items/1766142321943e9c0dcbf9785d7b795e68a85e095d.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=82.3753%
 12,"AKR ""Sport""",REPLACE_EXISTING,SKIPPED_VALID,akr_sport.webp,34566,,,alpha=85.3462%
 13,"AKR ""Treasure Hunter""",REPLACE_EXISTING,SKIPPED_VALID,akr_treasure_hunter.webp,49390,,,alpha=84.9754%
-14,"AKR ""Twilight""",ADD_NEW,SKIPPED_VALID,akr_twilight.webp,15760,,,alpha=82.4654%
-15,"AKR12 ""Geometric""",ADD_NEW,SKIPPED_VALID,akr12_geometric.webp,38998,,,alpha=85.7689%
-16,"AKR12 ""Kensei""",ADD_NEW,SKIPPED_VALID,akr12_kensei.webp,27462,,,alpha=74.2958%
-17,"AWM ""Gear""",ADD_NEW,SKIPPED_VALID,awm_gear.webp,27580,,,alpha=87.8975%
+14,"AKR ""Twilight""",ADD_NEW,OK_DISCOVERED,akr_twilight.webp,15760,https://ggstand.com/public/storage/items/177737196222ec63a69a5a338039d3c50cce907a06.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=82.4654%
+15,"AKR12 ""Geometric""",ADD_NEW,OK_DISCOVERED,akr12_geometric.webp,38998,https://ggstand.com/public/storage/items/16880794321f06e2a88983683dc21537c6e28932d0.png,https://ggstand.com/en/case/akr12,source=WEBP; alpha=85.7689%
+16,"AKR12 ""Kensei""",ADD_NEW,OK_DISCOVERED,akr12_kensei.webp,27462,https://ggstand.com/public/storage/items/17586326718052fcc2cef429e679d17786805c272c.png,https://ggstand.com/en/case/akr12,source=WEBP; alpha=74.2958%
+17,"AWM ""Gear""",ADD_NEW,OK_DISCOVERED,awm_gear.webp,27580,https://ggstand.com/public/storage/items/16880802900037bc0f17f83d13a3daf4ffbdff9559.png,https://ggstand.com/en/case/awm,source=WEBP; alpha=87.8975%
 18,"AWM ""Genesis""",REPLACE_EXISTING,SKIPPED_VALID,awm_genesis.webp,32450,,,alpha=88.5811%
-19,"AWM ""Jade Stone""",ADD_NEW,SKIPPED_VALID,awm_jade_stone.webp,21538,,,alpha=73.7175%
-20,"AWM ""Nebula""",ADD_NEW,SKIPPED_VALID,awm_nebula.webp,23834,,,alpha=92.2020%
-21,"AWM ""Polar Night""",ADD_NEW,SKIPPED_VALID,awm_polar_night.webp,29332,,,alpha=87.7396%
-22,"AWM ""Stickerbomb""",ADD_NEW,SKIPPED_VALID,awm_stickerbomb.webp,30538,,,alpha=90.8989%
+19,"AWM ""Jade Stone""",ADD_NEW,OK_DISCOVERED,awm_jade_stone.webp,21538,https://ggstand.com/public/storage/items/17709866926d186b31fb1258480445905114743c86.png,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=73.7175%
+20,"AWM ""Nebula""",ADD_NEW,OK_DISCOVERED,awm_nebula.webp,23834,https://ggstand.com/public/storage/items/1689944070c4997fb59ed2dd9930620ad07401a8c5.png,https://ggstand.com/en/case/awm,source=WEBP; alpha=92.2020%
+21,"AWM ""Polar Night""",ADD_NEW,OK_DISCOVERED,awm_polar_night.webp,29332,https://ggstand.com/public/storage/items/168808040452504bda1e3ffa1cbbda2b2b1e2c4705.png,https://ggstand.com/en/case/awm,source=WEBP; alpha=87.7396%
+22,"AWM ""Stickerbomb""",ADD_NEW,OK_DISCOVERED,awm_stickerbomb.webp,30538,https://ggstand.com/public/storage/items/1689692333cb2c5fa86c1726e0cfd7010f52c243cd.png,https://ggstand.com/en/case/awm,source=WEBP; alpha=90.8989%
 23,"Akimbo Uzi ""Yokai""",REPLACE_EXISTING,SKIPPED_VALID,akimbo_uzi_yokai.webp,17698,,,alpha=81.4178%
-24,"Berettas ""Cascade""",ADD_NEW,SKIPPED_VALID,berettas_cascade.webp,20962,,,alpha=83.1833%
+24,"Berettas ""Cascade""",ADD_NEW,OK_DISCOVERED,berettas_cascade.webp,20962,https://ggstand.com/public/storage/items/1756134533dbc52bcafebc39ab02378dc77a0178a3.png,https://ggstand.com/en/case/berettas,source=WEBP; alpha=83.1833%
 25,"Butterfly ""Black Widow""",REPLACE_EXISTING,SKIPPED_VALID,butterfly_black_widow.webp,9836,,,alpha=92.1120%
-26,"Butterfly ""Dragon Glass""",ADD_NEW,SKIPPED_VALID,butterfly_dragon_glass.webp,13572,,,alpha=92.1120%
-27,"Butterfly ""Jade Stone""",ADD_NEW,SKIPPED_VALID,butterfly_jade_stone.webp,15902,,,alpha=91.9525%
+26,"Butterfly ""Dragon Glass""",ADD_NEW,OK_DISCOVERED,butterfly_dragon_glass.webp,13572,https://ggstand.com/public/storage/items/1771274836967e47283139b6ab33cd8c687dceb72e.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=92.1120%
+27,"Butterfly ""Jade Stone""",ADD_NEW,OK_DISCOVERED,butterfly_jade_stone.webp,15902,https://ggstand.com/public/storage/items/17712374635053b9592564d243615c4411e94bb4d5.png,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=91.9525%
 28,"Butterfly ""Legacy""",REPLACE_EXISTING,SKIPPED_VALID,butterfly_legacy.webp,19946,,,alpha=96.1853%
-29,"Desert Eagle ""Dragon Glass""",ADD_NEW,SKIPPED_VALID,desert_eagle_dragon_glass.webp,27658,,,alpha=83.4091%
-30,"Desert Eagle ""Eclipse""",ADD_NEW,SKIPPED_VALID,desert_eagle_eclipse.webp,19270,,,alpha=78.4744%
-31,"Desert Eagle ""Infection""",ADD_NEW,SKIPPED_VALID,desert_eagle_infection.webp,28196,,,alpha=79.3442%
-32,"Desert Eagle ""Jade Stone""",ADD_NEW,SKIPPED_VALID,desert_eagle_jade_stone.webp,22220,,,alpha=78.9955%
+29,"Desert Eagle ""Dragon Glass""",ADD_NEW,OK_DISCOVERED,desert_eagle_dragon_glass.webp,27658,https://ggstand.io/public/storage/items/16880806961e7419157bd7b862885cfc13bb394818.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=83.4091%
+30,"Desert Eagle ""Eclipse""",ADD_NEW,OK_DISCOVERED,desert_eagle_eclipse.webp,19270,https://ggstand.io/public/storage/items/174282806429d307817c36e6656997ad695365e482.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=78.4744%
+31,"Desert Eagle ""Infection""",ADD_NEW,OK_DISCOVERED,desert_eagle_infection.webp,28196,https://ggstand.io/public/storage/items/16897047008d0a43313af5b5859faf1a2098401161.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=79.3442%
+32,"Desert Eagle ""Jade Stone""",ADD_NEW,OK_DISCOVERED,desert_eagle_jade_stone.webp,22220,https://ggstand.com/public/storage/items/1771237648dacfb337d117376df98832f740162087.png,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=78.9955%
 33,"Desert Eagle ""Morgan""",REPLACE_EXISTING,SKIPPED_VALID,desert_eagle_morgan.webp,22682,,,alpha=90.2565%
 34,"Desert Eagle ""Razorwire""",REPLACE_EXISTING,SKIPPED_VALID,desert_eagle_razorwire.webp,21550,,,alpha=79.0733%
-35,"Desert Eagle ""Red Dragon""",ADD_NEW,SKIPPED_VALID,desert_eagle_red_dragon.webp,56964,,,alpha=78.7392%
-36,"Desert Eagle ""Venator""",ADD_NEW,SKIPPED_VALID,desert_eagle_venator.webp,39694,,,alpha=88.1935%
-37,"Desert Eagle ""Violet Flame""",ADD_NEW,SKIPPED_VALID,desert_eagle_violet_flame.webp,28994,,,alpha=89.3440%
+35,"Desert Eagle ""Red Dragon""",ADD_NEW,OK_DISCOVERED,desert_eagle_red_dragon.webp,56964,https://ggstand.io/public/storage/items/1688080812f1d4fa2d1f5569d8a6effa52f46cbb2f.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=78.7392%
+36,"Desert Eagle ""Venator""",ADD_NEW,OK_DISCOVERED,desert_eagle_venator.webp,39694,https://ggstand.io/public/storage/items/1688405645e379f2464e11db2c54cd8817c98242e8.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=88.1935%
+37,"Desert Eagle ""Violet Flame""",ADD_NEW,OK_DISCOVERED,desert_eagle_violet_flame.webp,28994,https://ggstand.io/public/storage/items/1710439666fc669ef3147a4f7ca78f2965708ae93b.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=89.3440%
 38,"Desert Eagle ""Yakuza""",REPLACE_EXISTING,SKIPPED_VALID,desert_eagle_yakuza.webp,38094,,,alpha=87.5351%
-39,"Dual Daggers ""Demonic Steel""",ADD_NEW,SKIPPED_VALID,dual_daggers_demonic_steel.webp,18358,,,alpha=83.9500%
-40,"F/S ""Hellspawn""",ADD_NEW,SKIPPED_VALID,f_s_hellspawn.webp,26004,,,alpha=91.2346%
-41,"F/S ""Octopus""",ADD_NEW,SKIPPED_VALID,f_s_octopus.webp,30396,,,alpha=88.4453%
-42,"F/S ""Rush""",ADD_NEW,SKIPPED_VALID,f_s_rush.webp,32684,,,alpha=81.5872%
-43,"F/S ""Toxic""",ADD_NEW,SKIPPED_VALID,f_s_toxic.webp,17074,,,alpha=93.6752%
-44,"F/S ""Vines""",ADD_NEW,SKIPPED_VALID,f_s_vines.webp,22594,,,alpha=80.4039%
+39,"Dual Daggers ""Demonic Steel""",ADD_NEW,OK_DISCOVERED,dual_daggers_demonic_steel.webp,18358,https://ggstand.com/public/storage/items/177929264814d16061bc05122363c4daa4374e3f6f.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=83.9500%
+40,"F/S ""Hellspawn""",ADD_NEW,OK_DISCOVERED,f_s_hellspawn.webp,26004,https://ggstand.io/public/storage/items/1704636638390fe6c88f39237e7278ee4fc03dc535.png,https://ggstand.io/ru/case/f-s,source=WEBP; alpha=91.2346%
+41,"F/S ""Octopus""",ADD_NEW,OK_DISCOVERED,f_s_octopus.webp,30396,https://ggstand.io/public/storage/items/1689692510785f67a70b1a86267991a1d79c02e050.png,https://ggstand.io/ru/case/f-s,source=WEBP; alpha=88.4453%
+42,"F/S ""Rush""",ADD_NEW,OK_DISCOVERED,f_s_rush.webp,32684,https://ggstand.io/public/storage/items/16880819372432b3b57a68aa04249782481186d484.png,https://ggstand.io/ru/case/f-s,source=WEBP; alpha=81.5872%
+43,"F/S ""Toxic""",ADD_NEW,OK_DISCOVERED,f_s_toxic.webp,17074,https://ggstand.io/public/storage/items/17104380845ecbdfc0e1ec6c6587b3e62ba4ba707d.png,https://ggstand.io/ru/case/f-s,source=WEBP; alpha=93.6752%
+44,"F/S ""Vines""",ADD_NEW,OK_DISCOVERED,f_s_vines.webp,22594,https://ggstand.io/public/storage/items/175164591544ab3ae6906c4c136026f4e550d46a28.png,https://ggstand.io/ru/case/f-s,source=WEBP; alpha=80.4039%
 45,"FAMAS ""Fury""",REPLACE_EXISTING,SKIPPED_VALID,famas_fury.webp,48736,,,alpha=83.9340%
-46,"FAMAS ""Handcraft""",ADD_NEW,SKIPPED_VALID,famas_handcraft.webp,29566,,,alpha=91.0713%
-47,"FAMAS ""Raider""",ADD_NEW,SKIPPED_VALID,famas_raider.webp,26734,,,alpha=77.6711%
-48,"FAMAS ""Ritual""",ADD_NEW,SKIPPED_VALID,famas_ritual.webp,29650,,,alpha=77.6054%
-49,"FN FAL ""Astral Rift""",ADD_NEW,SKIPPED_VALID,fn_fal_astral_rift.webp,20092,,,alpha=94.4176%
+46,"FAMAS ""Handcraft""",ADD_NEW,OK_DISCOVERED,famas_handcraft.webp,29566,https://ggstand.io/public/storage/items/168985694794cba744271ba1b55cfd679a8b26f06d.png,https://ggstand.io/ru/case/famas,source=WEBP; alpha=91.0713%
+47,"FAMAS ""Raider""",ADD_NEW,OK_DISCOVERED,famas_raider.webp,26734,https://ggstand.com/public/storage/items/176165960312b9d407a411a7e33efe6c129bcd152f.png,https://ggstand.com/en/case/dia-de-muertos-st-collection,source=WEBP; alpha=77.6711%
+48,"FAMAS ""Ritual""",ADD_NEW,OK_DISCOVERED,famas_ritual.webp,29650,https://ggstand.io/public/storage/items/1749648401497b815abc0b11c40211e9e46550d2e9.png,https://ggstand.io/ru/case/famas,source=WEBP; alpha=77.6054%
+49,"FN FAL ""Astral Rift""",ADD_NEW,OK_DISCOVERED,fn_fal_astral_rift.webp,20092,https://ggstand.io/public/storage/items/17301963445d149978c4effc8195cb1a07fc277c3c.png,https://ggstand.io/ru/case/fn-fal,source=WEBP; alpha=94.4176%
 50,"FN FAL ""Phoenix Risen""",REPLACE_EXISTING,SKIPPED_VALID,fn_fal_phoenix_risen.webp,27766,,,alpha=87.1437%
-51,"FN FAL ""Splash""",ADD_NEW,SKIPPED_VALID,fn_fal_splash.webp,20010,,,alpha=82.0999%
+51,"FN FAL ""Splash""",ADD_NEW,OK_DISCOVERED,fn_fal_splash.webp,20010,https://ggstand.io/public/storage/items/175164590114f6bd9c2f0a83262d50b485f98517af.png,https://ggstand.io/ru/case/fn-fal,source=WEBP; alpha=82.0999%
 52,"Fang ""Aureate""",REPLACE_EXISTING,SKIPPED_VALID,fang_aureate.webp,14320,,,alpha=90.0566%
-53,"Fang ""Flare""",ADD_NEW,SKIPPED_VALID,fang_flare.webp,12952,,,alpha=90.0887%
-54,"G22 ""Flor de Muertos""",ADD_NEW,SKIPPED_VALID,g22_flor_de_muertos.webp,20682,,,alpha=82.1991%
+53,"Fang ""Flare""",ADD_NEW,OK_DISCOVERED,fang_flare.webp,12952,https://ggstand.com/public/storage/items/17792875925ce37d7151e102ea5622f08c6bd2207d.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=90.0887%
+54,"G22 ""Flor de Muertos""",ADD_NEW,OK_KNOWN_OVERRIDE+DISCOVERED,g22_flor_de_muertos.webp,20682,https://ggstand.com/public/storage/items/1761659259c8420d10583ba367d7e56450c8986ad7.png,https://ggstand.com/en/case/dia-de-muertos-st-collection,source=WEBP; alpha=82.1991%
 55,"G22 ""Frost Wyrm""",REPLACE_EXISTING,SKIPPED_VALID,g22_frost_wyrm.webp,55592,,,alpha=82.1335%
 56,"G22 ""Haunt""",REPLACE_EXISTING,SKIPPED_VALID,g22_haunt.webp,25034,,,alpha=90.6036%
-57,"G22 ""Lion Lord""",ADD_NEW,SKIPPED_VALID,g22_lion_lord.webp,22018,,,alpha=91.6801%
-58,"G22 ""Monster""",ADD_NEW,SKIPPED_VALID,g22_monster.webp,43466,,,alpha=83.4297%
-59,"G22 ""Reindeer Sweater""",ADD_NEW,SKIPPED_VALID,g22_reindeer_sweater.webp,21166,,,alpha=82.1831%
-60,"G22 ""Twilight""",ADD_NEW,SKIPPED_VALID,g22_twilight.webp,12510,,,alpha=82.1915%
+57,"G22 ""Lion Lord""",ADD_NEW,OK_DISCOVERED,g22_lion_lord.webp,22018,https://ggstand.com/public/storage/items/16884057250efb279aa96c6aa61745113a1d542842.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=91.6801%
+58,"G22 ""Monster""",ADD_NEW,OK_DISCOVERED,g22_monster.webp,43466,https://ggstand.com/public/storage/items/1688127267f41b83f890ba35a76c6e3098ac52bba8.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=83.4297%
+59,"G22 ""Reindeer Sweater""",ADD_NEW,OK_KNOWN_OVERRIDE,g22_reindeer_sweater.webp,21166,https://ggstand.com/public/storage/items/1766142343990c70547a438e4e060e970acf4701e2.png,,source=WEBP; alpha=82.1831%
+60,"G22 ""Twilight""",ADD_NEW,OK_DISCOVERED,g22_twilight.webp,12510,https://ggstand.com/public/storage/items/176614233617bbc6ddc5899942547fc9756dc6a8c6.png,https://ggstand.com/en/case/arcane,source=WEBP; alpha=82.1915%
 61,"G22 ""White Carbon""",REPLACE_EXISTING,SKIPPED_VALID,g22_white_carbon.webp,32766,,,alpha=83.2985%
 62,"Karambit ""Claw""",REPLACE_EXISTING,SKIPPED_VALID,karambit_claw.webp,22370,,,alpha=89.7903%
-63,"Karambit ""Nebula""",ADD_NEW,SKIPPED_VALID,karambit_nebula.webp,14818,,,alpha=87.8807%
+63,"Karambit ""Nebula""",ADD_NEW,OK_DISCOVERED,karambit_nebula.webp,14818,https://ggstand.com/public/storage/items/177127509808681759ea4ecc2849062ee769e66a1b.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=87.8807%
 64,"Karambit ""Pelagia""",REPLACE_EXISTING,SKIPPED_VALID,karambit_pelagia.webp,16204,,,alpha=87.6541%
 65,"Karambit ""Scratch""",REPLACE_EXISTING,SKIPPED_VALID,karambit_scratch.webp,16116,,,alpha=89.7903%
 66,"Karambit ""Universe""",REPLACE_EXISTING,SKIPPED_VALID,karambit_universe.webp,12738,,,alpha=87.7113%
-67,"Kukri ""Cascade""",ADD_NEW,SKIPPED_VALID,kukri_cascade.webp,15670,,,alpha=87.9478%
-68,"Kukri ""Prophet""",ADD_NEW,SKIPPED_VALID,kukri_prophet.webp,14204,,,alpha=87.9364%
-69,"Kunai ""Poison""",ADD_NEW,SKIPPED_VALID,kunai_poison.webp,21120,,,alpha=90.2893%
-70,"M16 ""Bigfoot""",ADD_NEW,SKIPPED_VALID,m16_bigfoot.webp,31098,,,alpha=91.9327%
-71,"M16 ""Muraena""",ADD_NEW,SKIPPED_VALID,m16_muraena.webp,30832,,,alpha=88.7100%
-72,"M16 ""Naga""",ADD_NEW,SKIPPED_VALID,m16_naga.webp,39376,,,alpha=85.3897%
-73,"M16 ""Sea Glint""",ADD_NEW,SKIPPED_VALID,m16_sea_glint.webp,39336,,,alpha=88.4750%
+67,"Kukri ""Cascade""",ADD_NEW,OK_DISCOVERED,kukri_cascade.webp,15670,https://ggstand.com/public/storage/items/1756135016542a8eb6533674244d9027686285ad3f.png,https://ggstand.com/en/case/syndicate-st-collection,source=WEBP; alpha=87.9478%
+68,"Kukri ""Prophet""",ADD_NEW,OK_DISCOVERED,kukri_prophet.webp,14204,https://ggstand.io/public/storage/items/17792928501e09e797f2b0aef9d2cf93c41f94cc43.png,https://ggstand.io/ru/case/legends-case,source=WEBP; alpha=87.9364%
+69,"Kunai ""Poison""",ADD_NEW,OK_DISCOVERED,kunai_poison.webp,21120,https://ggstand.com/public/storage/items/16896914156eac09bfdb4fcd756faeb53c4c0c40e3.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=90.2893%
+70,"M16 ""Bigfoot""",ADD_NEW,OK_DISCOVERED,m16_bigfoot.webp,31098,https://ggstand.io/public/storage/items/170318837427e33360c0438b3a870762a09dd00675.png,https://ggstand.io/ru/case/m16,source=WEBP; alpha=91.9327%
+71,"M16 ""Muraena""",ADD_NEW,OK_DISCOVERED,m16_muraena.webp,30832,https://ggstand.io/public/storage/items/1689692917447ce59fab44f431a6f8ca371e4dc6d0.png,https://ggstand.io/ru/case/m16,source=WEBP; alpha=88.7100%
+72,"M16 ""Naga""",ADD_NEW,OK_DISCOVERED,m16_naga.webp,39376,https://ggstand.com/public/storage/items/176582924447ca24c920405df4aa51312d2643ed03.webp,https://ggstand.com/en/case/dia-de-muertos-st-collection,source=WEBP; alpha=85.3897%
+73,"M16 ""Sea Glint""",ADD_NEW,OK_DISCOVERED,m16_sea_glint.webp,39336,https://ggstand.io/public/storage/items/17191365631f3d44d94d19ac0bd5f9a4fd5d63708a.png,https://ggstand.io/ru/case/m16,source=WEBP; alpha=88.4750%
 74,"M4 ""Demon""",REPLACE_EXISTING,SKIPPED_VALID,m4_demon.webp,29118,,,alpha=83.6670%
-75,"M4 ""Flex""",ADD_NEW,SKIPPED_VALID,m4_flex.webp,23178,,,alpha=80.2849%
+75,"M4 ""Flex""",ADD_NEW,OK_DISCOVERED,m4_flex.webp,23178,https://ggstand.io/public/storage/items/174489521467470ef1203c5216b9880b3df32f1109.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=80.2849%
 76,"M4 ""Ironclad""",REPLACE_EXISTING,SKIPPED_VALID,m4_ironclad.webp,38172,,,alpha=86.6264%
-77,"M4 ""Kachi""",ADD_NEW,SKIPPED_VALID,m4_kachi.webp,26140,,,alpha=80.3093%
+77,"M4 ""Kachi""",ADD_NEW,OK_DISCOVERED,m4_kachi.webp,26140,https://ggstand.io/public/storage/items/17353939386407183854d5dd34be3a76c414f40240.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=80.3093%
 78,"M4 ""Lizard""",REPLACE_EXISTING,SKIPPED_VALID,m4_lizard.webp,42292,,,alpha=84.3361%
 79,"M4 ""Night Wolf""",REPLACE_EXISTING,SKIPPED_VALID,m4_night_wolf.webp,34806,,,alpha=83.0711%
-80,"M4 ""PRO""",ADD_NEW,SKIPPED_VALID,m4_pro.webp,33770,,,alpha=85.1204%
+80,"M4 ""PRO""",ADD_NEW,OK_DISCOVERED,m4_pro.webp,33770,https://ggstand.io/public/storage/items/1688127677203f4c7bca7a6304ee703f69c5bb28f1.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=85.1204%
 81,"M4 ""Pixel Storm""",REPLACE_EXISTING,SKIPPED_VALID,m4_pixel_storm.webp,46872,,,alpha=84.0248%
 82,"M4 ""Samurai""",REPLACE_EXISTING,SKIPPED_VALID,m4_samurai.webp,43232,,,alpha=84.6489%
-83,"M40 ""Arctic""",ADD_NEW,SKIPPED_VALID,m40_arctic.webp,20038,,,alpha=92.3920%
+83,"M40 ""Arctic""",ADD_NEW,OK_DISCOVERED,m40_arctic.webp,20038,https://ggstand.io/public/storage/items/168971412310e6d06c2eb733dc951fd6c770ec15e4.png,https://ggstand.io/ru/case/m40,source=WEBP; alpha=92.3920%
 84,"M40 ""Auric Bloom""",REPLACE_EXISTING,SKIPPED_VALID,m40_auric_bloom.webp,25366,,,alpha=77.2949%
 85,"M4A1 ""Bubblegum""",REPLACE_EXISTING,SKIPPED_VALID,m4a1_bubblegum.webp,40252,,,alpha=87.7220%
 86,"M4A1 ""Ferocity""",REPLACE_EXISTING,SKIPPED_VALID,m4a1_ferocity.webp,28972,,,alpha=91.7267%
-87,"M4A1 ""Jade Stone""",ADD_NEW,SKIPPED_VALID,m4a1_jade_stone.webp,21982,,,alpha=81.7978%
+87,"M4A1 ""Jade Stone""",ADD_NEW,OK_DISCOVERED,m4a1_jade_stone.webp,21982,https://ggstand.com/public/storage/items/1771237729f0acd7cb72d8852f0aeb5b8fcaa4d8ea.png,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=81.7978%
 88,"M4A1 ""Kitsune""",REPLACE_EXISTING,SKIPPED_VALID,m4a1_kitsune.webp,26450,,,alpha=87.8258%
-89,"M4A1 ""Mermaid""",ADD_NEW,SKIPPED_VALID,m4a1_mermaid.webp,25140,,,alpha=91.4207%
-90,"M4A1 ""Serpent""",ADD_NEW,SKIPPED_VALID,m4a1_serpent.webp,24696,,,alpha=93.4303%
+89,"M4A1 ""Mermaid""",ADD_NEW,OK_DISCOVERED,m4a1_mermaid.webp,25140,https://ggstand.io/public/storage/items/1689692915e9bdaec352489b00972c0e46b96373d8.png,https://ggstand.io/ru/case/m4a1,source=WEBP; alpha=91.4207%
+90,"M4A1 ""Serpent""",ADD_NEW,OK_DISCOVERED,m4a1_serpent.webp,24696,https://ggstand.io/public/storage/items/1693400318cb99bf8725dfdb1090ba4d9f9bd783c4.png,https://ggstand.io/ru/case/m4a1,source=WEBP; alpha=93.4303%
 91,"M4A1 ""Sparkling Gaze""",REPLACE_EXISTING,SKIPPED_VALID,m4a1_sparkling_gaze.webp,26714,,,alpha=81.9664%
 92,"M4A1 ""Treasure Hunter""",REPLACE_EXISTING,SKIPPED_VALID,m4a1_treasure_hunter.webp,22422,,,alpha=81.7719%
-93,"M60 ""Grunge""",ADD_NEW,SKIPPED_VALID,m60_grunge.webp,40308,,,alpha=86.6501%
-94,"M60 ""Spaceware""",ADD_NEW,SKIPPED_VALID,m60_spaceware.webp,41332,,,alpha=82.5760%
+93,"M60 ""Grunge""",ADD_NEW,OK_KNOWN_OVERRIDE+DISCOVERED,m60_grunge.webp,40308,https://ggstand.com/public/storage/items/1688128337708747050dce60958703b10a8c025772.png,https://ggstand.io/ru/case/m60,source=WEBP; alpha=86.6501%
+94,"M60 ""Spaceware""",ADD_NEW,OK_DISCOVERED,m60_spaceware.webp,41332,https://ggstand.io/public/storage/items/1689714082483860aeac07a0f2c1d3158578c494a3.png,https://ggstand.io/ru/case/m60,source=WEBP; alpha=82.5760%
 95,"M9 Bayonet ""Ancient""",REPLACE_EXISTING,SKIPPED_VALID,m9_bayonet_ancient.webp,14592,,,alpha=89.9269%
 96,"M9 Bayonet ""Dragon Glass""",REPLACE_EXISTING,SKIPPED_VALID,m9_bayonet_dragon_glass.webp,14904,,,alpha=89.9284%
 97,"M9 Bayonet ""Universe""",REPLACE_EXISTING,SKIPPED_VALID,m9_bayonet_universe.webp,13728,,,alpha=89.9284%
-98,"MAC10 ""Arcane Surge""",ADD_NEW,SKIPPED_VALID,mac10_arcane_surge.webp,14810,,,alpha=84.5818%
-99,"MAC10 ""Arid""",ADD_NEW,SKIPPED_VALID,mac10_arid.webp,22632,,,alpha=93.8316%
-100,"MAC10 ""Corrode""",ADD_NEW,SKIPPED_VALID,mac10_corrode.webp,23614,,,alpha=93.5287%
-101,"MP5 ""Arcane Surge""",ADD_NEW,SKIPPED_VALID,mp5_arcane_surge.webp,22424,,,alpha=78.8750%
-102,"MP5 ""Clouds""",ADD_NEW,SKIPPED_VALID,mp5_clouds.webp,21732,,,alpha=78.9139%
-103,"MP5 ""Insanity""",ADD_NEW,SKIPPED_VALID,mp5_insanity.webp,30180,,,alpha=90.1833%
-104,"MP5 ""Northern Fury""",ADD_NEW,SKIPPED_VALID,mp5_northern_fury.webp,35968,,,alpha=84.5474%
-105,"MP5 ""Phantom Form""",ADD_NEW,SKIPPED_VALID,mp5_phantom_form.webp,23976,,,alpha=78.9413%
+98,"MAC10 ""Arcane Surge""",ADD_NEW,OK_KNOWN_OVERRIDE+DISCOVERED,mac10_arcane_surge.webp,14810,https://skins4fps.com/images/standoff/mac10-arcane-surge.png,https://ggstand.io/ru/case/mac10,source=PNG; alpha=84.5818%
+99,"MAC10 ""Arid""",ADD_NEW,OK_DISCOVERED,mac10_arid.webp,22632,https://ggstand.io/public/storage/items/169340047331591582e31342e9d349a585df1ebf0c.png,https://ggstand.io/ru/case/mac10,source=WEBP; alpha=93.8316%
+100,"MAC10 ""Corrode""",ADD_NEW,OK_DISCOVERED,mac10_corrode.webp,23614,https://ggstand.io/public/storage/items/1710434414745846790155f4c8ab6bdb612a2b3b23.png,https://ggstand.io/ru/case/mac10,source=WEBP; alpha=93.5287%
+101,"MP5 ""Arcane Surge""",ADD_NEW,OK_DISCOVERED,mp5_arcane_surge.webp,22424,https://ggstand.io/public/storage/items/17616596438ec88b15bd38af383ff3550420ceb4d5.png,https://ggstand.io/ru/case/wild-safari-s-st,source=WEBP; alpha=78.8750%
+102,"MP5 ""Clouds""",ADD_NEW,OK_DISCOVERED,mp5_clouds.webp,21732,https://ggstand.com/public/storage/items/1756134530050508b7c92681cce26165943a52afca.png,https://ggstand.com/en/case/syndicate-st-collection,source=WEBP; alpha=78.9139%
+103,"MP5 ""Insanity""",ADD_NEW,OK_DISCOVERED,mp5_insanity.webp,30180,https://ggstand.com/public/storage/items/169848822372c671b35c9560058d5f7c02f8a6aff9.png,https://ggstand.com/en/case/subject-x-st-collection,source=WEBP; alpha=90.1833%
+104,"MP5 ""Northern Fury""",ADD_NEW,OK_DISCOVERED,mp5_northern_fury.webp,35968,https://ggstand.io/public/storage/items/1688129423d17b32cf2218b0b4362b476d53055186.png,https://ggstand.io/ru/case/mp5,source=WEBP; alpha=84.5474%
+105,"MP5 ""Phantom Form""",ADD_NEW,OK_DISCOVERED,mp5_phantom_form.webp,23976,https://ggstand.io/public/storage/items/1777372078a2bf6e6442a91f37fb1c5e9b6b0f222c.png,https://ggstand.io/ru/case/mp5,source=WEBP; alpha=78.9413%
 106,"MP5 ""Project Z9""",REPLACE_EXISTING,SKIPPED_VALID,mp5_project_z9.webp,34022,,,alpha=85.3790%
-107,"MP7 ""Space Blaster""",ADD_NEW,SKIPPED_VALID,mp7_space_blaster.webp,32152,,,alpha=88.6757%
+107,"MP7 ""Space Blaster""",ADD_NEW,OK_KNOWN_OVERRIDE+DISCOVERED,mp7_space_blaster.webp,32152,https://ggstand.com/public/storage/items/16885080602f2573b135dbf235e94387999719fd96.png,https://ggstand.io/ru/case/mp7,source=WEBP; alpha=88.6757%
 108,"MP7 ""Winter Sport""",REPLACE_EXISTING,SKIPPED_VALID,mp7_winter_sport.webp,31860,,,alpha=87.4474%
-109,"Mantis ""Eclipse""",ADD_NEW,SKIPPED_VALID,mantis_eclipse.webp,13428,,,alpha=87.5572%
-110,"P350 ""Autumn""",ADD_NEW,SKIPPED_VALID,p350_autumn.webp,39184,,,alpha=83.5014%
-111,"P350 ""Blizzard""",ADD_NEW,SKIPPED_VALID,p350_blizzard.webp,43886,,,alpha=85.8017%
-112,"P350 ""Emberbird""",ADD_NEW,SKIPPED_VALID,p350_emberbird.webp,20618,,,alpha=80.6396%
+109,"Mantis ""Eclipse""",ADD_NEW,OK_DISCOVERED,mantis_eclipse.webp,13428,https://ggstand.com/public/storage/items/1742828219365b1145430d01cf3440330d0b63c71c.png,https://ggstand.com/en/case/turbo,source=WEBP; alpha=87.5572%
+110,"P350 ""Autumn""",ADD_NEW,OK_DISCOVERED,p350_autumn.webp,39184,https://ggstand.com/public/storage/items/168813246520baaf6465a3a83eac21e0dec67a5f1c.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=83.5014%
+111,"P350 ""Blizzard""",ADD_NEW,OK_DISCOVERED,p350_blizzard.webp,43886,https://ggstand.com/public/storage/items/1688132469974e5478171fb6540f01492bbaac908f.png,https://ggstand.com/en/case/legendary,source=WEBP; alpha=85.8017%
+112,"P350 ""Emberbird""",ADD_NEW,OK_DISCOVERED,p350_emberbird.webp,20618,https://ggstand.com/public/storage/items/17661423176b3def7be71edd59bc872493ac54882c.png,https://ggstand.com/en/case/legendary,source=WEBP; alpha=80.6396%
 113,"P350 ""Forest Spirit""",REPLACE_EXISTING,SKIPPED_VALID,p350_forest_spirit.webp,50124,,,alpha=85.1700%
 114,"P350 ""Neon""",REPLACE_EXISTING,SKIPPED_VALID,p350_neon.webp,37430,,,alpha=84.1286%
-115,"P350 ""Raider""",ADD_NEW,SKIPPED_VALID,p350_raider.webp,29462,,,alpha=81.2378%
-116,"P350 ""Rally""",ADD_NEW,SKIPPED_VALID,p350_rally.webp,45652,,,alpha=79.1199%
+115,"P350 ""Raider""",ADD_NEW,OK_DISCOVERED,p350_raider.webp,29462,https://ggstand.com/public/storage/items/1689713926ebd09e7729ca8c8ea483e1527a690eaf.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=81.2378%
+116,"P350 ""Rally""",ADD_NEW,OK_DISCOVERED,p350_rally.webp,45652,https://ggstand.com/public/storage/items/1688132485c0d68473bf8293971b41ae3b197550aa.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=79.1199%
 117,"P90 ""Ghoul""",REPLACE_EXISTING,SKIPPED_VALID,p90_ghoul.webp,55124,,,alpha=79.3518%
-118,"P90 ""Nebula""",ADD_NEW,SKIPPED_VALID,p90_nebula.webp,37086,,,alpha=82.5638%
-119,"S1 FabM ""Cloud Lily""",ADD_NEW,SKIPPED_VALID,s1_fabm_cloud_lily.webp,22398,,,alpha=81.7230%
-120,"S2 F/S ""Burning Mist""",ADD_NEW,SKIPPED_VALID,s2_f_s_burning_mist.webp,51034,,,alpha=80.3619%
-121,"S3 Mallard ""Ink Wash""",ADD_NEW,SKIPPED_VALID,s3_mallard_ink_wash.webp,37554,,,alpha=80.3749%
+118,"P90 ""Nebula""",ADD_NEW,OK_DISCOVERED,p90_nebula.webp,37086,https://ggstand.io/public/storage/items/16899440688b7bb97a032cf4d262090efee24278c0.png,https://ggstand.io/ru/case/p90,source=WEBP; alpha=82.5638%
+119,"S1 FabM ""Cloud Lily""",ADD_NEW,OK_DISCOVERED,s1_fabm_cloud_lily.webp,22398,https://ggstand.com/public/storage/items/1770987124496f58d8eff4bc09d39da8cdd404bb7d.png,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=81.7230%
+120,"S2 F/S ""Burning Mist""",ADD_NEW,OK_DISCOVERED,s2_f_s_burning_mist.webp,51034,https://ggstand.com/public/storage/items/1777046344e0255b4435fb0b69d9d642a8c8bfa790.webp,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=80.3619%
+121,"S3 Mallard ""Ink Wash""",ADD_NEW,OK_DISCOVERED,s3_mallard_ink_wash.webp,37554,https://ggstand.com/public/storage/items/177709883413141f7b0fde3251a4b14c1c7fd758b2.webp,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=80.3749%
 122,"SM1014 ""Pathfinder""",REPLACE_EXISTING,SKIPPED_VALID,sm1014_pathfinder.webp,30100,,,alpha=89.7316%
-123,"SM1014 ""Triton""",ADD_NEW,SKIPPED_VALID,sm1014_triton.webp,24642,,,alpha=92.2913%
-124,"SM1014 ""Wave""",ADD_NEW,SKIPPED_VALID,sm1014_wave.webp,36284,,,alpha=88.6093%
-125,"SPAS ""Octopus""",ADD_NEW,SKIPPED_VALID,spas_octopus.webp,22344,,,alpha=91.5054%
-126,"SPAS ""Raider""",ADD_NEW,SKIPPED_VALID,spas_raider.webp,25758,,,alpha=92.3439%
-127,"SPAS ""Taint""",ADD_NEW,SKIPPED_VALID,spas_taint.webp,35562,,,alpha=88.1454%
-128,"Scorpion ""Ahau""",ADD_NEW,SKIPPED_VALID,scorpion_ahau.webp,16926,,,alpha=83.9554%
-129,"Scorpion ""Howling Ghost""",ADD_NEW,SKIPPED_VALID,scorpion_howling_ghost.webp,18712,,,alpha=83.8737%
-130,"Sticker ""Sandstone""",ADD_NEW,SKIPPED_VALID,sticker_sandstone.webp,33374,,,alpha=86.1328%
-131,"Sting ""Arcane Surge""",ADD_NEW,SKIPPED_VALID,sting_arcane_surge.webp,22032,,,alpha=89.5164%
-132,"TEC-9 ""Fable""",ADD_NEW,SKIPPED_VALID,tec_9_fable.webp,27034,,,alpha=87.8792%
-133,"TEC-9 ""Restless""",ADD_NEW,SKIPPED_VALID,tec_9_restless.webp,25476,,,alpha=92.2371%
-134,"TEC-9 ""Splash""",ADD_NEW,SKIPPED_VALID,tec_9_splash.webp,21142,,,alpha=91.7458%
-135,"TEC-9 ""Splinter Storm""",ADD_NEW,SKIPPED_VALID,tec_9_splinter_storm.webp,21434,,,alpha=90.0917%
+123,"SM1014 ""Triton""",ADD_NEW,OK_DISCOVERED,sm1014_triton.webp,24642,https://ggstand.com/public/storage/items/17191368577b498c24dbd03a1dc6ec185549079d61.png,https://ggstand.com/en/case/sttrack,source=WEBP; alpha=92.2913%
+124,"SM1014 ""Wave""",ADD_NEW,OK_DISCOVERED,sm1014_wave.webp,36284,https://ggstand.io/public/storage/items/1688132903c5308054441b9d99ae3ee11227c60323.png,https://ggstand.io/ru/case/sm1014,source=WEBP; alpha=88.6093%
+125,"SPAS ""Octopus""",ADD_NEW,OK_DISCOVERED,spas_octopus.webp,22344,https://ggstand.io/public/storage/items/168969295383e8fd56f9afa11b83fafd416a7bbe74.png,https://ggstand.io/ru/case/spas,source=WEBP; alpha=91.5054%
+126,"SPAS ""Raider""",ADD_NEW,OK_KNOWN_OVERRIDE+DISCOVERED,spas_raider.webp,25758,https://ggstand.com/public/storage/items/1689736132cac8e836971b49b867801792adbe8677.png,https://ggstand.io/ru/case/spas,source=WEBP; alpha=92.3439%
+127,"SPAS ""Taint""",ADD_NEW,OK_DISCOVERED,spas_taint.webp,35562,https://ggstand.io/public/storage/items/168840659077af8abc3e4c1df0c84035e270f65445.png,https://ggstand.io/ru/case/spas,source=WEBP; alpha=88.1454%
+128,"Scorpion ""Ahau""",ADD_NEW,OK_DISCOVERED,scorpion_ahau.webp,16926,https://ggstand.com/public/storage/items/177929336461605081d85611d9decedcd670ed904f.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=83.9554%
+129,"Scorpion ""Howling Ghost""",ADD_NEW,OK_DISCOVERED,scorpion_howling_ghost.webp,18712,https://ggstand.com/public/storage/items/1761658329d201832fe153dbbe1d16f2dfc69d0e74.png,https://ggstand.com/en/case/dia-de-muertos-st-collection,source=WEBP; alpha=83.8737%
+130,"Sticker ""Sandstone""",ADD_NEW,OK_DISCOVERED,sticker_sandstone.webp,33374,https://ggstand.com/public/storage/items/16884757106868704e119e5ed535d2be7573492677.png,https://ggstand.com/en/case/sandstone,source=WEBP; alpha=86.1328%
+131,"Sting ""Arcane Surge""",ADD_NEW,OK_KNOWN_OVERRIDE+DISCOVERED,sting_arcane_surge.webp,22032,https://skins4fps.com/images/standoff/sting-arcane-surge.png,https://ggstand.io/ru/case/arcane-surge-50-on-50,source=PNG; alpha=89.5164%
+132,"TEC-9 ""Fable""",ADD_NEW,OK_DISCOVERED,tec_9_fable.webp,27034,https://ggstand.io/public/storage/items/1688133134617f7a22866ee64ab0064a6010ba243a.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=87.8792%
+133,"TEC-9 ""Restless""",ADD_NEW,OK_DISCOVERED,tec_9_restless.webp,25476,https://ggstand.io/public/storage/items/16897361827dc81f522d9a98e4034ad0227c7fe153.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=92.2371%
+134,"TEC-9 ""Splash""",ADD_NEW,OK_DISCOVERED,tec_9_splash.webp,21142,https://ggstand.io/public/storage/items/168969305582bdff84db2fc363aadcccbcd00cf78c.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=91.7458%
+135,"TEC-9 ""Splinter Storm""",ADD_NEW,OK_DISCOVERED,tec_9_splinter_storm.webp,21434,https://ggstand.io/public/storage/items/168813314185e541fadad1008d5356c2f5317d1d30.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=90.0917%
 136,"TEC-9 ""Tropic""",REPLACE_EXISTING,SKIPPED_VALID,tec_9_tropic.webp,34948,,,alpha=88.2965%
-137,"UMP45 ""Cyberpunk""",ADD_NEW,SKIPPED_VALID,ump45_cyberpunk.webp,38586,,,alpha=85.6232%
-138,"UMP45 ""Leviathan""",ADD_NEW,SKIPPED_VALID,ump45_leviathan.webp,18364,,,alpha=81.1783%
-139,"UMP45 ""Luminous""",ADD_NEW,SKIPPED_VALID,ump45_luminous.webp,45240,,,alpha=88.7512%
+137,"UMP45 ""Cyberpunk""",ADD_NEW,OK_DISCOVERED,ump45_cyberpunk.webp,38586,https://ggstand.com/public/storage/items/1688133511ff311ea508b42c75f0db45b871437eea.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=85.6232%
+138,"UMP45 ""Leviathan""",ADD_NEW,OK_DISCOVERED,ump45_leviathan.webp,18364,https://ggstand.com/public/storage/items/17616599748e30151b8b23a200c89f0ba3fe3a9544.png,https://ggstand.com/en/case/dia-de-muertos-st-collection,source=WEBP; alpha=81.1783%
+139,"UMP45 ""Luminous""",ADD_NEW,OK_DISCOVERED,ump45_luminous.webp,45240,https://ggstand.com/public/storage/items/1688507818426a26da0c7d1cd469926620a31f1a4c.png,https://ggstand.com/en/case/legendary,source=WEBP; alpha=88.7512%
 140,"USP ""2 Years""",REPLACE_EXISTING,SKIPPED_VALID,usp_2_years.webp,43410,,,alpha=79.1725%
-141,"USP ""Corrode""",ADD_NEW,SKIPPED_VALID,usp_corrode.webp,28932,,,alpha=90.8051%
+141,"USP ""Corrode""",ADD_NEW,OK_DISCOVERED,usp_corrode.webp,28932,https://ggstand.com/public/storage/items/17104344898b411c3b6945755bd09a4aace6481017.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=90.8051%
 142,"USP ""Digital Burst""",REPLACE_EXISTING,SKIPPED_VALID,usp_digital_burst.webp,31186,,,alpha=88.1310%
-143,"USP ""Griffin""",ADD_NEW,SKIPPED_VALID,usp_griffin.webp,32074,,,alpha=86.9804%
+143,"USP ""Griffin""",ADD_NEW,OK_DISCOVERED,usp_griffin.webp,32074,https://ggstand.com/public/storage/items/16884066886e93f7aadaee99ba4f6d236ae1cdda97.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=86.9804%
 144,"USP ""Stone Cold""",REPLACE_EXISTING,SKIPPED_VALID,usp_stone_cold.webp,26616,,,alpha=86.8660%
-145,"USP ""Warden""",ADD_NEW,SKIPPED_VALID,usp_warden.webp,19518,,,alpha=79.2892%
-146,"VAL ""Rosa Mortal""",ADD_NEW,SKIPPED_VALID,val_rosa_mortal.webp,16102,,,alpha=84.8244%
-147,"Akimbo Uzi ""Howling Ghost""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_howling_ghost.webp,20342,,,alpha=81.3728%
-148,"Akimbo Uzi ""No Escape""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-149,"Akimbo Uzi ""Overdrive Red""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_overdrive_red.webp,21408,,,alpha=81.4171%
-150,"Akimbo Uzi ""Spray""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_spray.webp,29366,,,alpha=81.3927%
-151,"AKR12 ""4 Years""",ADD_NEW,SKIPPED_VALID,akr12_4_years.webp,37570,,,alpha=85.6422%
-152,"AKR12 ""Armored""",ADD_NEW,SKIPPED_VALID,akr12_armored.webp,32740,,,alpha=85.9268%
-153,"AKR12 ""Ashbringer""",ADD_NEW,SKIPPED_VALID,akr12_ashbringer.webp,43600,,,alpha=83.4328%
-154,"AKR12 ""Carbon""",ADD_NEW,SKIPPED_VALID,akr12_carbon.webp,37362,,,alpha=82.8972%
-155,"AKR12 ""Carving""",ADD_NEW,SKIPPED_VALID,akr12_carving.webp,28674,,,alpha=90.3946%
-156,"AKR12 ""Emberbird""",ADD_NEW,SKIPPED_VALID,akr12_emberbird.webp,36022,,,alpha=87.6228%
-157,"AKR12 ""Transistor""",ADD_NEW,SKIPPED_VALID,akr12_transistor.webp,31494,,,alpha=86.4914%
-158,"AKR ""Evolution""",ADD_NEW,SKIPPED_VALID,akr_evolution.webp,42332,,,alpha=85.5347%
-159,"AKR ""Nano""",ADD_NEW,SKIPPED_VALID,akr_nano.webp,38852,,,alpha=85.0380%
-160,"AKR ""Tag King""",ADD_NEW,SKIPPED_VALID,akr_tag_king.webp,28922,,,alpha=81.2950%
+145,"USP ""Warden""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target USP | Warden
+146,"VAL ""Rosa Mortal""",ADD_NEW,OK_DISCOVERED,val_rosa_mortal.webp,16102,https://ggstand.com/public/storage/items/176165982289e8453f2f2f581ffe754ce1022fd1fd.png,https://ggstand.com/en/case/dia-de-muertos-st-collection,source=WEBP; alpha=84.8244%
+147,"Akimbo Uzi ""Howling Ghost""",ADD_NEW,OK_DISCOVERED,akimbo_uzi_howling_ghost.webp,20342,https://ggstand.com/public/storage/items/1761659536408cf56be0c1f65e4a6d657fbb63bcf0.png,https://ggstand.com/en/case/dia-de-muertos-st-collection,source=WEBP; alpha=81.3728%
+148,"Akimbo Uzi ""No Escape""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target Akimbo Uzi | No Escape
+149,"Akimbo Uzi ""Overdrive Red""",ADD_NEW,OK_DISCOVERED,akimbo_uzi_overdrive_red.webp,21408,https://ggstand.com/public/storage/items/174282821592ee354df17ee2bbea241a4107adeb1e.png,https://ggstand.com/en/case/arcane,source=WEBP; alpha=81.4171%
+150,"Akimbo Uzi ""Spray""",ADD_NEW,OK_DISCOVERED,akimbo_uzi_spray.webp,29366,https://ggstand.com/public/storage/items/1742826127c750d3b99bbbe5094221219c07280738.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=81.3927%
+151,"AKR12 ""4 Years""",ADD_NEW,OK_DISCOVERED,akr12_4_years.webp,37570,https://ggstand.com/public/storage/items/1688078603bfaf080b4b140aae5334860d897e08c7.png,https://ggstand.com/en/case/akr12,source=WEBP; alpha=85.6422%
+152,"AKR12 ""Armored""",ADD_NEW,OK_DISCOVERED,akr12_armored.webp,32740,https://ggstand.com/public/storage/items/16880792886f4d2eb6b9a3e7d06d47d4128869aa16.png,https://ggstand.com/en/case/akr12,source=WEBP; alpha=85.9268%
+153,"AKR12 ""Ashbringer""",ADD_NEW,OK_DISCOVERED,akr12_ashbringer.webp,43600,https://ggstand.com/public/storage/items/1688405340e9b3948ca72969d90d081ad632f36dc4.png,https://ggstand.com/en/case/akr12,source=WEBP; alpha=83.4328%
+154,"AKR12 ""Carbon""",ADD_NEW,OK_DISCOVERED,akr12_carbon.webp,37362,https://ggstand.com/public/storage/items/1688079327ca917ee4877cff1328019073fd72a04b.png,https://ggstand.com/en/case/akr12,source=WEBP; alpha=82.8972%
+155,"AKR12 ""Carving""",ADD_NEW,OK_DISCOVERED,akr12_carving.webp,28674,https://ggstand.com/public/storage/items/168969228809301fd2b81bb233993b03f343d580af.png,https://ggstand.com/en/case/akr12,source=WEBP; alpha=90.3946%
+156,"AKR12 ""Emberbird""",ADD_NEW,OK_DISCOVERED,akr12_emberbird.webp,36022,https://ggstand.com/public/storage/items/1725201239f0e45acd25ba0e63fe67e42af663f617.png,https://ggstand.com/en/case/arcane,source=WEBP; alpha=87.6228%
+157,"AKR12 ""Transistor""",ADD_NEW,OK_DISCOVERED,akr12_transistor.webp,31494,https://ggstand.com/public/storage/items/16880797109fb7aaa2bea3254c5e041d48a6d0d368.png,https://ggstand.com/en/case/akr12,source=WEBP; alpha=86.4914%
+158,"AKR ""Evolution""",ADD_NEW,OK_DISCOVERED,akr_evolution.webp,42332,https://ggstand.com/public/storage/items/168840530759634da69cca3f3be008be22330adfa9.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=85.5347%
+159,"AKR ""Nano""",ADD_NEW,OK_DISCOVERED,akr_nano.webp,38852,https://ggstand.com/public/storage/items/168807900898f088eee1bef2cf6b1d181d6c04e814.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=85.0380%
+160,"AKR ""Tag King""",ADD_NEW,OK_DISCOVERED,akr_tag_king.webp,32672,https://ggstand.com/public/storage/items/1689704595d8d2d193f428da3c196a03f1e1b82e9c.png,https://ggstand.com/en/case/akr,source=WEBP; alpha=91.1079%
 161,"AKR ""Worm""",ADD_NEW,OK_KNOWN_OVERRIDE,akr_worm.webp,40294,https://skins4fps.com/images/standoff/akr-worm.png,,source=PNG; alpha=82.1724%
-162,"AWM ""Dark Camo""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-163,"AWM ""Poseidon""",ADD_NEW,SKIPPED_VALID,awm_poseidon.webp,23900,,,alpha=92.3439%
-164,"AWM ""Xenoguard""",ADD_NEW,SKIPPED_VALID,awm_xenoguard.webp,13862,,,alpha=95.1958%
-165,"Berettas ""Arctic Camo""",ADD_NEW,SKIPPED_VALID,berettas_arctic_camo.webp,17478,,,alpha=83.1558%
-166,"Berettas ""Damascus""",ADD_NEW,SKIPPED_VALID,berettas_damascus.webp,26534,,,alpha=90.6265%
-167,"Berettas ""Hexagon""",ADD_NEW,SKIPPED_VALID,berettas_hexagon.webp,26900,,,alpha=84.1370%
-168,"Berettas ""Marco""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-169,"Berettas ""Royal Rose""",ADD_NEW,SKIPPED_VALID,berettas_royal_rose.webp,33810,,,alpha=90.7074%
-170,"Berettas ""Verdict""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-171,"Butterfly ""Glitch""",ADD_NEW,SKIPPED_VALID,butterfly_glitch.webp,22416,,,alpha=93.3846%
-172,"Butterfly ""Kumo""",ADD_NEW,SKIPPED_VALID,butterfly_kumo.webp,14608,,,alpha=91.9731%
-173,"Desert Eagle ""Ace""",ADD_NEW,SKIPPED_VALID,desert_eagle_ace.webp,29654,,,alpha=86.3625%
-174,"Desert Eagle ""Blood""",ADD_NEW,SKIPPED_VALID,desert_eagle_blood.webp,35268,,,alpha=85.0899%
-175,"Desert Eagle ""Dust Devil""",ADD_NEW,SKIPPED_VALID,desert_eagle_dust_devil.webp,34114,,,alpha=89.3150%
-176,"Desert Eagle ""Gambit""",ADD_NEW,SKIPPED_VALID,desert_eagle_gambit.webp,13138,,,alpha=92.0204%
-177,"Desert Eagle ""Glory""",ADD_NEW,OK_KNOWN_OVERRIDE,desert_eagle_glory.webp,40260,https://skins4fps.com/images/standoff/desert-eagle-glory.png,,source=PNG; alpha=78.5713%
-178,"Desert Eagle ""Orochi""",ADD_NEW,SKIPPED_VALID,desert_eagle_orochi.webp,36708,,,alpha=87.5351%
-179,"Desert Eagle ""Wildflower""",ADD_NEW,SKIPPED_VALID,desert_eagle_wildflower.webp,18700,,,alpha=79.0642%
-180,"Dual Daggers ""Jaws""",ADD_NEW,SKIPPED_VALID,dual_daggers_jaws.webp,22620,,,alpha=83.9500%
-181,"F/S ""Enforcer""",ADD_NEW,SKIPPED_VALID,f_s_enforcer.webp,28264,,,alpha=89.2426%
-182,"F/S ""Flashing Flame""",ADD_NEW,SKIPPED_VALID,f_s_flashing_flame.webp,14672,,,alpha=80.3741%
-183,"F/S ""Pink Shot""",ADD_NEW,SKIPPED_VALID,f_s_pink_shot.webp,20428,,,alpha=80.4893%
-184,"F/S ""Zone""",ADD_NEW,SKIPPED_VALID,f_s_zone.webp,35484,,,alpha=83.9851%
-185,"FabM ""BOOM""",ADD_NEW,SKIPPED_VALID,fabm_boom.webp,32954,,,alpha=82.4196%
-186,"FabM ""Cranium""",ADD_NEW,SKIPPED_VALID,fabm_cranium.webp,29552,,,alpha=82.4509%
-187,"FabM ""Death Herald""",ADD_NEW,SKIPPED_VALID,fabm_death_herald.webp,22202,,,alpha=82.5378%
-188,"FabM ""Gangster""",ADD_NEW,SKIPPED_VALID,fabm_gangster.webp,29774,,,alpha=88.3980%
-189,"FabM ""Hercules""",ADD_NEW,SKIPPED_VALID,fabm_hercules.webp,28062,,,alpha=89.2044%
-190,"FabM ""Mayhem""",ADD_NEW,SKIPPED_VALID,fabm_mayhem.webp,28622,,,alpha=76.2077%
-191,"FabM ""Streak""",ADD_NEW,SKIPPED_VALID,fabm_streak.webp,22092,,,alpha=81.7398%
-192,"FabM ""Thief Of The Christmas""",ADD_NEW,SKIPPED_VALID,fabm_thief_of_the_christmas.webp,30712,,,alpha=82.5165%
-193,"FAMAS ""Beagle""",ADD_NEW,SKIPPED_VALID,famas_beagle.webp,43930,,,alpha=84.3285%
-194,"FAMAS ""Feral""",ADD_NEW,SKIPPED_VALID,famas_feral.webp,28630,,,alpha=77.7031%
-195,"FAMAS ""Oxide""",ADD_NEW,SKIPPED_VALID,famas_oxide.webp,39676,,,alpha=86.3327%
-196,"FAMAS ""Spline""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-197,"FN FAL ""Basilisk""",ADD_NEW,SKIPPED_VALID,fn_fal_basilisk.webp,23798,,,alpha=92.3462%
-198,"FN FAL ""Charred Wood""",ADD_NEW,SKIPPED_VALID,fn_fal_charred_wood.webp,20030,,,alpha=82.2159%
-199,"FN FAL ""Empyrean""",ADD_NEW,SKIPPED_VALID,fn_fal_empyrean.webp,19306,,,alpha=82.2266%
-200,"FN FAL ""PRO""",ADD_NEW,SKIPPED_VALID,fn_fal_pro.webp,33770,,,alpha=85.1204%
-201,"FN FAL ""Scaleskitter""",ADD_NEW,SKIPPED_VALID,fn_fal_scaleskitter.webp,25592,,,alpha=92.3462%
-202,"G22 ""Adam""",ADD_NEW,SKIPPED_VALID,g22_adam.webp,34308,,,alpha=56.5170%
-203,"G22 ""Casual""",ADD_NEW,SKIPPED_VALID,g22_casual.webp,38232,,,alpha=83.4160%
-204,"G22 ""Pixel Camouflage""",ADD_NEW,SKIPPED_VALID,g22_pixel_camouflage.webp,37406,,,alpha=84.8816%
-205,"Graffiti ""Gold Skull"" Packed",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-206,"jKommando ""Reaper""",ADD_NEW,SKIPPED_VALID,jkommando_reaper.webp,10102,,,alpha=93.1625%
-207,"Karambit ""Hologram""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-208,"Karambit ""Purple Camo""",ADD_NEW,SKIPPED_VALID,karambit_purple_camo.webp,37180,,,alpha=83.4251%
-209,"Kukri ""Divine Power""",ADD_NEW,SKIPPED_VALID,kukri_divine_power.webp,16464,,,alpha=87.9364%
-210,"Kunai ""Glitch""",ADD_NEW,SKIPPED_VALID,kunai_glitch.webp,22416,,,alpha=93.3846%
-211,"M110 ""Grid""",ADD_NEW,SKIPPED_VALID,m110_grid.webp,32994,,,alpha=73.2872%
-212,"M110 ""Z-07 M.A.R.K.S.M.A.N.""",ADD_NEW,SKIPPED_VALID,m110_z_07_m_a_r_k_s_m_a_n.webp,36926,,,alpha=87.2787%
-213,"M16 ""4 Years""",ADD_NEW,SKIPPED_VALID,m16_4_years.webp,31280,,,alpha=88.5353%
-214,"M16 ""Dust Devil""",ADD_NEW,SKIPPED_VALID,m16_dust_devil.webp,27268,,,alpha=92.0586%
-215,"M16 ""Shogun Stripes""",ADD_NEW,SKIPPED_VALID,m16_shogun_stripes.webp,41942,,,alpha=85.2615%
-216,"M4 ""Grand Prix""",ADD_NEW,SKIPPED_VALID,m4_grand_prix.webp,41650,,,alpha=83.6166%
-217,"M4 ""N-Kai""",ADD_NEW,SKIPPED_VALID,m4_n_kai.webp,34656,,,alpha=90.2313%
-218,"M4 ""Necromancer""",ADD_NEW,SKIPPED_VALID,m4_necromancer.webp,52278,,,alpha=83.6441%
-219,"M4 ""Retro Film""",ADD_NEW,SKIPPED_VALID,m4_retro_film.webp,18600,,,alpha=80.2498%
-220,"M4 ""Revival""",ADD_NEW,SKIPPED_VALID,m4_revival.webp,35984,,,alpha=83.7036%
-221,"M4 ""Sunset""",ADD_NEW,SKIPPED_VALID,m4_sunset.webp,49486,,,alpha=84.9831%
-222,"M4A1 ""Contour""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-223,"M4A1 ""Cyber Dragon""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-224,"M4A1 ""Lincoln""",ADD_NEW,SKIPPED_VALID,m4a1_lincoln.webp,13564,,,alpha=89.8392%
-225,"M4A1 ""Overdrive""",ADD_NEW,SKIPPED_VALID,m4a1_overdrive.webp,24016,,,alpha=81.7848%
-226,"M4A1 ""Renegade""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-227,"M4A1 ""Stainless""",ADD_NEW,SKIPPED_VALID,m4a1_stainless.webp,30380,,,alpha=89.5012%
-228,"M60 ""Steam Beast""",ADD_NEW,SKIPPED_VALID,m60_steam_beast.webp,39872,,,alpha=86.6501%
-229,"M9 Bayonet ""Digital Burst""",ADD_NEW,SKIPPED_VALID,m9_bayonet_digital_burst.webp,31186,,,alpha=88.1310%
-230,"M9 Bayonet ""Kumo""",ADD_NEW,SKIPPED_VALID,m9_bayonet_kumo.webp,14326,,,alpha=89.9544%
-231,"MAC10 ""Argo""",ADD_NEW,SKIPPED_VALID,mac10_argo.webp,26098,,,alpha=90.6883%
-232,"MAC10 ""Cardboard""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-233,"MAC10 ""Shogun Stripes""",ADD_NEW,SKIPPED_VALID,mac10_shogun_stripes.webp,29528,,,alpha=89.8018%
-234,"MAC10 ""Tempest""",ADD_NEW,SKIPPED_VALID,mac10_tempest.webp,17396,,,alpha=84.5467%
-235,"Mallard ""Snake Scales""",ADD_NEW,SKIPPED_VALID,mallard_snake_scales.webp,19054,,,alpha=80.3978%
-236,"Mantis ""Glacier""",ADD_NEW,SKIPPED_VALID,mantis_glacier.webp,14776,,,alpha=87.5458%
-237,"MP5 ""Space Blaster""",ADD_NEW,SKIPPED_VALID,mp5_space_blaster.webp,44954,,,alpha=83.1230%
-238,"MP5 ""Water Gun""",ADD_NEW,SKIPPED_VALID,mp5_water_gun.webp,42510,,,alpha=84.6222%
-239,"MP7 ""Arcade""",ADD_NEW,SKIPPED_VALID,mp7_arcade.webp,31352,,,alpha=87.3840%
-240,"MP7 ""Frequency""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-241,"MP7 ""Future Tech""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-242,"MP7 ""Lich""",ADD_NEW,SKIPPED_VALID,mp7_lich.webp,43678,,,alpha=86.3800%
-243,"MP7 ""Palace""",ADD_NEW,SKIPPED_VALID,mp7_palace.webp,34762,,,alpha=86.9110%
-244,"MP7 ""Rebellion""",ADD_NEW,SKIPPED_VALID,mp7_rebellion.webp,30478,,,alpha=89.8018%
-245,"P350 ""4 Years""",ADD_NEW,SKIPPED_VALID,p350_4_years.webp,25090,,,alpha=88.8794%
-246,"P350 ""Gearshift""",ADD_NEW,SKIPPED_VALID,p350_gearshift.webp,27518,,,alpha=91.0385%
-247,"P350 ""Lab Prototype""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-248,"P350 ""Savannah""",ADD_NEW,SKIPPED_VALID,p350_savannah.webp,29668,,,alpha=83.9691%
-249,"P350 ""Tag King""",ADD_NEW,SKIPPED_VALID,p350_tag_king.webp,28922,,,alpha=81.2950%
-250,"P90 ""Clash""",ADD_NEW,SKIPPED_VALID,p90_clash.webp,41070,,,alpha=83.1306%
-251,"P90 ""Data Flow""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-252,"P90 ""Noir""",ADD_NEW,SKIPPED_VALID,p90_noir.webp,28248,,,alpha=69.7495%
-253,"P90 ""Oops""",ADD_NEW,SKIPPED_VALID,p90_oops.webp,50538,,,alpha=82.6408%
-254,"P90 ""Z-50 F.U.J.I.N.""",ADD_NEW,SKIPPED_VALID,p90_z_50_f_u_j_i_n.webp,56080,,,alpha=78.5088%
-255,"S1 F/S ""Burning Mist""",ADD_NEW,SKIPPED_VALID,s1_f_s_burning_mist.webp,25994,,,alpha=80.3619%
-256,"S3 FabM ""Cloud Lily""",ADD_NEW,SKIPPED_VALID,s3_fabm_cloud_lily.webp,39720,,,alpha=81.7230%
-257,"Scorpion ""Veil""",ADD_NEW,SKIPPED_VALID,scorpion_veil.webp,14694,,,alpha=83.8898%
-258,"SM1014 ""Necromancer""",ADD_NEW,SKIPPED_VALID,sm1014_necromancer.webp,39502,,,alpha=88.0272%
-259,"SM1014 ""Northern Camouflage""",ADD_NEW,OK_KNOWN_OVERRIDE,sm1014_northern_camouflage.webp,32032,https://skins4fps.com/images/standoff/sm1014-northern-camouflage.png,,source=PNG; alpha=84.9922%
-260,"SM1014 ""Serpent""",ADD_NEW,SKIPPED_VALID,sm1014_serpent.webp,28468,,,alpha=92.4568%
-261,"SM1014 ""Wasp""",ADD_NEW,SKIPPED_VALID,sm1014_wasp.webp,15258,,,alpha=85.0494%
-262,"SPAS ""Vibe""",ADD_NEW,SKIPPED_VALID,spas_vibe.webp,34594,,,alpha=88.5345%
-263,"SPAS ""Waypoint""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-264,"SPAS ""Zeus""",ADD_NEW,SKIPPED_VALID,spas_zeus.webp,23896,,,alpha=91.5054%
+162,"AWM ""Dark Camo""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target AWM | Dark Camo
+163,"AWM ""Poseidon""",ADD_NEW,OK_DISCOVERED,awm_poseidon.webp,23900,https://ggstand.com/public/storage/items/1689692326a7908af5d02b9930daa78115a09dd10a.png,https://ggstand.com/en/case/awm,source=WEBP; alpha=92.3439%
+164,"AWM ""Xenoguard""",ADD_NEW,OK_DISCOVERED,awm_xenoguard.webp,13862,https://ggstand.com/public/storage/items/1689856804b75f82ace4b4aac3ba1dc9316a1f5852.png,https://ggstand.com/en/case/awm,source=WEBP; alpha=95.1958%
+165,"Berettas ""Arctic Camo""",ADD_NEW,OK_DISCOVERED,berettas_arctic_camo.webp,17478,https://ggstand.com/public/storage/items/17661424230897e8cf05df65146e240f77ff1bd49c.png,https://ggstand.com/en/case/berettas,source=WEBP; alpha=83.1558%
+166,"Berettas ""Damascus""",ADD_NEW,OK_DISCOVERED,berettas_damascus.webp,26534,https://ggstand.com/public/storage/items/168840547797e5a70d02ab9b6455f57cfb3c3529a0.png,https://ggstand.com/en/case/berettas,source=WEBP; alpha=90.6265%
+167,"Berettas ""Hexagon""",ADD_NEW,OK_DISCOVERED,berettas_hexagon.webp,26900,https://ggstand.com/public/storage/items/16897045037af48f725fa5655843ca0de60eec5058.png,https://ggstand.com/en/case/berettas,source=WEBP; alpha=84.1370%
+168,"Berettas ""Marco""",ADD_NEW,OK_DISCOVERED,berettas_marco.webp,15342,https://ggstand.com/public/storage/items/177737211627c0a05884aeddbdd703ff3b574ec718.png,https://ggstand.com/en/case/berettas,source=WEBP; alpha=83.2893%
+169,"Berettas ""Royal Rose""",ADD_NEW,OK_DISCOVERED,berettas_royal_rose.webp,33810,https://ggstand.com/public/storage/items/168840547428475236c9484feac31dcc99c6889eae.png,https://ggstand.com/en/case/berettas,source=WEBP; alpha=90.7074%
+170,"Berettas ""Verdict""",ADD_NEW,OK_DISCOVERED,berettas_verdict.webp,18704,https://ggstand.com/public/storage/items/1742828381e9bccff3e3431bd7380c7d64c00f6331.png,https://ggstand.com/en/case/berettas,source=WEBP; alpha=83.2306%
+171,"Butterfly ""Glitch""",ADD_NEW,OK_DISCOVERED,butterfly_glitch.webp,15898,https://ggstand.com/public/storage/items/1771274662d43c4deb835e12306e913a28fe64bf94.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=91.7198%
+172,"Butterfly ""Kumo""",ADD_NEW,OK_DISCOVERED,butterfly_kumo.webp,14608,https://ggstand.com/public/storage/items/1771274640fad5ba96b824377de73c57846d1e6538.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=91.9731%
+173,"Desert Eagle ""Ace""",ADD_NEW,OK_DISCOVERED,desert_eagle_ace.webp,29654,https://ggstand.io/public/storage/items/1687977649c6e2b9679f9174d978957b5573e14b53.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=86.3625%
+174,"Desert Eagle ""Blood""",ADD_NEW,OK_DISCOVERED,desert_eagle_blood.webp,35268,https://ggstand.io/public/storage/items/1688080614719e74b8760cb93303c35eee58f01652.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=85.0899%
+175,"Desert Eagle ""Dust Devil""",ADD_NEW,OK_DISCOVERED,desert_eagle_dust_devil.webp,34114,https://ggstand.io/public/storage/items/16934047469bac6d25a181333e17282daa29fa1850.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=89.3150%
+176,"Desert Eagle ""Gambit""",ADD_NEW,OK_DISCOVERED,desert_eagle_gambit.webp,17500,https://ggstand.io/public/storage/items/174964839593309e8e9855b5b07da1f189c99dafe5.png,https://ggstand.io/ru/case/gambit,source=WEBP; alpha=79.0215%
+177,"Desert Eagle ""Glory""",ADD_NEW,OK_KNOWN_OVERRIDE+DISCOVERED,desert_eagle_glory.webp,40260,https://skins4fps.com/images/standoff/desert-eagle-glory.png,https://ggstand.io/ru/case/deagle,source=PNG; alpha=78.5713%
+178,"Desert Eagle ""Orochi""",ADD_NEW,OK_DISCOVERED,desert_eagle_orochi.webp,36708,https://ggstand.io/public/storage/items/168808075816f2f169f3a6ce67967c3e9b70f967aa.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=87.5351%
+179,"Desert Eagle ""Wildflower""",ADD_NEW,OK_DISCOVERED,desert_eagle_wildflower.webp,18700,https://ggstand.io/public/storage/items/1766142420290eb43cfe84f8eeb83842c1ccb7dfa1.png,https://ggstand.io/ru/case/deagle,source=WEBP; alpha=79.0642%
+180,"Dual Daggers ""Jaws""",ADD_NEW,OK_DISCOVERED,dual_daggers_jaws.webp,22620,https://ggstand.com/public/storage/items/1779292660c8cd07f45f1e1b9811b482dbe6871718.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=83.9500%
+181,"F/S ""Enforcer""",ADD_NEW,OK_DISCOVERED,f_s_enforcer.webp,28264,https://ggstand.io/public/storage/items/1688081943e136ef6fb66b02684b0a00ad1a3f6dff.png,https://ggstand.io/ru/case/f-s,source=WEBP; alpha=89.2426%
+182,"F/S ""Flashing Flame""",ADD_NEW,OK_DISCOVERED,f_s_flashing_flame.webp,14672,https://ggstand.com/public/storage/items/176614229344668dcd44965ffaddc91ff1eba08342.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=80.3741%
+183,"F/S ""Pink Shot""",ADD_NEW,OK_DISCOVERED,f_s_pink_shot.webp,20428,https://ggstand.io/public/storage/items/17353897433e82844aa33d20c9929289ea1a6740f9.png,https://ggstand.io/ru/case/f-s,source=WEBP; alpha=80.4893%
+184,"F/S ""Zone""",ADD_NEW,OK_DISCOVERED,f_s_zone.webp,35484,https://ggstand.io/public/storage/items/1688081925620724db212fb58e82852d6cf77528a0.png,https://ggstand.io/ru/case/f-s,source=WEBP; alpha=83.9851%
+185,"FabM ""BOOM""",ADD_NEW,OK_DISCOVERED,fabm_boom.webp,32954,https://ggstand.io/public/storage/items/1689704817581e7e95fbcdf7d9fe98bcac477b39dc.png,https://ggstand.io/ru/case/fabm,source=WEBP; alpha=82.4196%
+186,"FabM ""Cranium""",ADD_NEW,OK_DISCOVERED,fabm_cranium.webp,29552,https://ggstand.io/public/storage/items/1689704816216f01463b8d03301df1fa2d42f38737.png,https://ggstand.io/ru/case/fabm,source=WEBP; alpha=82.4509%
+187,"FabM ""Death Herald""",ADD_NEW,OK_DISCOVERED,fabm_death_herald.webp,22202,https://ggstand.io/public/storage/items/16897048155e2d5cbe592e1679117f4e123d027547.png,https://ggstand.io/ru/case/fabm,source=WEBP; alpha=82.5378%
+188,"FabM ""Gangster""",ADD_NEW,OK_DISCOVERED,fabm_gangster.webp,29774,https://ggstand.io/public/storage/items/17252027483d31cecae211af978856b1853982739a.png,https://ggstand.io/ru/case/fabm,source=WEBP; alpha=88.3980%
+189,"FabM ""Hercules""",ADD_NEW,OK_DISCOVERED,fabm_hercules.webp,28062,https://ggstand.io/public/storage/items/168969241666883ff392671b144913c6138f53e7ef.png,https://ggstand.io/ru/case/fabm,source=WEBP; alpha=89.2044%
+190,"FabM ""Mayhem""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target FabM | Mayhem
+191,"FabM ""Streak""",ADD_NEW,OK_DISCOVERED,fabm_streak.webp,22092,https://ggstand.io/public/storage/items/17448952154d2729bd8e4ebc1b997c2bcb81c25f7f.png,https://ggstand.io/ru/case/fabm,source=WEBP; alpha=81.7398%
+192,"FabM ""Thief Of The Christmas""",ADD_NEW,OK_DISCOVERED,fabm_thief_of_the_christmas.webp,30712,https://ggstand.io/public/storage/items/1689704815865242c3fb36b604e4b039c8675554c8.png,https://ggstand.io/ru/case/fabm,source=WEBP; alpha=82.5165%
+193,"FAMAS ""Beagle""",ADD_NEW,OK_DISCOVERED,famas_beagle.webp,43930,https://ggstand.io/public/storage/items/1688081468a2eac82024adca47cf576b38f8740f30.png,https://ggstand.io/ru/case/famas,source=WEBP; alpha=84.3285%
+194,"FAMAS ""Feral""",ADD_NEW,OK_DISCOVERED,famas_feral.webp,28630,https://ggstand.io/public/storage/items/174282648860fc93aeed017368705c798f30b45ebe.png,https://ggstand.io/ru/case/famas,source=WEBP; alpha=77.7031%
+195,"FAMAS ""Oxide""",ADD_NEW,OK_DISCOVERED,famas_oxide.webp,39676,https://ggstand.com/public/storage/items/1725201902f45d5d5fe59d401139fb79ccfdcd5c69.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=86.3327%
+196,"FAMAS ""Spline""",ADD_NEW,OK_DISCOVERED,famas_spline.webp,34464,https://ggstand.io/public/storage/items/1781609008a0a5620d329792ec329b5e3e8bc7bc58.png,https://ggstand.io/ru/case/famas,source=WEBP; alpha=77.8481%
+197,"FN FAL ""Basilisk""",ADD_NEW,OK_DISCOVERED,fn_fal_basilisk.webp,23798,https://ggstand.io/public/storage/items/1689692441936002f84076747691705a4dca6e033d.png,https://ggstand.io/ru/case/fn-fal,source=WEBP; alpha=92.3462%
+198,"FN FAL ""Charred Wood""",ADD_NEW,OK_DISCOVERED,fn_fal_charred_wood.webp,20030,https://ggstand.io/public/storage/items/17428259844bf5222f427a73ef965f1bcf7771579f.png,https://ggstand.io/ru/case/fn-fal,source=WEBP; alpha=82.2159%
+199,"FN FAL ""Empyrean""",ADD_NEW,OK_DISCOVERED,fn_fal_empyrean.webp,19306,https://ggstand.io/public/storage/items/17661424305c77cb01ecdf0139a54414593c673ab1.png,https://ggstand.io/ru/case/fn-fal,source=WEBP; alpha=82.2266%
+200,"FN FAL ""PRO""",ADD_NEW,OK_DISCOVERED,fn_fal_pro.webp,18250,https://ggstand.io/public/storage/items/1742827780acd35f54a78408c758ec5e5059d11e37.png,https://ggstand.io/ru/case/fn-fal,source=WEBP; alpha=82.1854%
+201,"FN FAL ""Scaleskitter""",ADD_NEW,OK_DISCOVERED,fn_fal_scaleskitter.webp,25592,https://ggstand.io/public/storage/items/16934037489d28deb3890437b6a466c92e900d9c6c.png,https://ggstand.io/ru/case/fn-fal,source=WEBP; alpha=92.3462%
+202,"G22 ""Adam""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target G22 | Adam; removed previously known-wrong cached image
+203,"G22 ""Casual""",ADD_NEW,OK_DISCOVERED,g22_casual.webp,38232,https://ggstand.com/public/storage/items/1688127278c0916b1ddb884b0422979ea2918fed00.png,https://ggstand.com/en/case/legendary,source=WEBP; alpha=83.4160%
+204,"G22 ""Pixel Camouflage""",ADD_NEW,OK_DISCOVERED,g22_pixel_camouflage.webp,17718,https://ggstand.com/public/storage/items/16897678390daf8c321c74613d867c4142f9cacca7.png,https://ggstand.com/en/case/origin,source=WEBP; alpha=93.2205%
+205,"Graffiti ""Gold Skull"" Packed",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target Graffiti | Gold Skull Packed
+206,"jKommando ""Reaper""",ADD_NEW,OK_DISCOVERED,jkommando_reaper.webp,10102,https://ggstand.com/public/storage/items/1779291479d45de12437d4f31352e9d4f0b04173f0.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=93.1625%
+207,"Karambit ""Hologram""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target Karambit | Hologram
+208,"Karambit ""Purple Camo""",ADD_NEW,OK_DISCOVERED,karambit_purple_camo.webp,13248,https://ggstand.com/public/storage/items/1771275086ae97ab67b2a1e4cd403f5c7143775c65.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=87.8387%
+209,"Kukri ""Divine Power""",ADD_NEW,OK_DISCOVERED,kukri_divine_power.webp,16464,https://ggstand.com/public/storage/items/17792925865a20b97e5d89be52db5436703bae3871.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=87.9364%
+210,"Kunai ""Glitch""",ADD_NEW,OK_DISCOVERED,kunai_glitch.webp,20494,https://ggstand.com/public/storage/items/1689691413eb86c8f6a61f70184dd498e3b98a6e13.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=90.4045%
+211,"M110 ""Grid""",ADD_NEW,OK_DISCOVERED,m110_grid.webp,32994,https://ggstand.io/public/storage/items/1742826262382b4afc246dfe79d0a6e9a197025600.png,https://ggstand.io/ru/case/m110,source=WEBP; alpha=73.2872%
+212,"M110 ""Z-07 M.A.R.K.S.M.A.N.""",ADD_NEW,OK_DISCOVERED,m110_z_07_m_a_r_k_s_m_a_n.webp,36926,https://ggstand.io/public/storage/items/1688128464b765ab40f5a7c72a39b67baa0eeb7fc1.png,https://ggstand.io/ru/case/m110,source=WEBP; alpha=87.2787%
+213,"M16 ""4 Years""",ADD_NEW,OK_DISCOVERED,m16_4_years.webp,31280,https://ggstand.io/public/storage/items/1688128035f958e02bed73b9a32ca755761d521ff5.png,https://ggstand.io/ru/case/m16,source=WEBP; alpha=88.5353%
+214,"M16 ""Dust Devil""",ADD_NEW,OK_DISCOVERED,m16_dust_devil.webp,27268,https://ggstand.io/public/storage/items/169340037451ff71007ed9c777fab9989fdee6f0d1.png,https://ggstand.io/ru/case/m16,source=WEBP; alpha=92.0586%
+215,"M16 ""Shogun Stripes""",ADD_NEW,OK_DISCOVERED,m16_shogun_stripes.webp,41942,https://ggstand.io/public/storage/items/16884061980dacbc51669414e8901941374fb753cd.png,https://ggstand.io/ru/case/m16,source=WEBP; alpha=85.2615%
+216,"M4 ""Grand Prix""",ADD_NEW,OK_DISCOVERED,m4_grand_prix.webp,41650,https://ggstand.io/public/storage/items/1688127690a44a980923e647beeb88438cb00b65c7.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=83.6166%
+217,"M4 ""N-Kai""",ADD_NEW,OK_DISCOVERED,m4_n_kai.webp,34656,https://ggstand.io/public/storage/items/1698484149c0e5d60cb8b9d31ff8befb8589c4868d.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=90.2313%
+218,"M4 ""Necromancer""",ADD_NEW,OK_DISCOVERED,m4_necromancer.webp,52278,https://ggstand.io/public/storage/items/1688127686f2f277c9d69cd970df5b4aeba5948783.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=83.6441%
+219,"M4 ""Retro Film""",ADD_NEW,OK_DISCOVERED,m4_retro_film.webp,18600,https://ggstand.io/public/storage/items/17661423100084916c740c84b950b412b64a0ef940.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=80.2498%
+220,"M4 ""Revival""",ADD_NEW,OK_DISCOVERED,m4_revival.webp,35984,https://ggstand.io/public/storage/items/1688127670ddac16219caf6afd9cb8a912918f19a9.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=83.7036%
+221,"M4 ""Sunset""",ADD_NEW,OK_DISCOVERED,m4_sunset.webp,49486,https://ggstand.io/public/storage/items/1688507720e695db0471ba87b2d855844b8cd3e373.png,https://ggstand.io/ru/case/m4,source=WEBP; alpha=84.9831%
+222,"M4A1 ""Contour""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target M4A1 | Contour
+223,"M4A1 ""Cyber Dragon""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target M4A1 | Cyber Dragon
+224,"M4A1 ""Lincoln""",ADD_NEW,OK_DISCOVERED,m4a1_lincoln.webp,24952,https://ggstand.io/public/storage/items/17773727975d9fbcc6e1b4b9a8d539c1fdcaa0cb95.png,https://ggstand.io/ru/case/m4a1,source=WEBP; alpha=81.7497%
+225,"M4A1 ""Overdrive""",ADD_NEW,OK_DISCOVERED,m4a1_overdrive.webp,24016,https://ggstand.io/public/storage/items/1742828062ae6cfb355f7d5c5188bcaab0112b0a1e.png,https://ggstand.io/ru/case/m4a1,source=WEBP; alpha=81.7848%
+226,"M4A1 ""Renegade""",ADD_NEW,OK_DISCOVERED,m4a1_renegade.webp,22368,https://ggstand.io/public/storage/items/17773720390a5f57a75b40784d6bf20ad8c5264cf2.png,https://ggstand.io/ru/case/m4a1,source=WEBP; alpha=81.8947%
+227,"M4A1 ""Stainless""",ADD_NEW,OK_DISCOVERED,m4a1_stainless.webp,30380,https://ggstand.io/public/storage/items/17104396676187872073f99aa5d6d2db20a7f97f1c.png,https://ggstand.io/ru/case/m4a1,source=WEBP; alpha=89.5012%
+228,"M60 ""Steam Beast""",ADD_NEW,OK_DISCOVERED,m60_steam_beast.webp,39872,https://ggstand.io/public/storage/items/168812837520f0542f8165a64dee6dd8b98be9b18c.png,https://ggstand.io/ru/case/m60,source=WEBP; alpha=86.6501%
+229,"M9 Bayonet ""Digital Burst""",ADD_NEW,OK_DISCOVERED,m9_bayonet_digital_burst.webp,14378,https://ggstand.com/public/storage/items/1779291386bd81a726966fdbba944fcac34f4e6213.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=89.3944%
+230,"M9 Bayonet ""Kumo""",ADD_NEW,OK_DISCOVERED,m9_bayonet_kumo.webp,14326,https://ggstand.com/public/storage/items/1779291371d9ffe3c64036efc3d1458d6d93317348.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=89.9544%
+231,"MAC10 ""Argo""",ADD_NEW,OK_DISCOVERED,mac10_argo.webp,26098,https://ggstand.io/public/storage/items/16896929254692e7efa329b424fda94055d9bd7713.png,https://ggstand.io/ru/case/mac10,source=WEBP; alpha=90.6883%
+232,"MAC10 ""Cardboard""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target MAC10 | Cardboard
+233,"MAC10 ""Shogun Stripes""",ADD_NEW,OK_DISCOVERED,mac10_shogun_stripes.webp,29528,https://ggstand.io/public/storage/items/1688406413940db1b2df6cc29fb0522969937c8228.png,https://ggstand.io/ru/case/mac10,source=WEBP; alpha=89.8018%
+234,"MAC10 ""Tempest""",ADD_NEW,OK_DISCOVERED,mac10_tempest.webp,17396,https://ggstand.io/public/storage/items/1758632694855ed19c5b212b772838b57d7d20fd5c.png,https://ggstand.io/ru/case/mac10,source=WEBP; alpha=84.5467%
+235,"Mallard ""Snake Scales""",ADD_NEW,OK_DISCOVERED,mallard_snake_scales.webp,19054,https://ggstand.com/public/storage/items/1766142324a2b74ca98e345c0e16f11d5f6fae6bc0.png,https://ggstand.com/en/case/legendary,source=WEBP; alpha=80.3978%
+236,"Mantis ""Glacier""",ADD_NEW,OK_DISCOVERED,mantis_glacier.webp,14776,https://ggstand.com/public/storage/items/17661424485c949f38d1e00f1e4b2776f9aab5a976.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=87.5458%
+237,"MP5 ""Space Blaster""",ADD_NEW,OK_DISCOVERED,mp5_space_blaster.webp,44954,https://ggstand.io/public/storage/items/168850806125ac396212eccb63d6b97b1b3ef43339.png,https://ggstand.io/ru/case/mp5,source=WEBP; alpha=83.1230%
+238,"MP5 ""Water Gun""",ADD_NEW,OK_DISCOVERED,mp5_water_gun.webp,42510,https://ggstand.io/public/storage/items/1719137102d387b85ba1d812cd9ee031682737ce2a.png,https://ggstand.io/ru/case/mp5,source=WEBP; alpha=84.6222%
+239,"MP7 ""Arcade""",ADD_NEW,OK_DISCOVERED,mp7_arcade.webp,31352,https://ggstand.io/public/storage/items/1688130158f3802ae4bad37df48693452da3546fb1.png,https://ggstand.io/ru/case/mp7,source=WEBP; alpha=87.3840%
+240,"MP7 ""Frequency""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target MP7 | Frequency
+241,"MP7 ""Future Tech""",ADD_NEW,OK_DISCOVERED,mp7_future_tech.webp,34514,https://ggstand.io/public/storage/items/17816090509a4e424bf3b935dcdcd8de9449bee190.png,https://ggstand.io/ru/case/mp7,source=WEBP; alpha=81.5826%
+242,"MP7 ""Lich""",ADD_NEW,OK_DISCOVERED,mp7_lich.webp,43678,https://ggstand.io/public/storage/items/16881302200d7cb9cc289771162143997aa2650573.png,https://ggstand.io/ru/case/mp7,source=WEBP; alpha=86.3800%
+243,"MP7 ""Palace""",ADD_NEW,OK_DISCOVERED,mp7_palace.webp,34762,https://ggstand.io/public/storage/items/16881302155bcda0dc8daeecea3467dca379527289.png,https://ggstand.io/ru/case/mp7,source=WEBP; alpha=86.9110%
+244,"MP7 ""Rebellion""",ADD_NEW,OK_DISCOVERED,mp7_rebellion.webp,30478,https://ggstand.com/public/storage/items/17252021163cef69557859e0e8854d4f5b759c3741.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=89.8018%
+245,"P350 ""4 Years""",ADD_NEW,OK_DISCOVERED,p350_4_years.webp,25090,https://ggstand.com/public/storage/items/1688132435a9f4161769d6792c7f864762b1151a9d.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=88.8794%
+246,"P350 ""Gearshift""",ADD_NEW,OK_DISCOVERED,p350_gearshift.webp,27518,https://ggstand.com/public/storage/items/1725201431da646da5c560bc78c77610c064ee2c85.png,https://ggstand.com/en/case/legendary,source=WEBP; alpha=91.0385%
+247,"P350 ""Lab Prototype""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target P350 | Lab Prototype
+248,"P350 ""Savannah""",ADD_NEW,OK_DISCOVERED,p350_savannah.webp,29668,https://ggstand.com/public/storage/items/1688132486f8f31de5336d4834bd5182217365e18c.png,https://ggstand.com/en/case/origin,source=WEBP; alpha=83.9691%
+249,"P350 ""Tag King""",ADD_NEW,OK_DISCOVERED,p350_tag_king.webp,28922,https://ggstand.com/public/storage/items/16897139086d395c7b037beb24cbb3be0a95e3cea7.png,https://ggstand.com/en/case/legendary,source=WEBP; alpha=81.2950%
+250,"P90 ""Clash""",ADD_NEW,OK_DISCOVERED,p90_clash.webp,41070,https://ggstand.io/public/storage/items/1688406505c255020435d669a949dd2b3743e7a745.png,https://ggstand.io/ru/case/p90,source=WEBP; alpha=83.1306%
+251,"P90 ""Data Flow""",ADD_NEW,OK_DISCOVERED,p90_data_flow.webp,47370,https://ggstand.io/public/storage/items/17816089729f13a40e530b14cf80e504d60b537cc9.png,https://ggstand.io/ru/case/p90,source=WEBP; alpha=69.9272%
+252,"P90 ""Noir""",ADD_NEW,OK_DISCOVERED,p90_noir.webp,28248,https://ggstand.io/public/storage/items/174282806057c0f7309bc6eac62919ca44fb57cfc2.png,https://ggstand.io/ru/case/p90,source=WEBP; alpha=69.7495%
+253,"P90 ""Oops""",ADD_NEW,OK_DISCOVERED,p90_oops.webp,50538,https://ggstand.io/public/storage/items/1689713941c8bb791642198088b88b5e5f32791a5b.png,https://ggstand.io/ru/case/p90,source=WEBP; alpha=82.6408%
+254,"P90 ""Z-50 F.U.J.I.N.""",ADD_NEW,OK_DISCOVERED,p90_z_50_f_u_j_i_n.webp,56080,https://ggstand.io/public/storage/items/168813042129a675ad336fdd2584e880f49165e334.png,https://ggstand.io/ru/case/p90,source=WEBP; alpha=78.5088%
+255,"S1 F/S ""Burning Mist""",ADD_NEW,OK_DISCOVERED,s1_f_s_burning_mist.webp,25994,https://ggstand.com/public/storage/items/17709872097015fc56b4f8a23884eec0511953cc79.png,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=80.3619%
+256,"S3 FabM ""Cloud Lily""",ADD_NEW,OK_DISCOVERED,s3_fabm_cloud_lily.webp,39720,https://ggstand.com/public/storage/items/1777105910ad1974fa82d0d961a56ca64067ec2e5d.webp,https://ggstand.com/en/case/year-of-horse-st-collection,source=WEBP; alpha=81.7230%
+257,"Scorpion ""Veil""",ADD_NEW,OK_DISCOVERED,scorpion_veil.webp,14694,https://ggstand.io/public/storage/items/17792933791bb00275a777a84af3e7bdd61c3a919e.png,https://ggstand.io/ru/case/scorpion,source=WEBP; alpha=83.8898%
+258,"SM1014 ""Necromancer""",ADD_NEW,OK_DISCOVERED,sm1014_necromancer.webp,39502,https://ggstand.io/public/storage/items/1688132908ee70f71e14121f56885071f1a5058240.png,https://ggstand.io/ru/case/sm1014,source=WEBP; alpha=88.0272%
+259,"SM1014 ""Northern Camouflage""",ADD_NEW,OK_KNOWN_OVERRIDE+DISCOVERED,sm1014_northern_camouflage.webp,32032,https://skins4fps.com/images/standoff/sm1014-northern-camouflage.png,https://ggstand.io/ru/case/sm1014,source=PNG; alpha=84.9922%
+260,"SM1014 ""Serpent""",ADD_NEW,OK_DISCOVERED,sm1014_serpent.webp,28468,https://ggstand.io/public/storage/items/1693400666b2b787c18278e6cb089e33c569dac32a.png,https://ggstand.io/ru/case/sm1014,source=WEBP; alpha=92.4568%
+261,"SM1014 ""Wasp""",ADD_NEW,OK_DISCOVERED,sm1014_wasp.webp,15258,https://ggstand.com/public/storage/items/17428277835e3d83d15677b4e09a40da4fa875a8fa.png,https://ggstand.com/en/case/sttrack,source=WEBP; alpha=85.0494%
+262,"SPAS ""Vibe""",ADD_NEW,OK_DISCOVERED,spas_vibe.webp,34594,https://ggstand.io/public/storage/items/16885082750884afb0f7d719cfcec1f4867f90c862.png,https://ggstand.io/ru/case/spas,source=WEBP; alpha=88.5345%
+263,"SPAS ""Waypoint""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target SPAS | Waypoint
+264,"SPAS ""Zeus""",ADD_NEW,OK_DISCOVERED,spas_zeus.webp,23896,https://ggstand.io/public/storage/items/1689692956364db4377b8b217153e53978175e3db0.png,https://ggstand.io/ru/case/spas,source=WEBP; alpha=91.5054%
 265,"Sticker ""Bubblegum Space"" Swap",ADD_NEW,OK_KNOWN_OVERRIDE,sticker_bubblegum_space_swap.webp,33918,https://skins4fps.com/images/standoff/sticker-bubblegum-space-swap.png,,source=PNG; alpha=77.6642%
 266,"Sticker ""FID"" Gold",ADD_NEW,OK_KNOWN_OVERRIDE,sticker_fid_gold.webp,19834,https://skins4fps.com/images/standoff/sticker-fid-gold.png,,source=PNG; alpha=79.5639%
 267,"Sticker ""Fluffy Assassin"" Color",ADD_NEW,OK_KNOWN_OVERRIDE,sticker_fluffy_assassin_color.webp,27362,https://skins4fps.com/images/standoff/sticker-fluffy-assassin-color.png,,source=PNG; alpha=73.1224%
 268,"Sticker ""Hot Gun"" Color",ADD_NEW,OK_KNOWN_OVERRIDE,sticker_hot_gun_color.webp,17388,https://skins4fps.com/images/standoff/sticker-hot-gun-color.png,,source=PNG; alpha=85.7666%
 269,"Sticker ""Province""",ADD_NEW,OK_KNOWN_OVERRIDE,sticker_province.webp,25184,https://skins4fps.com/images/standoff/sticker-province.png,,source=PNG; alpha=71.2349%
-270,"Stiletto ""Ascend""",ADD_NEW,SKIPPED_VALID,stiletto_ascend.webp,11262,,,alpha=92.5217%
-271,"Stiletto ""Damascus""",ADD_NEW,SKIPPED_VALID,stiletto_damascus.webp,26534,,,alpha=90.6265%
-272,"Tanto ""Glitch""",ADD_NEW,SKIPPED_VALID,tanto_glitch.webp,22416,,,alpha=93.3846%
+270,"Stiletto ""Ascend""",ADD_NEW,OK_DISCOVERED,stiletto_ascend.webp,11262,https://ggstand.com/public/storage/items/17561350157e34d4dc82fc18089a23c4c1a765ce1f.png,https://ggstand.com/en/case/syndicate-st-collection,source=WEBP; alpha=92.5217%
+271,"Stiletto ""Damascus""",ADD_NEW,OK_DISCOVERED,stiletto_damascus.webp,11116,https://ggstand.com/public/storage/items/1779292162d2aa4f72a51659cf2165189cd67bd76e.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=92.5880%
+272,"Tanto ""Glitch""",ADD_NEW,OK_DISCOVERED,tanto_glitch.webp,27966,https://ggstand.com/public/storage/items/1689691900cfe232a1a423869fd36c41978cf38a9c.png,https://ggstand.com/en/case/ezknife-m-st,source=WEBP; alpha=86.2633%
 273,"TEC-9 ""Dalmatian""",ADD_NEW,OK_KNOWN_OVERRIDE,tec_9_dalmatian.webp,26722,https://skins4fps.com/images/standoff/tec-9-dalmatian.png,,source=PNG; alpha=85.7140%
-274,"TEC-9 ""Disguise""",ADD_NEW,SKIPPED_VALID,tec_9_disguise.webp,26964,,,alpha=92.7322%
-275,"TEC-9 ""Gangster""",ADD_NEW,SKIPPED_VALID,tec_9_gangster.webp,20254,,,alpha=92.7528%
-276,"TEC-9 ""Glitch""",ADD_NEW,SKIPPED_VALID,tec_9_glitch.webp,22416,,,alpha=93.3846%
-277,"TEC-9 ""Needle""",ADD_NEW,SKIPPED_VALID,tec_9_needle.webp,19414,,,alpha=91.7458%
-278,"TEC-9 ""Night Slayer""",ADD_NEW,SKIPPED_VALID,tec_9_night_slayer.webp,18320,,,alpha=86.0237%
-279,"TEC-9 ""Reactor""",ADD_NEW,SKIPPED_VALID,tec_9_reactor.webp,23832,,,alpha=88.4735%
-280,"TEC-9 ""Tie Dye""",ADD_NEW,SKIPPED_VALID,tec_9_tie_dye.webp,29304,,,alpha=89.4096%
-281,"UMP45 ""Beast""",ADD_NEW,SKIPPED_VALID,ump45_beast.webp,46586,,,alpha=83.7585%
-282,"UMP45 ""Geometric""",ADD_NEW,SKIPPED_VALID,ump45_geometric.webp,43874,,,alpha=83.9439%
+274,"TEC-9 ""Disguise""",ADD_NEW,OK_DISCOVERED,tec_9_disguise.webp,26964,https://ggstand.io/public/storage/items/1710437724e03e6dc7c8869e1a599553b90df75abe.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=92.7322%
+275,"TEC-9 ""Gangster""",ADD_NEW,OK_DISCOVERED,tec_9_gangster.webp,20254,https://ggstand.com/public/storage/items/17252013695339a6376a5e6af48915159b82a6784e.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=92.7528%
+276,"TEC-9 ""Glitch""",ADD_NEW,OK_DISCOVERED,tec_9_glitch.webp,22416,https://ggstand.com/public/storage/items/16898571992d2e6987f2696a4dcab0ee3076797e3d.png,https://ggstand.com/en/case/arcane,source=WEBP; alpha=93.3846%
+277,"TEC-9 ""Needle""",ADD_NEW,OK_DISCOVERED,tec_9_needle.webp,19414,https://ggstand.io/public/storage/items/16896930573885342447f7283b9479a45dcb9760db.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=91.7458%
+278,"TEC-9 ""Night Slayer""",ADD_NEW,OK_DISCOVERED,tec_9_night_slayer.webp,18320,https://ggstand.io/public/storage/items/173538970245a8c8c15ceed1ecb149501959a49f8f.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=86.0237%
+279,"TEC-9 ""Reactor""",ADD_NEW,OK_DISCOVERED,tec_9_reactor.webp,23832,https://ggstand.io/public/storage/items/1688133139c5cfe39eb5fa5ec1e246360b613014da.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=88.4735%
+280,"TEC-9 ""Tie Dye""",ADD_NEW,OK_DISCOVERED,tec_9_tie_dye.webp,29304,https://ggstand.io/public/storage/items/1688406686de9085787ec17d1f2590ca50bd69b299.png,https://ggstand.io/ru/case/tec9,source=WEBP; alpha=89.4096%
+281,"UMP45 ""Beast""",ADD_NEW,OK_DISCOVERED,ump45_beast.webp,46586,https://ggstand.com/public/storage/items/168813350599a15162d421ad05f1403a4224b5fc5e.png,https://ggstand.com/en/case/arcane,source=WEBP; alpha=83.7585%
+282,"UMP45 ""Geometric""",ADD_NEW,OK_DISCOVERED,ump45_geometric.webp,43874,https://ggstand.com/public/storage/items/168813351732385adf99788cc6ca89eaccb2843fd8.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=83.9439%
 283,"UMP45 ""Pixel V2""",ADD_NEW,OK_KNOWN_OVERRIDE,ump45_pixel_v2.webp,25202,https://skins4fps.com/images/standoff/ump45-pixel-v2.png,,source=PNG; alpha=81.1371%
-284,"UMP45 ""Professional""",ADD_NEW,DOWNLOAD_FAILED,,0,,,HTTP 404
-285,"UMP45 ""Spirit""",ADD_NEW,SKIPPED_VALID,ump45_spirit.webp,35666,,,alpha=83.6372%
-286,"UMP45 ""Warchief""",ADD_NEW,SKIPPED_VALID,ump45_warchief.webp,28100,,,alpha=92.3454%
-287,"UMP45 ""White Carbon""",ADD_NEW,SKIPPED_VALID,ump45_white_carbon.webp,38800,,,alpha=84.7893%
-288,"USP ""Fiend""",ADD_NEW,SKIPPED_VALID,usp_fiend.webp,18826,,,alpha=81.6330%
-289,"USP ""Pisces""",ADD_NEW,SKIPPED_VALID,usp_pisces.webp,38762,,,alpha=81.3843%
-290,"USP ""Purple Camo""",ADD_NEW,SKIPPED_VALID,usp_purple_camo.webp,37180,,,alpha=83.4251%
-291,"VAL ""Gilded Gale""",ADD_NEW,SKIPPED_VALID,val_gilded_gale.webp,31714,,,alpha=91.0469%
-292,"VAL ""Joker""",ADD_NEW,SKIPPED_VALID,val_joker.webp,31436,,,alpha=90.9927%
-293,"VAL ""Night City""",ADD_NEW,SKIPPED_VALID,val_night_city.webp,26332,,,alpha=90.9889%
+284,"UMP45 ""Professional""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target UMP45 | Professional
+285,"UMP45 ""Spirit""",ADD_NEW,OK_DISCOVERED,ump45_spirit.webp,35666,https://ggstand.com/public/storage/items/1688133526ab710f0f31e4898fcdc3dde6025b0ed4.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=83.6372%
+286,"UMP45 ""Warchief""",ADD_NEW,OK_DISCOVERED,ump45_warchief.webp,28100,https://ggstand.com/public/storage/items/1689857201d79242477d6ff0a991413f9777ec2861.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=92.3454%
+287,"UMP45 ""White Carbon""",ADD_NEW,OK_DISCOVERED,ump45_white_carbon.webp,38800,https://ggstand.com/public/storage/items/1688133529396289bac6543a5f5d4f779b949d2017.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=84.7893%
+288,"USP ""Fiend""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target USP | Fiend
+289,"USP ""Pisces""",ADD_NEW,OK_DISCOVERED,usp_pisces.webp,38762,https://ggstand.com/public/storage/items/1688133759feb6875febd2a35bb1e63c9cb2458d4a.png,https://ggstand.com/en/case/epic,source=WEBP; alpha=81.3843%
+290,"USP ""Purple Camo""",ADD_NEW,OK_DISCOVERED,usp_purple_camo.webp,37180,https://ggstand.com/public/storage/items/1689736248b18f99f599589b2fadff659ed3679f92.png,https://ggstand.com/en/case/rare,source=WEBP; alpha=83.4251%
+291,"VAL ""Gilded Gale""",ADD_NEW,OK_DISCOVERED,val_gilded_gale.webp,31714,https://ggstand.io/public/storage/items/17104375375fae66c2465267c21ff3db3541100489.png,https://ggstand.io/ru/case/val,source=WEBP; alpha=91.0469%
+292,"VAL ""Joker""",ADD_NEW,OK_DISCOVERED,val_joker.webp,31436,https://ggstand.io/public/storage/items/17104396701422db90419cf3bdff0b36bd480baae9.png,https://ggstand.io/ru/case/val,source=WEBP; alpha=90.9927%
+293,"VAL ""Night City""",ADD_NEW,OK_DISCOVERED,val_night_city.webp,26332,https://ggstand.io/public/storage/items/1725201866ae88c8f1863547f1bb4e91508333e65b.png,https://ggstand.io/ru/case/val,source=WEBP; alpha=90.9889%
