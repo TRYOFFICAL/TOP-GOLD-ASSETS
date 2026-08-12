@@ -1323,6 +1323,28 @@
     "status": "SKIPPED_VALID"
   },
   {
+    "index": 59,
+    "canonical_name": "G22 \"Reindeer Sweater\"",
+    "target_title": "G22 | Reindeer Sweater",
+    "weapon": "G22",
+    "skin": "Reindeer Sweater",
+    "output_base": "g22_reindeer_sweater",
+    "output_file": "g22_reindeer_sweater.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* G22 \"Reindeer Sweater\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1766142343990c70547a438e4e060e970acf4701e2.png",
+    "source_page": "",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_reindeer_sweater.webp",
+    "alpha_ratio": 0.8218307495117188,
+    "status": "OK_KNOWN_OVERRIDE"
+  },
+  {
     "index": 60,
     "canonical_name": "G22 \"Twilight\"",
     "target_title": "G22 | Twilight",
