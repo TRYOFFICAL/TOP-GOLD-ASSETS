@@ -3482,11 +3482,11 @@
     "new_case_keys": [
       "street"
     ],
-    "source_url": "https://ggstand.io/public/storage/items/1775564124d4adc957b1733bdc21361027f62f58fe.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akimbo_uzi_no_escape.webp",
     "alpha_ratio": 0.8136825561523438,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 149,
@@ -3833,11 +3833,11 @@
     "new_case_keys": [
       "camo"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1766142281fa41d1b455aa4de9e52772fbc450d537.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_dark_camo.webp",
     "alpha_ratio": 0.7378692626953125,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 163,
@@ -4544,11 +4544,11 @@
     "new_case_keys": [
       "default"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/174282837943f24123d7ba5bfe1d9842ed1836f479.png",
-    "source_page": "https://ggstand.com/en/seven-keys/unommon-7keys",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_mayhem.webp",
     "alpha_ratio": 0.8169097900390625,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 191,
@@ -4902,11 +4902,11 @@
     "new_case_keys": [
       "default"
     ],
-    "source_url": "https://ggstandoff.pro/public/storage/items/168973514837cf3125f5927593ad3b7b147955f49c.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/graffiti_gold_skull_packed.webp",
     "alpha_ratio": 0.974456787109375,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 206,
@@ -5504,11 +5504,11 @@
     "new_case_keys": [
       "low"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/17661422826c5872e92325eaa2aee2f60d5815e393.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mac10_cardboard.webp",
     "alpha_ratio": 0.845123291015625,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 233,
@@ -5864,11 +5864,11 @@
       "rust",
       "camo"
     ],
-    "source_url": "https://ggstand.io/public/storage/items/1775564301db83ea1c8c138fe998c0a96667770f99.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_lab_prototype.webp",
     "alpha_ratio": 0.8066940307617188,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 248,
@@ -6273,11 +6273,11 @@
     "new_case_keys": [
       "basic"
     ],
-    "source_url": "https://ggstand.io/public/storage/items/177556393299f9cc6b7629c5bed5aa1c4f613a88aa.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/spas_waypoint.webp",
     "alpha_ratio": 0.8530731201171875,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 264,
@@ -6800,11 +6800,11 @@
     "new_case_keys": [
       "default"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1777372540fa078c465c0d85ba5ad8a65972dc3490.png",
-    "source_page": "https://ggstand.com/en/case/ump",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_professional.webp",
     "alpha_ratio": 0.8126296997070312,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 285,
@@ -6901,11 +6901,11 @@
     "new_case_keys": [
       "low"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1688133750cde0a62e5151a5ad293c8c4731597eeb.png",
-    "source_page": "https://ggstand.com/en/case/fable",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_fiend.webp",
     "alpha_ratio": 0.8137054443359375,
-    "status": "OK_DISCOVERED"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 289,

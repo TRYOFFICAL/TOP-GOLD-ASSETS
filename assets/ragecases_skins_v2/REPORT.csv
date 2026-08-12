@@ -143,10 +143,10 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 142,"USP ""Digital Burst""",REPLACE_EXISTING,SKIPPED_VALID,usp_digital_burst.webp,31186,,,alpha=88.1310%
 143,"USP ""Griffin""",ADD_NEW,SKIPPED_VALID,usp_griffin.webp,32074,,,alpha=86.9804%
 144,"USP ""Stone Cold""",REPLACE_EXISTING,SKIPPED_VALID,usp_stone_cold.webp,26616,,,alpha=86.8660%
-145,"USP ""Warden""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target USP | Warden; removed untrusted cached image after exact-match failure
+145,"USP ""Warden""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target USP | Warden
 146,"VAL ""Rosa Mortal""",ADD_NEW,SKIPPED_VALID,val_rosa_mortal.webp,16102,,,alpha=84.8244%
 147,"Akimbo Uzi ""Howling Ghost""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_howling_ghost.webp,20342,,,alpha=81.3728%
-148,"Akimbo Uzi ""No Escape""",ADD_NEW,OK_KNOWN_OVERRIDE,akimbo_uzi_no_escape.webp,17986,https://ggstand.io/public/storage/items/1775564124d4adc957b1733bdc21361027f62f58fe.png,,source=WEBP; alpha=81.3683%
+148,"Akimbo Uzi ""No Escape""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_no_escape.webp,17986,,,alpha=81.3683%
 149,"Akimbo Uzi ""Overdrive Red""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_overdrive_red.webp,21408,,,alpha=81.4171%
 150,"Akimbo Uzi ""Spray""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_spray.webp,29366,,,alpha=81.3927%
 151,"AKR12 ""4 Years""",ADD_NEW,SKIPPED_VALID,akr12_4_years.webp,37570,,,alpha=85.6422%
@@ -160,7 +160,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 159,"AKR ""Nano""",ADD_NEW,SKIPPED_VALID,akr_nano.webp,38852,,,alpha=85.0380%
 160,"AKR ""Tag King""",ADD_NEW,SKIPPED_VALID,akr_tag_king.webp,32672,,,alpha=91.1079%
 161,"AKR ""Worm""",ADD_NEW,SKIPPED_VALID,akr_worm.webp,40294,,,alpha=82.1724%
-162,"AWM ""Dark Camo""",ADD_NEW,OK_KNOWN_OVERRIDE,awm_dark_camo.webp,18018,https://ggstand.com/public/storage/items/1766142281fa41d1b455aa4de9e52772fbc450d537.png,,source=WEBP; alpha=73.7869%
+162,"AWM ""Dark Camo""",ADD_NEW,SKIPPED_VALID,awm_dark_camo.webp,18018,,,alpha=73.7869%
 163,"AWM ""Poseidon""",ADD_NEW,SKIPPED_VALID,awm_poseidon.webp,23900,,,alpha=92.3439%
 164,"AWM ""Xenoguard""",ADD_NEW,SKIPPED_VALID,awm_xenoguard.webp,13862,,,alpha=95.1958%
 165,"Berettas ""Arctic Camo""",ADD_NEW,SKIPPED_VALID,berettas_arctic_camo.webp,17478,,,alpha=83.1558%
@@ -188,7 +188,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 187,"FabM ""Death Herald""",ADD_NEW,SKIPPED_VALID,fabm_death_herald.webp,22202,,,alpha=82.5378%
 188,"FabM ""Gangster""",ADD_NEW,SKIPPED_VALID,fabm_gangster.webp,29774,,,alpha=88.3980%
 189,"FabM ""Hercules""",ADD_NEW,SKIPPED_VALID,fabm_hercules.webp,28062,,,alpha=89.2044%
-190,"FabM ""Mayhem""",ADD_NEW,OK_DISCOVERED,fabm_mayhem.webp,21844,https://ggstand.com/public/storage/items/174282837943f24123d7ba5bfe1d9842ed1836f479.png,https://ggstand.com/en/seven-keys/unommon-7keys,source=WEBP; alpha=81.6910%
+190,"FabM ""Mayhem""",ADD_NEW,SKIPPED_VALID,fabm_mayhem.webp,21844,,,alpha=81.6910%
 191,"FabM ""Streak""",ADD_NEW,SKIPPED_VALID,fabm_streak.webp,22092,,,alpha=81.7398%
 192,"FabM ""Thief Of The Christmas""",ADD_NEW,SKIPPED_VALID,fabm_thief_of_the_christmas.webp,30712,,,alpha=82.5165%
 193,"FAMAS ""Beagle""",ADD_NEW,SKIPPED_VALID,famas_beagle.webp,43930,,,alpha=84.3285%
@@ -203,7 +203,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 202,"G22 ""Adam""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target G22 | Adam
 203,"G22 ""Casual""",ADD_NEW,SKIPPED_VALID,g22_casual.webp,38232,,,alpha=83.4160%
 204,"G22 ""Pixel Camouflage""",ADD_NEW,SKIPPED_VALID,g22_pixel_camouflage.webp,17718,,,alpha=93.2205%
-205,"Graffiti ""Gold Skull"" Packed",ADD_NEW,OK_KNOWN_OVERRIDE,graffiti_gold_skull_packed.webp,42716,https://ggstandoff.pro/public/storage/items/168973514837cf3125f5927593ad3b7b147955f49c.png,,source=WEBP; alpha=97.4457%
+205,"Graffiti ""Gold Skull"" Packed",ADD_NEW,SKIPPED_VALID,graffiti_gold_skull_packed.webp,42716,,,alpha=97.4457%
 206,"jKommando ""Reaper""",ADD_NEW,SKIPPED_VALID,jkommando_reaper.webp,10102,,,alpha=93.1625%
 207,"Karambit ""Hologram""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target Karambit | Hologram
 208,"Karambit ""Purple Camo""",ADD_NEW,SKIPPED_VALID,karambit_purple_camo.webp,13248,,,alpha=87.8387%
@@ -230,7 +230,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 229,"M9 Bayonet ""Digital Burst""",ADD_NEW,SKIPPED_VALID,m9_bayonet_digital_burst.webp,14378,,,alpha=89.3944%
 230,"M9 Bayonet ""Kumo""",ADD_NEW,SKIPPED_VALID,m9_bayonet_kumo.webp,14326,,,alpha=89.9544%
 231,"MAC10 ""Argo""",ADD_NEW,SKIPPED_VALID,mac10_argo.webp,26098,,,alpha=90.6883%
-232,"MAC10 ""Cardboard""",ADD_NEW,OK_KNOWN_OVERRIDE,mac10_cardboard.webp,15212,https://ggstand.com/public/storage/items/17661422826c5872e92325eaa2aee2f60d5815e393.png,,source=WEBP; alpha=84.5123%
+232,"MAC10 ""Cardboard""",ADD_NEW,SKIPPED_VALID,mac10_cardboard.webp,15212,,,alpha=84.5123%
 233,"MAC10 ""Shogun Stripes""",ADD_NEW,SKIPPED_VALID,mac10_shogun_stripes.webp,29528,,,alpha=89.8018%
 234,"MAC10 ""Tempest""",ADD_NEW,SKIPPED_VALID,mac10_tempest.webp,17396,,,alpha=84.5467%
 235,"Mallard ""Snake Scales""",ADD_NEW,SKIPPED_VALID,mallard_snake_scales.webp,19054,,,alpha=80.3978%
@@ -245,7 +245,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 244,"MP7 ""Rebellion""",ADD_NEW,SKIPPED_VALID,mp7_rebellion.webp,30478,,,alpha=89.8018%
 245,"P350 ""4 Years""",ADD_NEW,SKIPPED_VALID,p350_4_years.webp,25090,,,alpha=88.8794%
 246,"P350 ""Gearshift""",ADD_NEW,SKIPPED_VALID,p350_gearshift.webp,27518,,,alpha=91.0385%
-247,"P350 ""Lab Prototype""",ADD_NEW,OK_KNOWN_OVERRIDE,p350_lab_prototype.webp,21290,https://ggstand.io/public/storage/items/1775564301db83ea1c8c138fe998c0a96667770f99.png,,source=WEBP; alpha=80.6694%
+247,"P350 ""Lab Prototype""",ADD_NEW,SKIPPED_VALID,p350_lab_prototype.webp,21290,,,alpha=80.6694%
 248,"P350 ""Savannah""",ADD_NEW,SKIPPED_VALID,p350_savannah.webp,29668,,,alpha=83.9691%
 249,"P350 ""Tag King""",ADD_NEW,SKIPPED_VALID,p350_tag_king.webp,28922,,,alpha=81.2950%
 250,"P90 ""Clash""",ADD_NEW,SKIPPED_VALID,p90_clash.webp,41070,,,alpha=83.1306%
@@ -261,7 +261,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 260,"SM1014 ""Serpent""",ADD_NEW,SKIPPED_VALID,sm1014_serpent.webp,28468,,,alpha=92.4568%
 261,"SM1014 ""Wasp""",ADD_NEW,SKIPPED_VALID,sm1014_wasp.webp,15258,,,alpha=85.0494%
 262,"SPAS ""Vibe""",ADD_NEW,SKIPPED_VALID,spas_vibe.webp,34594,,,alpha=88.5345%
-263,"SPAS ""Waypoint""",ADD_NEW,OK_KNOWN_OVERRIDE,spas_waypoint.webp,18924,https://ggstand.io/public/storage/items/177556393299f9cc6b7629c5bed5aa1c4f613a88aa.png,,source=WEBP; alpha=85.3073%
+263,"SPAS ""Waypoint""",ADD_NEW,SKIPPED_VALID,spas_waypoint.webp,18924,,,alpha=85.3073%
 264,"SPAS ""Zeus""",ADD_NEW,SKIPPED_VALID,spas_zeus.webp,23896,,,alpha=91.5054%
 265,"Sticker ""Bubblegum Space"" Swap",ADD_NEW,SKIPPED_VALID,sticker_bubblegum_space_swap.webp,33918,,,alpha=77.6642%
 266,"Sticker ""FID"" Gold",ADD_NEW,SKIPPED_VALID,sticker_fid_gold.webp,19834,,,alpha=79.5639%
@@ -282,11 +282,11 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 281,"UMP45 ""Beast""",ADD_NEW,SKIPPED_VALID,ump45_beast.webp,46586,,,alpha=83.7585%
 282,"UMP45 ""Geometric""",ADD_NEW,SKIPPED_VALID,ump45_geometric.webp,43874,,,alpha=83.9439%
 283,"UMP45 ""Pixel V2""",ADD_NEW,SKIPPED_VALID,ump45_pixel_v2.webp,25202,,,alpha=81.1371%
-284,"UMP45 ""Professional""",ADD_NEW,OK_DISCOVERED,ump45_professional.webp,18430,https://ggstand.com/public/storage/items/1777372540fa078c465c0d85ba5ad8a65972dc3490.png,https://ggstand.com/en/case/ump,source=WEBP; alpha=81.2630%
+284,"UMP45 ""Professional""",ADD_NEW,SKIPPED_VALID,ump45_professional.webp,18430,,,alpha=81.2630%
 285,"UMP45 ""Spirit""",ADD_NEW,SKIPPED_VALID,ump45_spirit.webp,35666,,,alpha=83.6372%
 286,"UMP45 ""Warchief""",ADD_NEW,SKIPPED_VALID,ump45_warchief.webp,28100,,,alpha=92.3454%
 287,"UMP45 ""White Carbon""",ADD_NEW,SKIPPED_VALID,ump45_white_carbon.webp,38800,,,alpha=84.7893%
-288,"USP ""Fiend""",ADD_NEW,OK_DISCOVERED,usp_fiend.webp,40268,https://ggstand.com/public/storage/items/1688133750cde0a62e5151a5ad293c8c4731597eeb.png,https://ggstand.com/en/case/fable,source=WEBP; alpha=81.3705%
+288,"USP ""Fiend""",ADD_NEW,SKIPPED_VALID,usp_fiend.webp,40268,,,alpha=81.3705%
 289,"USP ""Pisces""",ADD_NEW,SKIPPED_VALID,usp_pisces.webp,38762,,,alpha=81.3843%
 290,"USP ""Purple Camo""",ADD_NEW,SKIPPED_VALID,usp_purple_camo.webp,37180,,,alpha=83.4251%
 291,"VAL ""Gilded Gale""",ADD_NEW,SKIPPED_VALID,val_gilded_gale.webp,31714,,,alpha=91.0469%
