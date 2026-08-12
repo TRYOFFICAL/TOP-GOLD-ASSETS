@@ -25,6 +25,15 @@ MIRROR_BASES = [
     "https://ggstandoff.plus",
 ]
 PAGES_BASE = "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/"
+FANDOM_API = "https://standoff-2.fandom.com/ru/api.php"
+FANDOM_COLLECTION_PAGES = {
+    "USP | Warden": ["USP", 'Коллекция «Division»'],
+    "G22 | Adam": ["G22", 'Коллекция «Division»'],
+    "M4A1 | Contour": ["M4A1", 'Коллекция «Division»'],
+    "MP7 | Frequency": ["MP7", 'Коллекция «Division»'],
+    "Karambit | Hologram": ["Karambit", 'Коллекция «Winter Tale»'],
+    "M4A1 | Cyber Dragon": ["M4A1"],
+}
 FORCE = os.environ.get("FORCE_REDOWNLOAD", "false").lower() in {"1","true","yes","on"}
 STRICT_REPAIR_ADD_NEW = os.environ.get("STRICT_REPAIR_ADD_NEW", "false").lower() in {"1","true","yes","on"}
 REPAIR_FAILED_ONLY = os.environ.get("REPAIR_FAILED_ONLY", "false").lower() in {"1","true","yes","on"}
@@ -375,6 +384,117 @@ def page_candidates(item: dict) -> list[str]:
 
     return urls
 
+
+def fandom_norm_filename(s: str) -> str:
+    s=htmlmod.unescape(str(s or ""))
+    s=re.sub(r"^(?:File|Файл):\s*","",s,flags=re.I)
+    s=re.sub(r"\.[a-z0-9]{2,5}$","",s,flags=re.I)
+    s=s.replace("StatTrack"," ").replace("STATTRACK"," ")
+    s=s.casefold()
+    return re.sub(r"[^a-zа-яё0-9]+"," ",s,flags=re.I).strip()
+
+def fandom_api_json(session: requests.Session, params: dict) -> dict:
+    last=None
+    for attempt in range(1,4):
+        try:
+            headers=dict(HEADERS)
+            headers["Referer"]="https://standoff-2.fandom.com/"
+            r=session.get(FANDOM_API,params=params,headers=headers,timeout=(15,45))
+            if r.status_code >= 400:
+                raise RuntimeError(f"HTTP {r.status_code}")
+            return r.json()
+        except Exception as e:
+            last=e
+            time.sleep(0.8*attempt)
+    raise RuntimeError(str(last) if last else "Fandom API failed")
+
+def fandom_page_images(session: requests.Session, page_title: str) -> list[str]:
+    titles=[]
+    cont={}
+    for _ in range(8):
+        params={
+            "action":"query",
+            "format":"json",
+            "formatversion":"2",
+            "prop":"images",
+            "titles":page_title,
+            "imlimit":"max",
+        }
+        params.update(cont)
+        data=fandom_api_json(session,params)
+        for page in (data.get("query",{}).get("pages",[]) or []):
+            for im in (page.get("images",[]) or []):
+                t=im.get("title")
+                if t and t not in titles:
+                    titles.append(t)
+        if "continue" not in data:
+            break
+        cont=data["continue"]
+    return titles
+
+def fandom_original_urls(session: requests.Session, image_titles: list[str]) -> list[str]:
+    out=[]
+    for i in range(0,len(image_titles),20):
+        batch=image_titles[i:i+20]
+        data=fandom_api_json(session,{
+            "action":"query",
+            "format":"json",
+            "formatversion":"2",
+            "prop":"imageinfo",
+            "iiprop":"url|mime",
+            "titles":"|".join(batch),
+        })
+        for page in (data.get("query",{}).get("pages",[]) or []):
+            for info in (page.get("imageinfo",[]) or []):
+                u=info.get("url")
+                mime=str(info.get("mime") or "")
+                if u and mime.startswith("image/") and u not in out:
+                    out.append(u)
+    return out
+
+def fandom_image_candidates(session: requests.Session, item: dict) -> list[str]:
+    target=item.get("target_title","")
+    weapon=str(item.get("weapon","")).strip()
+    skin=str(item.get("skin","")).strip()
+    pages=FANDOM_COLLECTION_PAGES.get(target,[])
+    if not pages:
+        return []
+
+    skin_words=[x for x in fandom_norm_filename(skin).split() if len(x)>=2]
+    weapon_words=[x for x in fandom_norm_filename(weapon).split() if len(x)>=2]
+    candidates=[]
+
+    for page_title in pages:
+        try:
+            image_titles=fandom_page_images(session,page_title)
+        except Exception as e:
+            print(f"      fandom page unavailable: {page_title} -> {e}")
+            continue
+
+        page_is_weapon = fandom_norm_filename(page_title) == fandom_norm_filename(weapon)
+        matched=[]
+        for title in image_titles:
+            fn=fandom_norm_filename(title)
+            if not fn:
+                continue
+            if skin_words and not all(w in fn for w in skin_words):
+                continue
+            if not page_is_weapon and weapon_words and not all(w in fn for w in weapon_words):
+                continue
+            matched.append(title)
+
+        if matched:
+            print(f"      fandom exact image titles for {target}: {matched[:6]}")
+            try:
+                for u in fandom_original_urls(session,matched):
+                    if u not in candidates:
+                        candidates.append(u)
+            except Exception as e:
+                print(f"      fandom imageinfo failed for {target}: {e}")
+
+    return candidates
+
+
 def has_alpha(im: Image.Image) -> tuple[bool,float]:
     rgba=im.convert("RGBA")
     hist=rgba.getchannel("A").histogram(); total=max(1,sum(hist))
@@ -490,6 +610,20 @@ def main() -> int:
         for u in overrides.get(item['canonical_name'],[]):
             if u and u not in source_urls: source_urls.append(u)
         if source_urls: resolution="KNOWN_OVERRIDE"
+
+        # Exact fallback for the last failed items via Standoff Wiki MediaWiki API.
+        # No skin-only matching: weapon page/collection context + exact skin tokens.
+        if REPAIR_FAILED_ONLY and targeted_failed_repair and not source_urls:
+            try:
+                fandom_urls=fandom_image_candidates(session,item)
+                for u in fandom_urls:
+                    if u not in source_urls:
+                        source_urls.append(u)
+                if fandom_urls:
+                    source_page="FANDOM_API_EXACT"
+                    resolution="FANDOM_API_EXACT"
+            except Exception as e:
+                print(f"      fandom exact resolver failed: {e}")
 
         # Discover exact weapon+skin from pages.
         # In failed-only mode, a known exact override is tried immediately without crawling.
