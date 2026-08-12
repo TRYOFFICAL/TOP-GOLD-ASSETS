@@ -1,4 +1,0 @@
-RAGECASES SKINS V2 READY
-All 146 canonical images resolved.
-The current site has NOT been switched automatically.
-Use skin_images_map_v2.js/json for the next safe interface-only image migration.

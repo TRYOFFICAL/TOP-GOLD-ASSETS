@@ -87,6 +87,9 @@
     "rarities": [
       "Legendary"
     ],
+    "new_case_keys": [
+      "neon"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_digital_burst.webp",
@@ -134,6 +137,9 @@
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -249,6 +255,9 @@
     "rarities": [
       "Legendary"
     ],
+    "new_case_keys": [
+      "province"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_sketch.webp",
@@ -272,6 +281,9 @@
     ],
     "rarities": [
       "Epic"
+    ],
+    "new_case_keys": [
+      "sandstone"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -676,10 +688,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* Desert Eagle \"Eclipse\""
+      "STATTRACK* Desert Eagle \"Eclipse\"",
+      "Desert Eagle \"Eclipse\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "neon"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -773,6 +789,9 @@
     "rarities": [
       "Legendary"
     ],
+    "new_case_keys": [
+      "sandstone"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_razorwire.webp",
@@ -834,10 +853,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* Desert Eagle \"Violet Flame\""
+      "STATTRACK* Desert Eagle \"Violet Flame\"",
+      "Desert Eagle \"Violet Flame\""
     ],
     "rarities": [
       "Rare"
+    ],
+    "new_case_keys": [
+      "default"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -946,10 +969,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* F/S \"Rush\""
+      "STATTRACK* F/S \"Rush\"",
+      "F/S \"Rush\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1019,6 +1046,9 @@
     "rarities": [
       "Arcane"
     ],
+    "new_case_keys": [
+      "sandstone"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/famas_fury.webp",
@@ -1080,10 +1110,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* FAMAS \"Ritual\""
+      "STATTRACK* FAMAS \"Ritual\"",
+      "FAMAS \"Ritual\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "camo"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1102,10 +1136,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* FN FAL \"Astral Rift\""
+      "STATTRACK* FN FAL \"Astral Rift\"",
+      "FN FAL \"Astral Rift\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "breeze"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1154,6 +1192,9 @@
     "rarities": [
       "Rare"
     ],
+    "new_case_keys": [
+      "low"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_splash.webp",
@@ -1177,6 +1218,9 @@
     ],
     "rarities": [
       "Arcane"
+    ],
+    "new_case_keys": [
+      "sandstone"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1222,6 +1266,9 @@
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "province"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1289,10 +1336,15 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* G22 \"Lion Lord\""
+      "STATTRACK* G22 \"Lion Lord\"",
+      "G22 \"Lion Lord\""
     ],
     "rarities": [
       "Rare"
+    ],
+    "new_case_keys": [
+      "province",
+      "default"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1338,11 +1390,11 @@
     "rarities": [
       "Rare"
     ],
-    "source_url": "https://ggstand.com/public/storage/items/1766142343990c70547a438e4e060e970acf4701e2.png",
+    "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_reindeer_sweater.webp",
     "alpha_ratio": 0.8218307495117188,
-    "status": "OK_KNOWN_OVERRIDE"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 60,
@@ -1384,6 +1436,9 @@
     ],
     "rarities": [
       "Rare"
+    ],
+    "new_case_keys": [
+      "cyber"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1547,6 +1602,9 @@
     "rarities": [
       "Arcane"
     ],
+    "new_case_keys": [
+      "breeze"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/kukri_prophet.webp",
@@ -1631,10 +1689,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* M16 \"Naga\""
+      "STATTRACK* M16 \"Naga\"",
+      "M16 \"Naga\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "breeze"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1700,10 +1762,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "M4 \"Flex\""
+      "M4 \"Flex\"",
+      "STATTRACK* M4 \"Flex\""
     ],
     "rarities": [
       "Epic"
+    ],
+    "new_case_keys": [
+      "cyber"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1794,10 +1860,14 @@
       "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/golden_phantom_neptune_venom/skins/m4_night_wolf.webp"
     ],
     "appears_as": [
-      "STATTRACK* M4 \"Night Wolf\""
+      "STATTRACK* M4 \"Night Wolf\"",
+      "M4 \"Night Wolf\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "breeze"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -1940,6 +2010,10 @@
       "Legendary",
       "Arcane"
     ],
+    "new_case_keys": [
+      "glitch",
+      "cyber"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_bubblegum.webp",
@@ -2049,10 +2123,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* M4A1 \"Serpent\""
+      "STATTRACK* M4A1 \"Serpent\"",
+      "M4A1 \"Serpent\""
     ],
     "rarities": [
       "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -2146,6 +2224,10 @@
     "rarities": [
       "Epic"
     ],
+    "new_case_keys": [
+      "neon",
+      "glitch"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m60_spaceware.webp",
@@ -2169,6 +2251,9 @@
     ],
     "rarities": [
       "Arcane"
+    ],
+    "new_case_keys": [
+      "sandstone"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -2328,6 +2413,9 @@
     "rarities": [
       "Rare"
     ],
+    "new_case_keys": [
+      "rust"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_clouds.webp",
@@ -2389,10 +2477,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* MP5 \"Phantom Form\""
+      "STATTRACK* MP5 \"Phantom Form\"",
+      "MP5 \"Phantom Form\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "breeze"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -2435,10 +2527,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* MP7 \"Space Blaster\""
+      "STATTRACK* MP7 \"Space Blaster\"",
+      "MP7 \"Space Blaster\""
     ],
     "rarities": [
       "Epic"
+    ],
+    "new_case_keys": [
+      "glitch"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -2508,6 +2604,9 @@
     "rarities": [
       "Rare"
     ],
+    "new_case_keys": [
+      "rust"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_autumn.webp",
@@ -2547,10 +2646,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* P350 \"Emberbird\""
+      "STATTRACK* P350 \"Emberbird\"",
+      "P350 \"Emberbird\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -2802,6 +2905,9 @@
     "rarities": [
       "Rare"
     ],
+    "new_case_keys": [
+      "basic"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sm1014_triton.webp",
@@ -2819,10 +2925,14 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* SM1014 \"Wave\""
+      "STATTRACK* SM1014 \"Wave\"",
+      "SM1014 \"Wave\""
     ],
     "rarities": [
       "Rare"
+    ],
+    "new_case_keys": [
+      "basic"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -2956,6 +3066,9 @@
     "rarities": [
       "Legendary"
     ],
+    "new_case_keys": [
+      "sandstone"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sticker_sandstone.webp",
@@ -2995,10 +3108,15 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* TEC-9 \"Fable\""
+      "STATTRACK* TEC-9 \"Fable\"",
+      "TEC-9 \"Fable\""
     ],
     "rarities": [
       "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "sandstone"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -3044,6 +3162,9 @@
     ],
     "rarities": [
       "Rare"
+    ],
+    "new_case_keys": [
+      "breeze"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -3091,6 +3212,9 @@
     "rarities": [
       "Rare"
     ],
+    "new_case_keys": [
+      "breeze"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_tropic.webp",
@@ -3112,6 +3236,10 @@
     ],
     "rarities": [
       "Epic"
+    ],
+    "new_case_keys": [
+      "neon",
+      "cyber"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -3228,6 +3356,9 @@
     "rarities": [
       "Epic"
     ],
+    "new_case_keys": [
+      "neon"
+    ],
     "source_url": "EXISTING_V2",
     "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_digital_burst.webp",
@@ -3245,10 +3376,15 @@
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* USP \"Griffin\""
+      "STATTRACK* USP \"Griffin\"",
+      "USP \"Griffin\""
     ],
     "rarities": [
       "Rare"
+    ],
+    "new_case_keys": [
+      "province",
+      "default"
     ],
     "source_url": "EXISTING_V2",
     "source_page": "",
@@ -3323,5 +3459,3043 @@
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/val_rosa_mortal.webp",
     "alpha_ratio": 0.8482437133789062,
     "status": "SKIPPED_VALID"
+  },
+  {
+    "index": 147,
+    "canonical_name": "Akimbo Uzi \"Howling Ghost\"",
+    "target_title": "Akimbo Uzi | Howling Ghost",
+    "weapon": "Akimbo Uzi",
+    "skin": "Howling Ghost",
+    "output_base": "akimbo_uzi_howling_ghost",
+    "output_file": "akimbo_uzi_howling_ghost.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Akimbo Uzi \"Howling Ghost\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1761659536408cf56be0c1f65e4a6d657fbb63bcf0.png",
+    "source_page": "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akimbo_uzi_howling_ghost.webp",
+    "alpha_ratio": 0.8137283325195312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 149,
+    "canonical_name": "Akimbo Uzi \"Overdrive Red\"",
+    "target_title": "Akimbo Uzi | Overdrive Red",
+    "weapon": "Akimbo Uzi",
+    "skin": "Overdrive Red",
+    "output_base": "akimbo_uzi_overdrive_red",
+    "output_file": "akimbo_uzi_overdrive_red.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Akimbo Uzi \"Overdrive Red\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street",
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/174282821592ee354df17ee2bbea241a4107adeb1e.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akimbo_uzi_overdrive_red.webp",
+    "alpha_ratio": 0.8141708374023438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 150,
+    "canonical_name": "Akimbo Uzi \"Spray\"",
+    "target_title": "Akimbo Uzi | Spray",
+    "weapon": "Akimbo Uzi",
+    "skin": "Spray",
+    "output_base": "akimbo_uzi_spray",
+    "output_file": "akimbo_uzi_spray.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Akimbo Uzi \"Spray\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1742826127c750d3b99bbbe5094221219c07280738.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akimbo_uzi_spray.webp",
+    "alpha_ratio": 0.8139266967773438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 151,
+    "canonical_name": "AKR12 \"4 Years\"",
+    "target_title": "AKR12 | 4 Years",
+    "weapon": "AKR12",
+    "skin": "4 Years",
+    "output_base": "akr12_4_years",
+    "output_file": "akr12_4_years.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR12 \"4 Years\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688078603bfaf080b4b140aae5334860d897e08c7.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_4_years.webp",
+    "alpha_ratio": 0.8564224243164062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 152,
+    "canonical_name": "AKR12 \"Armored\"",
+    "target_title": "AKR12 | Armored",
+    "weapon": "AKR12",
+    "skin": "Armored",
+    "output_base": "akr12_armored",
+    "output_file": "akr12_armored.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR12 \"Armored\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16880792886f4d2eb6b9a3e7d06d47d4128869aa16.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_armored.webp",
+    "alpha_ratio": 0.8592681884765625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 153,
+    "canonical_name": "AKR12 \"Ashbringer\"",
+    "target_title": "AKR12 | Ashbringer",
+    "weapon": "AKR12",
+    "skin": "Ashbringer",
+    "output_base": "akr12_ashbringer",
+    "output_file": "akr12_ashbringer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR12 \"Ashbringer\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688405340e9b3948ca72969d90d081ad632f36dc4.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_ashbringer.webp",
+    "alpha_ratio": 0.8343276977539062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 154,
+    "canonical_name": "AKR12 \"Carbon\"",
+    "target_title": "AKR12 | Carbon",
+    "weapon": "AKR12",
+    "skin": "Carbon",
+    "output_base": "akr12_carbon",
+    "output_file": "akr12_carbon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR12 \"Carbon\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688079327ca917ee4877cff1328019073fd72a04b.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_carbon.webp",
+    "alpha_ratio": 0.8289718627929688,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 155,
+    "canonical_name": "AKR12 \"Carving\"",
+    "target_title": "AKR12 | Carving",
+    "weapon": "AKR12",
+    "skin": "Carving",
+    "output_base": "akr12_carving",
+    "output_file": "akr12_carving.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR12 \"Carving\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168969228809301fd2b81bb233993b03f343d580af.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_carving.webp",
+    "alpha_ratio": 0.9039459228515625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 156,
+    "canonical_name": "AKR12 \"Emberbird\"",
+    "target_title": "AKR12 | Emberbird",
+    "weapon": "AKR12",
+    "skin": "Emberbird",
+    "output_base": "akr12_emberbird",
+    "output_file": "akr12_emberbird.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR12 \"Emberbird\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1725201239f0e45acd25ba0e63fe67e42af663f617.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_emberbird.webp",
+    "alpha_ratio": 0.8762283325195312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 157,
+    "canonical_name": "AKR12 \"Transistor\"",
+    "target_title": "AKR12 | Transistor",
+    "weapon": "AKR12",
+    "skin": "Transistor",
+    "output_base": "akr12_transistor",
+    "output_file": "akr12_transistor.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR12 \"Transistor\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16880797109fb7aaa2bea3254c5e041d48a6d0d368.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr12_transistor.webp",
+    "alpha_ratio": 0.8649139404296875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 158,
+    "canonical_name": "AKR \"Evolution\"",
+    "target_title": "AKR | Evolution",
+    "weapon": "AKR",
+    "skin": "Evolution",
+    "output_base": "akr_evolution",
+    "output_file": "akr_evolution.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR \"Evolution\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168840530759634da69cca3f3be008be22330adfa9.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_evolution.webp",
+    "alpha_ratio": 0.8553466796875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 159,
+    "canonical_name": "AKR \"Nano\"",
+    "target_title": "AKR | Nano",
+    "weapon": "AKR",
+    "skin": "Nano",
+    "output_base": "akr_nano",
+    "output_file": "akr_nano.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AKR \"Nano\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "neon"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168807900898f088eee1bef2cf6b1d181d6c04e814.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_nano.webp",
+    "alpha_ratio": 0.8503799438476562,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 160,
+    "canonical_name": "AKR \"Tag King\"",
+    "target_title": "AKR | Tag King",
+    "weapon": "AKR",
+    "skin": "Tag King",
+    "output_base": "akr_tag_king",
+    "output_file": "akr_tag_king.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AKR \"Tag King\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16897139086d395c7b037beb24cbb3be0a95e3cea7.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/akr_tag_king.webp",
+    "alpha_ratio": 0.8129501342773438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 163,
+    "canonical_name": "AWM \"Poseidon\"",
+    "target_title": "AWM | Poseidon",
+    "weapon": "AWM",
+    "skin": "Poseidon",
+    "output_base": "awm_poseidon",
+    "output_file": "awm_poseidon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "AWM \"Poseidon\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689692326a7908af5d02b9930daa78115a09dd10a.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_poseidon.webp",
+    "alpha_ratio": 0.9234390258789062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 164,
+    "canonical_name": "AWM \"Xenoguard\"",
+    "target_title": "AWM | Xenoguard",
+    "weapon": "AWM",
+    "skin": "Xenoguard",
+    "output_base": "awm_xenoguard",
+    "output_file": "awm_xenoguard.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* AWM \"Xenoguard\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689856804b75f82ace4b4aac3ba1dc9316a1f5852.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/awm_xenoguard.webp",
+    "alpha_ratio": 0.9519577026367188,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 165,
+    "canonical_name": "Berettas \"Arctic Camo\"",
+    "target_title": "Berettas | Arctic Camo",
+    "weapon": "Berettas",
+    "skin": "Arctic Camo",
+    "output_base": "berettas_arctic_camo",
+    "output_file": "berettas_arctic_camo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Arctic Camo\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17661424230897e8cf05df65146e240f77ff1bd49c.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/berettas_arctic_camo.webp",
+    "alpha_ratio": 0.8315582275390625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 166,
+    "canonical_name": "Berettas \"Damascus\"",
+    "target_title": "Berettas | Damascus",
+    "weapon": "Berettas",
+    "skin": "Damascus",
+    "output_base": "berettas_damascus",
+    "output_file": "berettas_damascus.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Damascus\"",
+      "STATTRACK* Berettas \"Damascus\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "rust",
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168840547797e5a70d02ab9b6455f57cfb3c3529a0.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/berettas_damascus.webp",
+    "alpha_ratio": 0.9062652587890625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 167,
+    "canonical_name": "Berettas \"Hexagon\"",
+    "target_title": "Berettas | Hexagon",
+    "weapon": "Berettas",
+    "skin": "Hexagon",
+    "output_base": "berettas_hexagon",
+    "output_file": "berettas_hexagon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Hexagon\"",
+      "STATTRACK* Berettas \"Hexagon\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch",
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16897045037af48f725fa5655843ca0de60eec5058.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/berettas_hexagon.webp",
+    "alpha_ratio": 0.84136962890625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 169,
+    "canonical_name": "Berettas \"Royal Rose\"",
+    "target_title": "Berettas | Royal Rose",
+    "weapon": "Berettas",
+    "skin": "Royal Rose",
+    "output_base": "berettas_royal_rose",
+    "output_file": "berettas_royal_rose.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Berettas \"Royal Rose\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168840547428475236c9484feac31dcc99c6889eae.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/berettas_royal_rose.webp",
+    "alpha_ratio": 0.907073974609375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 171,
+    "canonical_name": "Butterfly \"Glitch\"",
+    "target_title": "Butterfly | Glitch",
+    "weapon": "Butterfly",
+    "skin": "Glitch",
+    "output_base": "butterfly_glitch",
+    "output_file": "butterfly_glitch.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Butterfly \"Glitch\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16898571992d2e6987f2696a4dcab0ee3076797e3d.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/butterfly_glitch.webp",
+    "alpha_ratio": 0.9338455200195312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 172,
+    "canonical_name": "Butterfly \"Kumo\"",
+    "target_title": "Butterfly | Kumo",
+    "weapon": "Butterfly",
+    "skin": "Kumo",
+    "output_base": "butterfly_kumo",
+    "output_file": "butterfly_kumo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Butterfly \"Kumo\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1771274640fad5ba96b824377de73c57846d1e6538.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/butterfly_kumo.webp",
+    "alpha_ratio": 0.9197311401367188,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 173,
+    "canonical_name": "Desert Eagle \"Ace\"",
+    "target_title": "Desert Eagle | Ace",
+    "weapon": "Desert Eagle",
+    "skin": "Ace",
+    "output_base": "desert_eagle_ace",
+    "output_file": "desert_eagle_ace.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Ace\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1687977649c6e2b9679f9174d978957b5573e14b53.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_ace.webp",
+    "alpha_ratio": 0.8636245727539062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 174,
+    "canonical_name": "Desert Eagle \"Blood\"",
+    "target_title": "Desert Eagle | Blood",
+    "weapon": "Desert Eagle",
+    "skin": "Blood",
+    "output_base": "desert_eagle_blood",
+    "output_file": "desert_eagle_blood.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Blood\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688080614719e74b8760cb93303c35eee58f01652.png",
+    "source_page": "https://ggstand.com/en/case/origin",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_blood.webp",
+    "alpha_ratio": 0.8508987426757812,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 175,
+    "canonical_name": "Desert Eagle \"Dust Devil\"",
+    "target_title": "Desert Eagle | Dust Devil",
+    "weapon": "Desert Eagle",
+    "skin": "Dust Devil",
+    "output_base": "desert_eagle_dust_devil",
+    "output_file": "desert_eagle_dust_devil.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* Desert Eagle \"Dust Devil\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16934047469bac6d25a181333e17282daa29fa1850.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_dust_devil.webp",
+    "alpha_ratio": 0.8931503295898438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 176,
+    "canonical_name": "Desert Eagle \"Gambit\"",
+    "target_title": "Desert Eagle | Gambit",
+    "weapon": "Desert Eagle",
+    "skin": "Gambit",
+    "output_base": "desert_eagle_gambit",
+    "output_file": "desert_eagle_gambit.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Gambit\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17712748210c673493e1cf59d5e77b17a590b70de8.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_gambit.webp",
+    "alpha_ratio": 0.9202041625976562,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 178,
+    "canonical_name": "Desert Eagle \"Orochi\"",
+    "target_title": "Desert Eagle | Orochi",
+    "weapon": "Desert Eagle",
+    "skin": "Orochi",
+    "output_base": "desert_eagle_orochi",
+    "output_file": "desert_eagle_orochi.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Orochi\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168808075816f2f169f3a6ce67967c3e9b70f967aa.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_orochi.webp",
+    "alpha_ratio": 0.8753509521484375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 179,
+    "canonical_name": "Desert Eagle \"Wildflower\"",
+    "target_title": "Desert Eagle | Wildflower",
+    "weapon": "Desert Eagle",
+    "skin": "Wildflower",
+    "output_base": "desert_eagle_wildflower",
+    "output_file": "desert_eagle_wildflower.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Desert Eagle \"Wildflower\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1766142420290eb43cfe84f8eeb83842c1ccb7dfa1.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/desert_eagle_wildflower.webp",
+    "alpha_ratio": 0.7906417846679688,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 180,
+    "canonical_name": "Dual Daggers \"Jaws\"",
+    "target_title": "Dual Daggers | Jaws",
+    "weapon": "Dual Daggers",
+    "skin": "Jaws",
+    "output_base": "dual_daggers_jaws",
+    "output_file": "dual_daggers_jaws.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Dual Daggers \"Jaws\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1779292660c8cd07f45f1e1b9811b482dbe6871718.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/dual_daggers_jaws.webp",
+    "alpha_ratio": 0.8395004272460938,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 181,
+    "canonical_name": "F/S \"Enforcer\"",
+    "target_title": "F/S | Enforcer",
+    "weapon": "F/S",
+    "skin": "Enforcer",
+    "output_base": "f_s_enforcer",
+    "output_file": "f_s_enforcer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "F/S \"Enforcer\"",
+      "STATTRACK* F/S \"Enforcer\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "neon"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688081943e136ef6fb66b02684b0a00ad1a3f6dff.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_enforcer.webp",
+    "alpha_ratio": 0.892425537109375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 182,
+    "canonical_name": "F/S \"Flashing Flame\"",
+    "target_title": "F/S | Flashing Flame",
+    "weapon": "F/S",
+    "skin": "Flashing Flame",
+    "output_base": "f_s_flashing_flame",
+    "output_file": "f_s_flashing_flame.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "F/S \"Flashing Flame\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/176614229344668dcd44965ffaddc91ff1eba08342.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_flashing_flame.webp",
+    "alpha_ratio": 0.803741455078125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 183,
+    "canonical_name": "F/S \"Pink Shot\"",
+    "target_title": "F/S | Pink Shot",
+    "weapon": "F/S",
+    "skin": "Pink Shot",
+    "output_base": "f_s_pink_shot",
+    "output_file": "f_s_pink_shot.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* F/S \"Pink Shot\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "neon"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17353897433e82844aa33d20c9929289ea1a6740f9.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_pink_shot.webp",
+    "alpha_ratio": 0.8048934936523438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 184,
+    "canonical_name": "F/S \"Zone\"",
+    "target_title": "F/S | Zone",
+    "weapon": "F/S",
+    "skin": "Zone",
+    "output_base": "f_s_zone",
+    "output_file": "f_s_zone.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* F/S \"Zone\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688081925620724db212fb58e82852d6cf77528a0.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/f_s_zone.webp",
+    "alpha_ratio": 0.8398513793945312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 185,
+    "canonical_name": "FabM \"BOOM\"",
+    "target_title": "FabM | BOOM",
+    "weapon": "FabM",
+    "skin": "BOOM",
+    "output_base": "fabm_boom",
+    "output_file": "fabm_boom.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"BOOM\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689704817581e7e95fbcdf7d9fe98bcac477b39dc.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_boom.webp",
+    "alpha_ratio": 0.8241958618164062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 186,
+    "canonical_name": "FabM \"Cranium\"",
+    "target_title": "FabM | Cranium",
+    "weapon": "FabM",
+    "skin": "Cranium",
+    "output_base": "fabm_cranium",
+    "output_file": "fabm_cranium.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Cranium\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689704816216f01463b8d03301df1fa2d42f38737.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_cranium.webp",
+    "alpha_ratio": 0.8245086669921875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 187,
+    "canonical_name": "FabM \"Death Herald\"",
+    "target_title": "FabM | Death Herald",
+    "weapon": "FabM",
+    "skin": "Death Herald",
+    "output_base": "fabm_death_herald",
+    "output_file": "fabm_death_herald.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Death Herald\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16897048155e2d5cbe592e1679117f4e123d027547.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_death_herald.webp",
+    "alpha_ratio": 0.82537841796875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 188,
+    "canonical_name": "FabM \"Gangster\"",
+    "target_title": "FabM | Gangster",
+    "weapon": "FabM",
+    "skin": "Gangster",
+    "output_base": "fabm_gangster",
+    "output_file": "fabm_gangster.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Gangster\"",
+      "STATTRACK* FabM \"Gangster\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17252027483d31cecae211af978856b1853982739a.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_gangster.webp",
+    "alpha_ratio": 0.8839797973632812,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 189,
+    "canonical_name": "FabM \"Hercules\"",
+    "target_title": "FabM | Hercules",
+    "weapon": "FabM",
+    "skin": "Hercules",
+    "output_base": "fabm_hercules",
+    "output_file": "fabm_hercules.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FabM \"Hercules\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168969241666883ff392671b144913c6138f53e7ef.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_hercules.webp",
+    "alpha_ratio": 0.8920440673828125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 190,
+    "canonical_name": "FabM \"Mayhem\"",
+    "target_title": "FabM | Mayhem",
+    "weapon": "FabM",
+    "skin": "Mayhem",
+    "output_base": "fabm_mayhem",
+    "output_file": "fabm_mayhem.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Mayhem\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1742827774636bf6cd7b06b3b2b167fc51a13376cb.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_mayhem.webp",
+    "alpha_ratio": 0.7620773315429688,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 191,
+    "canonical_name": "FabM \"Streak\"",
+    "target_title": "FabM | Streak",
+    "weapon": "FabM",
+    "skin": "Streak",
+    "output_base": "fabm_streak",
+    "output_file": "fabm_streak.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Streak\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17448952154d2729bd8e4ebc1b997c2bcb81c25f7f.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_streak.webp",
+    "alpha_ratio": 0.8173980712890625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 192,
+    "canonical_name": "FabM \"Thief Of The Christmas\"",
+    "target_title": "FabM | Thief Of The Christmas",
+    "weapon": "FabM",
+    "skin": "Thief Of The Christmas",
+    "output_base": "fabm_thief_of_the_christmas",
+    "output_file": "fabm_thief_of_the_christmas.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FabM \"Thief Of The Christmas\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689704815865242c3fb36b604e4b039c8675554c8.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fabm_thief_of_the_christmas.webp",
+    "alpha_ratio": 0.825164794921875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 193,
+    "canonical_name": "FAMAS \"Beagle\"",
+    "target_title": "FAMAS | Beagle",
+    "weapon": "FAMAS",
+    "skin": "Beagle",
+    "output_base": "famas_beagle",
+    "output_file": "famas_beagle.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FAMAS \"Beagle\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688081468a2eac82024adca47cf576b38f8740f30.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/famas_beagle.webp",
+    "alpha_ratio": 0.8432846069335938,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 194,
+    "canonical_name": "FAMAS \"Feral\"",
+    "target_title": "FAMAS | Feral",
+    "weapon": "FAMAS",
+    "skin": "Feral",
+    "output_base": "famas_feral",
+    "output_file": "famas_feral.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FAMAS \"Feral\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "neon"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/174282648860fc93aeed017368705c798f30b45ebe.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/famas_feral.webp",
+    "alpha_ratio": 0.7770309448242188,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 195,
+    "canonical_name": "FAMAS \"Oxide\"",
+    "target_title": "FAMAS | Oxide",
+    "weapon": "FAMAS",
+    "skin": "Oxide",
+    "output_base": "famas_oxide",
+    "output_file": "famas_oxide.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FAMAS \"Oxide\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1725201902f45d5d5fe59d401139fb79ccfdcd5c69.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/famas_oxide.webp",
+    "alpha_ratio": 0.8633270263671875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 197,
+    "canonical_name": "FN FAL \"Basilisk\"",
+    "target_title": "FN FAL | Basilisk",
+    "weapon": "FN FAL",
+    "skin": "Basilisk",
+    "output_base": "fn_fal_basilisk",
+    "output_file": "fn_fal_basilisk.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* FN FAL \"Basilisk\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689692441936002f84076747691705a4dca6e033d.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_basilisk.webp",
+    "alpha_ratio": 0.9234619140625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 198,
+    "canonical_name": "FN FAL \"Charred Wood\"",
+    "target_title": "FN FAL | Charred Wood",
+    "weapon": "FN FAL",
+    "skin": "Charred Wood",
+    "output_base": "fn_fal_charred_wood",
+    "output_file": "fn_fal_charred_wood.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FN FAL \"Charred Wood\"",
+      "STATTRACK* FN FAL \"Charred Wood\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "street",
+      "breeze",
+      "default",
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17428259844bf5222f427a73ef965f1bcf7771579f.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_charred_wood.webp",
+    "alpha_ratio": 0.8221588134765625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 199,
+    "canonical_name": "FN FAL \"Empyrean\"",
+    "target_title": "FN FAL | Empyrean",
+    "weapon": "FN FAL",
+    "skin": "Empyrean",
+    "output_base": "fn_fal_empyrean",
+    "output_file": "fn_fal_empyrean.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FN FAL \"Empyrean\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17661424305c77cb01ecdf0139a54414593c673ab1.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_empyrean.webp",
+    "alpha_ratio": 0.822265625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 200,
+    "canonical_name": "FN FAL \"PRO\"",
+    "target_title": "FN FAL | PRO",
+    "weapon": "FN FAL",
+    "skin": "PRO",
+    "output_base": "fn_fal_pro",
+    "output_file": "fn_fal_pro.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FN FAL \"PRO\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default",
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688127677203f4c7bca7a6304ee703f69c5bb28f1.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_pro.webp",
+    "alpha_ratio": 0.8512039184570312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 201,
+    "canonical_name": "FN FAL \"Scaleskitter\"",
+    "target_title": "FN FAL | Scaleskitter",
+    "weapon": "FN FAL",
+    "skin": "Scaleskitter",
+    "output_base": "fn_fal_scaleskitter",
+    "output_file": "fn_fal_scaleskitter.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "FN FAL \"Scaleskitter\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16934037489d28deb3890437b6a466c92e900d9c6c.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/fn_fal_scaleskitter.webp",
+    "alpha_ratio": 0.9234619140625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 202,
+    "canonical_name": "G22 \"Adam\"",
+    "target_title": "G22 | Adam",
+    "weapon": "G22",
+    "skin": "Adam",
+    "output_base": "g22_adam",
+    "output_file": "g22_adam.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* G22 \"Adam\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17773718947b05d34f7d76affd169ad8d14549c261.png",
+    "source_page": "https://ggstand.com/en/case/millionaire",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_adam.webp",
+    "alpha_ratio": 0.5651702880859375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 203,
+    "canonical_name": "G22 \"Casual\"",
+    "target_title": "G22 | Casual",
+    "weapon": "G22",
+    "skin": "Casual",
+    "output_base": "g22_casual",
+    "output_file": "g22_casual.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "G22 \"Casual\"",
+      "STATTRACK* G22 \"Casual\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "glitch",
+      "cyber",
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688127278c0916b1ddb884b0422979ea2918fed00.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_casual.webp",
+    "alpha_ratio": 0.8341598510742188,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 204,
+    "canonical_name": "G22 \"Pixel Camouflage\"",
+    "target_title": "G22 | Pixel Camouflage",
+    "weapon": "G22",
+    "skin": "Pixel Camouflage",
+    "output_base": "g22_pixel_camouflage",
+    "output_file": "g22_pixel_camouflage.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "G22 \"Pixel Camouflage\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "low"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688079545edf375ead3e056293d14de6f27d638de.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_pixel_camouflage.webp",
+    "alpha_ratio": 0.84881591796875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 206,
+    "canonical_name": "jKommando \"Reaper\"",
+    "target_title": "jKommando | Reaper",
+    "weapon": "jKommando",
+    "skin": "Reaper",
+    "output_base": "jkommando_reaper",
+    "output_file": "jkommando_reaper.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "jKommando \"Reaper\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1779291479d45de12437d4f31352e9d4f0b04173f0.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/jkommando_reaper.webp",
+    "alpha_ratio": 0.9316253662109375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 208,
+    "canonical_name": "Karambit \"Purple Camo\"",
+    "target_title": "Karambit | Purple Camo",
+    "weapon": "Karambit",
+    "skin": "Purple Camo",
+    "output_base": "karambit_purple_camo",
+    "output_file": "karambit_purple_camo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Karambit \"Purple Camo\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "neon"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689736248b18f99f599589b2fadff659ed3679f92.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/karambit_purple_camo.webp",
+    "alpha_ratio": 0.8342514038085938,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 209,
+    "canonical_name": "Kukri \"Divine Power\"",
+    "target_title": "Kukri | Divine Power",
+    "weapon": "Kukri",
+    "skin": "Divine Power",
+    "output_base": "kukri_divine_power",
+    "output_file": "kukri_divine_power.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Kukri \"Divine Power\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17792925865a20b97e5d89be52db5436703bae3871.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/kukri_divine_power.webp",
+    "alpha_ratio": 0.879364013671875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 210,
+    "canonical_name": "Kunai \"Glitch\"",
+    "target_title": "Kunai | Glitch",
+    "weapon": "Kunai",
+    "skin": "Glitch",
+    "output_base": "kunai_glitch",
+    "output_file": "kunai_glitch.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Kunai \"Glitch\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16898571992d2e6987f2696a4dcab0ee3076797e3d.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/kunai_glitch.webp",
+    "alpha_ratio": 0.9338455200195312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 211,
+    "canonical_name": "M110 \"Grid\"",
+    "target_title": "M110 | Grid",
+    "weapon": "M110",
+    "skin": "Grid",
+    "output_base": "m110_grid",
+    "output_file": "m110_grid.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* M110 \"Grid\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1742826262382b4afc246dfe79d0a6e9a197025600.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m110_grid.webp",
+    "alpha_ratio": 0.7328720092773438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 212,
+    "canonical_name": "M110 \"Z-07 M.A.R.K.S.M.A.N.\"",
+    "target_title": "M110 | Z-07 M.A.R.K.S.M.A.N.",
+    "weapon": "M110",
+    "skin": "Z-07 M.A.R.K.S.M.A.N.",
+    "output_base": "m110_z_07_m_a_r_k_s_m_a_n",
+    "output_file": "m110_z_07_m_a_r_k_s_m_a_n.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M110 \"Z-07 M.A.R.K.S.M.A.N.\"",
+      "STATTRACK* M110 \"Z-07 M.A.R.K.S.M.A.N.\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688128464b765ab40f5a7c72a39b67baa0eeb7fc1.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m110_z_07_m_a_r_k_s_m_a_n.webp",
+    "alpha_ratio": 0.8727874755859375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 213,
+    "canonical_name": "M16 \"4 Years\"",
+    "target_title": "M16 | 4 Years",
+    "weapon": "M16",
+    "skin": "4 Years",
+    "output_base": "m16_4_years",
+    "output_file": "m16_4_years.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M16 \"4 Years\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688128035f958e02bed73b9a32ca755761d521ff5.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m16_4_years.webp",
+    "alpha_ratio": 0.8853530883789062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 214,
+    "canonical_name": "M16 \"Dust Devil\"",
+    "target_title": "M16 | Dust Devil",
+    "weapon": "M16",
+    "skin": "Dust Devil",
+    "output_base": "m16_dust_devil",
+    "output_file": "m16_dust_devil.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M16 \"Dust Devil\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/169340037451ff71007ed9c777fab9989fdee6f0d1.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m16_dust_devil.webp",
+    "alpha_ratio": 0.9205856323242188,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 215,
+    "canonical_name": "M16 \"Shogun Stripes\"",
+    "target_title": "M16 | Shogun Stripes",
+    "weapon": "M16",
+    "skin": "Shogun Stripes",
+    "output_base": "m16_shogun_stripes",
+    "output_file": "m16_shogun_stripes.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M16 \"Shogun Stripes\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16884061980dacbc51669414e8901941374fb753cd.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m16_shogun_stripes.webp",
+    "alpha_ratio": 0.8526153564453125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 216,
+    "canonical_name": "M4 \"Grand Prix\"",
+    "target_title": "M4 | Grand Prix",
+    "weapon": "M4",
+    "skin": "Grand Prix",
+    "output_base": "m4_grand_prix",
+    "output_file": "m4_grand_prix.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Grand Prix\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688127690a44a980923e647beeb88438cb00b65c7.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_grand_prix.webp",
+    "alpha_ratio": 0.8361663818359375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 217,
+    "canonical_name": "M4 \"N-Kai\"",
+    "target_title": "M4 | N-Kai",
+    "weapon": "M4",
+    "skin": "N-Kai",
+    "output_base": "m4_n_kai",
+    "output_file": "m4_n_kai.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"N-Kai\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1698484149c0e5d60cb8b9d31ff8befb8589c4868d.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_n_kai.webp",
+    "alpha_ratio": 0.902313232421875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 218,
+    "canonical_name": "M4 \"Necromancer\"",
+    "target_title": "M4 | Necromancer",
+    "weapon": "M4",
+    "skin": "Necromancer",
+    "output_base": "m4_necromancer",
+    "output_file": "m4_necromancer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Necromancer\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "neon",
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688127685f2f277c9d69cd970df5b4aeba5948783.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_necromancer.webp",
+    "alpha_ratio": 0.8364410400390625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 219,
+    "canonical_name": "M4 \"Retro Film\"",
+    "target_title": "M4 | Retro Film",
+    "weapon": "M4",
+    "skin": "Retro Film",
+    "output_base": "m4_retro_film",
+    "output_file": "m4_retro_film.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Retro Film\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17661423100084916c740c84b950b412b64a0ef940.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_retro_film.webp",
+    "alpha_ratio": 0.8024978637695312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 220,
+    "canonical_name": "M4 \"Revival\"",
+    "target_title": "M4 | Revival",
+    "weapon": "M4",
+    "skin": "Revival",
+    "output_base": "m4_revival",
+    "output_file": "m4_revival.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Revival\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688127670ddac16219caf6afd9cb8a912918f19a9.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_revival.webp",
+    "alpha_ratio": 0.8370361328125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 221,
+    "canonical_name": "M4 \"Sunset\"",
+    "target_title": "M4 | Sunset",
+    "weapon": "M4",
+    "skin": "Sunset",
+    "output_base": "m4_sunset",
+    "output_file": "m4_sunset.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4 \"Sunset\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "neon"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688507721e695db0471ba87b2d855844b8cd3e373.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_sunset.webp",
+    "alpha_ratio": 0.8498306274414062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 224,
+    "canonical_name": "M4A1 \"Lincoln\"",
+    "target_title": "M4A1 | Lincoln",
+    "weapon": "M4A1",
+    "skin": "Lincoln",
+    "output_base": "m4a1_lincoln",
+    "output_file": "m4a1_lincoln.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4A1 \"Lincoln\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1777372762faccbedd2a4c707193b6aca6a6efd432.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_lincoln.webp",
+    "alpha_ratio": 0.8983917236328125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 225,
+    "canonical_name": "M4A1 \"Overdrive\"",
+    "target_title": "M4A1 | Overdrive",
+    "weapon": "M4A1",
+    "skin": "Overdrive",
+    "output_base": "m4a1_overdrive",
+    "output_file": "m4a1_overdrive.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* M4A1 \"Overdrive\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1742828062ae6cfb355f7d5c5188bcaab0112b0a1e.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_overdrive.webp",
+    "alpha_ratio": 0.8178482055664062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 227,
+    "canonical_name": "M4A1 \"Stainless\"",
+    "target_title": "M4A1 | Stainless",
+    "weapon": "M4A1",
+    "skin": "Stainless",
+    "output_base": "m4a1_stainless",
+    "output_file": "m4a1_stainless.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4A1 \"Stainless\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17104396676187872073f99aa5d6d2db20a7f97f1c.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_stainless.webp",
+    "alpha_ratio": 0.8950119018554688,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 228,
+    "canonical_name": "M60 \"Steam Beast\"",
+    "target_title": "M60 | Steam Beast",
+    "weapon": "M60",
+    "skin": "Steam Beast",
+    "output_base": "m60_steam_beast",
+    "output_file": "m60_steam_beast.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* M60 \"Steam Beast\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168812837520f0542f8165a64dee6dd8b98be9b18c.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m60_steam_beast.webp",
+    "alpha_ratio": 0.8665008544921875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 229,
+    "canonical_name": "M9 Bayonet \"Digital Burst\"",
+    "target_title": "M9 Bayonet | Digital Burst",
+    "weapon": "M9 Bayonet",
+    "skin": "Digital Burst",
+    "output_base": "m9_bayonet_digital_burst",
+    "output_file": "m9_bayonet_digital_burst.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M9 Bayonet \"Digital Burst\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "neon"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168850776090fc3f0eb9fb7e9c710c5217e1eae0a4.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m9_bayonet_digital_burst.webp",
+    "alpha_ratio": 0.8813095092773438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 230,
+    "canonical_name": "M9 Bayonet \"Kumo\"",
+    "target_title": "M9 Bayonet | Kumo",
+    "weapon": "M9 Bayonet",
+    "skin": "Kumo",
+    "output_base": "m9_bayonet_kumo",
+    "output_file": "m9_bayonet_kumo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M9 Bayonet \"Kumo\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1779291371d9ffe3c64036efc3d1458d6d93317348.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m9_bayonet_kumo.webp",
+    "alpha_ratio": 0.8995437622070312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 231,
+    "canonical_name": "MAC10 \"Argo\"",
+    "target_title": "MAC10 | Argo",
+    "weapon": "MAC10",
+    "skin": "Argo",
+    "output_base": "mac10_argo",
+    "output_file": "mac10_argo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MAC10 \"Argo\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16896929264692e7efa329b424fda94055d9bd7713.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mac10_argo.webp",
+    "alpha_ratio": 0.9068832397460938,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 233,
+    "canonical_name": "MAC10 \"Shogun Stripes\"",
+    "target_title": "MAC10 | Shogun Stripes",
+    "weapon": "MAC10",
+    "skin": "Shogun Stripes",
+    "output_base": "mac10_shogun_stripes",
+    "output_file": "mac10_shogun_stripes.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MAC10 \"Shogun Stripes\"",
+      "STATTRACK* MAC10 \"Shogun Stripes\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "glitch",
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688406413940db1b2df6cc29fb0522969937c8228.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mac10_shogun_stripes.webp",
+    "alpha_ratio": 0.8980178833007812,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 234,
+    "canonical_name": "MAC10 \"Tempest\"",
+    "target_title": "MAC10 | Tempest",
+    "weapon": "MAC10",
+    "skin": "Tempest",
+    "output_base": "mac10_tempest",
+    "output_file": "mac10_tempest.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MAC10 \"Tempest\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1758632694855ed19c5b212b772838b57d7d20fd5c.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mac10_tempest.webp",
+    "alpha_ratio": 0.8454666137695312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 235,
+    "canonical_name": "Mallard \"Snake Scales\"",
+    "target_title": "Mallard | Snake Scales",
+    "weapon": "Mallard",
+    "skin": "Snake Scales",
+    "output_base": "mallard_snake_scales",
+    "output_file": "mallard_snake_scales.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Mallard \"Snake Scales\"",
+      "STATTRACK* Mallard \"Snake Scales\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "sandstone"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1766142324a2b74ca98e345c0e16f11d5f6fae6bc0.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mallard_snake_scales.webp",
+    "alpha_ratio": 0.8039779663085938,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 236,
+    "canonical_name": "Mantis \"Glacier\"",
+    "target_title": "Mantis | Glacier",
+    "weapon": "Mantis",
+    "skin": "Glacier",
+    "output_base": "mantis_glacier",
+    "output_file": "mantis_glacier.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Mantis \"Glacier\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17661424485c949f38d1e00f1e4b2776f9aab5a976.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mantis_glacier.webp",
+    "alpha_ratio": 0.875457763671875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 237,
+    "canonical_name": "MP5 \"Space Blaster\"",
+    "target_title": "MP5 | Space Blaster",
+    "weapon": "MP5",
+    "skin": "Space Blaster",
+    "output_base": "mp5_space_blaster",
+    "output_file": "mp5_space_blaster.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* MP5 \"Space Blaster\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "neon"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168850806125ac396212eccb63d6b97b1b3ef43339.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_space_blaster.webp",
+    "alpha_ratio": 0.8312301635742188,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 238,
+    "canonical_name": "MP5 \"Water Gun\"",
+    "target_title": "MP5 | Water Gun",
+    "weapon": "MP5",
+    "skin": "Water Gun",
+    "output_base": "mp5_water_gun",
+    "output_file": "mp5_water_gun.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* MP5 \"Water Gun\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1719137102d387b85ba1d812cd9ee031682737ce2a.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp5_water_gun.webp",
+    "alpha_ratio": 0.846221923828125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 239,
+    "canonical_name": "MP7 \"Arcade\"",
+    "target_title": "MP7 | Arcade",
+    "weapon": "MP7",
+    "skin": "Arcade",
+    "output_base": "mp7_arcade",
+    "output_file": "mp7_arcade.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MP7 \"Arcade\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "neon",
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688130158f3802ae4bad37df48693452da3546fb1.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_arcade.webp",
+    "alpha_ratio": 0.87384033203125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 242,
+    "canonical_name": "MP7 \"Lich\"",
+    "target_title": "MP7 | Lich",
+    "weapon": "MP7",
+    "skin": "Lich",
+    "output_base": "mp7_lich",
+    "output_file": "mp7_lich.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MP7 \"Lich\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16881302200d7cb9cc289771162143997aa2650573.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_lich.webp",
+    "alpha_ratio": 0.863800048828125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 243,
+    "canonical_name": "MP7 \"Palace\"",
+    "target_title": "MP7 | Palace",
+    "weapon": "MP7",
+    "skin": "Palace",
+    "output_base": "mp7_palace",
+    "output_file": "mp7_palace.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* MP7 \"Palace\"",
+      "MP7 \"Palace\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "sandstone",
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16881302155bcda0dc8daeecea3467dca379527289.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_palace.webp",
+    "alpha_ratio": 0.869110107421875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 244,
+    "canonical_name": "MP7 \"Rebellion\"",
+    "target_title": "MP7 | Rebellion",
+    "weapon": "MP7",
+    "skin": "Rebellion",
+    "output_base": "mp7_rebellion",
+    "output_file": "mp7_rebellion.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MP7 \"Rebellion\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17252021163cef69557859e0e8854d4f5b759c3741.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_rebellion.webp",
+    "alpha_ratio": 0.8980178833007812,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 245,
+    "canonical_name": "P350 \"4 Years\"",
+    "target_title": "P350 | 4 Years",
+    "weapon": "P350",
+    "skin": "4 Years",
+    "output_base": "p350_4_years",
+    "output_file": "p350_4_years.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P350 \"4 Years\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688132435a9f4161769d6792c7f864762b1151a9d.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_4_years.webp",
+    "alpha_ratio": 0.8887939453125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 246,
+    "canonical_name": "P350 \"Gearshift\"",
+    "target_title": "P350 | Gearshift",
+    "weapon": "P350",
+    "skin": "Gearshift",
+    "output_base": "p350_gearshift",
+    "output_file": "p350_gearshift.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P350 \"Gearshift\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1725201431da646da5c560bc78c77610c064ee2c85.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_gearshift.webp",
+    "alpha_ratio": 0.9103851318359375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 248,
+    "canonical_name": "P350 \"Savannah\"",
+    "target_title": "P350 | Savannah",
+    "weapon": "P350",
+    "skin": "Savannah",
+    "output_base": "p350_savannah",
+    "output_file": "p350_savannah.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P350 \"Savannah\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "low"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688132486f8f31de5336d4834bd5182217365e18c.png",
+    "source_page": "https://ggstand.com/en/case/origin",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_savannah.webp",
+    "alpha_ratio": 0.839691162109375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 249,
+    "canonical_name": "P350 \"Tag King\"",
+    "target_title": "P350 | Tag King",
+    "weapon": "P350",
+    "skin": "Tag King",
+    "output_base": "p350_tag_king",
+    "output_file": "p350_tag_king.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P350 \"Tag King\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "street",
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16897139086d395c7b037beb24cbb3be0a95e3cea7.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p350_tag_king.webp",
+    "alpha_ratio": 0.8129501342773438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 250,
+    "canonical_name": "P90 \"Clash\"",
+    "target_title": "P90 | Clash",
+    "weapon": "P90",
+    "skin": "Clash",
+    "output_base": "p90_clash",
+    "output_file": "p90_clash.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* P90 \"Clash\"",
+      "P90 \"Clash\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "neon",
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688406505c255020435d669a949dd2b3743e7a745.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p90_clash.webp",
+    "alpha_ratio": 0.8313064575195312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 252,
+    "canonical_name": "P90 \"Noir\"",
+    "target_title": "P90 | Noir",
+    "weapon": "P90",
+    "skin": "Noir",
+    "output_base": "p90_noir",
+    "output_file": "p90_noir.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P90 \"Noir\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/174282806057c0f7309bc6eac62919ca44fb57cfc2.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p90_noir.webp",
+    "alpha_ratio": 0.6974945068359375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 253,
+    "canonical_name": "P90 \"Oops\"",
+    "target_title": "P90 | Oops",
+    "weapon": "P90",
+    "skin": "Oops",
+    "output_base": "p90_oops",
+    "output_file": "p90_oops.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "P90 \"Oops\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689713941c8bb791642198088b88b5e5f32791a5b.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p90_oops.webp",
+    "alpha_ratio": 0.8264083862304688,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 254,
+    "canonical_name": "P90 \"Z-50 F.U.J.I.N.\"",
+    "target_title": "P90 | Z-50 F.U.J.I.N.",
+    "weapon": "P90",
+    "skin": "Z-50 F.U.J.I.N.",
+    "output_base": "p90_z_50_f_u_j_i_n",
+    "output_file": "p90_z_50_f_u_j_i_n.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* P90 \"Z-50 F.U.J.I.N.\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168813042129a675ad336fdd2584e880f49165e334.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/p90_z_50_f_u_j_i_n.webp",
+    "alpha_ratio": 0.7850875854492188,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 255,
+    "canonical_name": "S1 F/S \"Burning Mist\"",
+    "target_title": "S1 F/S | Burning Mist",
+    "weapon": "S1 F/S",
+    "skin": "Burning Mist",
+    "output_base": "s1_f_s_burning_mist",
+    "output_file": "s1_f_s_burning_mist.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "S1 F/S \"Burning Mist\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "target_aliases": [
+      "S2 F/S | Burning Mist"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17709872097015fc56b4f8a23884eec0511953cc79.png",
+    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/s1_f_s_burning_mist.webp",
+    "alpha_ratio": 0.803619384765625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 256,
+    "canonical_name": "S3 FabM \"Cloud Lily\"",
+    "target_title": "S3 FabM | Cloud Lily",
+    "weapon": "S3 FabM",
+    "skin": "Cloud Lily",
+    "output_base": "s3_fabm_cloud_lily",
+    "output_file": "s3_fabm_cloud_lily.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* S3 FabM \"Cloud Lily\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "target_aliases": [
+      "S1 FabM | Cloud Lily"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1777105910ad1974fa82d0d961a56ca64067ec2e5d.webp",
+    "source_page": "https://ggstand.com/en/case/year-of-horse-st-collection",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/s3_fabm_cloud_lily.webp",
+    "alpha_ratio": 0.817230224609375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 257,
+    "canonical_name": "Scorpion \"Veil\"",
+    "target_title": "Scorpion | Veil",
+    "weapon": "Scorpion",
+    "skin": "Veil",
+    "output_base": "scorpion_veil",
+    "output_file": "scorpion_veil.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Scorpion \"Veil\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "rust"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17792933791bb00275a777a84af3e7bdd61c3a919e.png",
+    "source_page": "https://ggstand.com/en/case/ezknife-m-st",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/scorpion_veil.webp",
+    "alpha_ratio": 0.838897705078125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 258,
+    "canonical_name": "SM1014 \"Necromancer\"",
+    "target_title": "SM1014 | Necromancer",
+    "weapon": "SM1014",
+    "skin": "Necromancer",
+    "output_base": "sm1014_necromancer",
+    "output_file": "sm1014_necromancer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* SM1014 \"Necromancer\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688132908ee70f71e14121f56885071f1a5058240.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sm1014_necromancer.webp",
+    "alpha_ratio": 0.8802719116210938,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 260,
+    "canonical_name": "SM1014 \"Serpent\"",
+    "target_title": "SM1014 | Serpent",
+    "weapon": "SM1014",
+    "skin": "Serpent",
+    "output_base": "sm1014_serpent",
+    "output_file": "sm1014_serpent.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "SM1014 \"Serpent\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1693400666b2b787c18278e6cb089e33c569dac32a.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sm1014_serpent.webp",
+    "alpha_ratio": 0.9245681762695312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 261,
+    "canonical_name": "SM1014 \"Wasp\"",
+    "target_title": "SM1014 | Wasp",
+    "weapon": "SM1014",
+    "skin": "Wasp",
+    "output_base": "sm1014_wasp",
+    "output_file": "sm1014_wasp.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "SM1014 \"Wasp\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17428277835e3d83d15677b4e09a40da4fa875a8fa.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/sm1014_wasp.webp",
+    "alpha_ratio": 0.850494384765625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 262,
+    "canonical_name": "SPAS \"Vibe\"",
+    "target_title": "SPAS | Vibe",
+    "weapon": "SPAS",
+    "skin": "Vibe",
+    "output_base": "spas_vibe",
+    "output_file": "spas_vibe.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* SPAS \"Vibe\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16885082750884afb0f7d719cfcec1f4867f90c862.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/spas_vibe.webp",
+    "alpha_ratio": 0.885345458984375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 264,
+    "canonical_name": "SPAS \"Zeus\"",
+    "target_title": "SPAS | Zeus",
+    "weapon": "SPAS",
+    "skin": "Zeus",
+    "output_base": "spas_zeus",
+    "output_file": "spas_zeus.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* SPAS \"Zeus\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689692956364db4377b8b217153e53978175e3db0.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/spas_zeus.webp",
+    "alpha_ratio": 0.9150543212890625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 270,
+    "canonical_name": "Stiletto \"Ascend\"",
+    "target_title": "Stiletto | Ascend",
+    "weapon": "Stiletto",
+    "skin": "Ascend",
+    "output_base": "stiletto_ascend",
+    "output_file": "stiletto_ascend.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Stiletto \"Ascend\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17561350157e34d4dc82fc18089a23c4c1a765ce1f.png",
+    "source_page": "https://ggstand.com/en/case/syndicate-st-collection",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/stiletto_ascend.webp",
+    "alpha_ratio": 0.9252166748046875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 271,
+    "canonical_name": "Stiletto \"Damascus\"",
+    "target_title": "Stiletto | Damascus",
+    "weapon": "Stiletto",
+    "skin": "Damascus",
+    "output_base": "stiletto_damascus",
+    "output_file": "stiletto_damascus.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Stiletto \"Damascus\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168840547797e5a70d02ab9b6455f57cfb3c3529a0.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/stiletto_damascus.webp",
+    "alpha_ratio": 0.9062652587890625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 272,
+    "canonical_name": "Tanto \"Glitch\"",
+    "target_title": "Tanto | Glitch",
+    "weapon": "Tanto",
+    "skin": "Glitch",
+    "output_base": "tanto_glitch",
+    "output_file": "tanto_glitch.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Tanto \"Glitch\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16898571992d2e6987f2696a4dcab0ee3076797e3d.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tanto_glitch.webp",
+    "alpha_ratio": 0.9338455200195312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 274,
+    "canonical_name": "TEC-9 \"Disguise\"",
+    "target_title": "TEC-9 | Disguise",
+    "weapon": "TEC-9",
+    "skin": "Disguise",
+    "output_base": "tec_9_disguise",
+    "output_file": "tec_9_disguise.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Disguise\""
+    ],
+    "rarities": [
+      "Legendary"
+    ],
+    "new_case_keys": [
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1710437724e03e6dc7c8869e1a599553b90df75abe.png",
+    "source_page": "https://ggstand.com/en/case/legendary",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_disguise.webp",
+    "alpha_ratio": 0.9273223876953125,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 275,
+    "canonical_name": "TEC-9 \"Gangster\"",
+    "target_title": "TEC-9 | Gangster",
+    "weapon": "TEC-9",
+    "skin": "Gangster",
+    "output_base": "tec_9_gangster",
+    "output_file": "tec_9_gangster.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* TEC-9 \"Gangster\"",
+      "TEC-9 \"Gangster\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "street",
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17252013695339a6376a5e6af48915159b82a6784e.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_gangster.webp",
+    "alpha_ratio": 0.9275283813476562,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 276,
+    "canonical_name": "TEC-9 \"Glitch\"",
+    "target_title": "TEC-9 | Glitch",
+    "weapon": "TEC-9",
+    "skin": "Glitch",
+    "output_base": "tec_9_glitch",
+    "output_file": "tec_9_glitch.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Glitch\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16898571992d2e6987f2696a4dcab0ee3076797e3d.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_glitch.webp",
+    "alpha_ratio": 0.9338455200195312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 277,
+    "canonical_name": "TEC-9 \"Needle\"",
+    "target_title": "TEC-9 | Needle",
+    "weapon": "TEC-9",
+    "skin": "Needle",
+    "output_base": "tec_9_needle",
+    "output_file": "tec_9_needle.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Needle\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "default"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/16896930573885342447f7283b9479a45dcb9760db.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_needle.webp",
+    "alpha_ratio": 0.9174575805664062,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 278,
+    "canonical_name": "TEC-9 \"Night Slayer\"",
+    "target_title": "TEC-9 | Night Slayer",
+    "weapon": "TEC-9",
+    "skin": "Night Slayer",
+    "output_base": "tec_9_night_slayer",
+    "output_file": "tec_9_night_slayer.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* TEC-9 \"Night Slayer\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/173538970245a8c8c15ceed1ecb149501959a49f8f.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_night_slayer.webp",
+    "alpha_ratio": 0.8602371215820312,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 279,
+    "canonical_name": "TEC-9 \"Reactor\"",
+    "target_title": "TEC-9 | Reactor",
+    "weapon": "TEC-9",
+    "skin": "Reactor",
+    "output_base": "tec_9_reactor",
+    "output_file": "tec_9_reactor.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "TEC-9 \"Reactor\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688133139c5cfe39eb5fa5ec1e246360b613014da.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_reactor.webp",
+    "alpha_ratio": 0.884735107421875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 280,
+    "canonical_name": "TEC-9 \"Tie Dye\"",
+    "target_title": "TEC-9 | Tie Dye",
+    "weapon": "TEC-9",
+    "skin": "Tie Dye",
+    "output_base": "tec_9_tie_dye",
+    "output_file": "tec_9_tie_dye.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* TEC-9 \"Tie Dye\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "glitch"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688406686de9085787ec17d1f2590ca50bd69b299.png",
+    "source_page": "https://ggstand.com/en/case/sttrack",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/tec_9_tie_dye.webp",
+    "alpha_ratio": 0.8940963745117188,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 281,
+    "canonical_name": "UMP45 \"Beast\"",
+    "target_title": "UMP45 | Beast",
+    "weapon": "UMP45",
+    "skin": "Beast",
+    "output_base": "ump45_beast",
+    "output_file": "ump45_beast.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "UMP45 \"Beast\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "street"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168813350599a15162d421ad05f1403a4224b5fc5e.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_beast.webp",
+    "alpha_ratio": 0.83758544921875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 282,
+    "canonical_name": "UMP45 \"Geometric\"",
+    "target_title": "UMP45 | Geometric",
+    "weapon": "UMP45",
+    "skin": "Geometric",
+    "output_base": "ump45_geometric",
+    "output_file": "ump45_geometric.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "UMP45 \"Geometric\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/168813351732385adf99788cc6ca89eaccb2843fd8.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_geometric.webp",
+    "alpha_ratio": 0.8394393920898438,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 285,
+    "canonical_name": "UMP45 \"Spirit\"",
+    "target_title": "UMP45 | Spirit",
+    "weapon": "UMP45",
+    "skin": "Spirit",
+    "output_base": "ump45_spirit",
+    "output_file": "ump45_spirit.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* UMP45 \"Spirit\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688133526ab710f0f31e4898fcdc3dde6025b0ed4.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_spirit.webp",
+    "alpha_ratio": 0.8363723754882812,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 286,
+    "canonical_name": "UMP45 \"Warchief\"",
+    "target_title": "UMP45 | Warchief",
+    "weapon": "UMP45",
+    "skin": "Warchief",
+    "output_base": "ump45_warchief",
+    "output_file": "ump45_warchief.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* UMP45 \"Warchief\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "breeze"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689857201d79242477d6ff0a991413f9777ec2861.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_warchief.webp",
+    "alpha_ratio": 0.9234542846679688,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 287,
+    "canonical_name": "UMP45 \"White Carbon\"",
+    "target_title": "UMP45 | White Carbon",
+    "weapon": "UMP45",
+    "skin": "White Carbon",
+    "output_base": "ump45_white_carbon",
+    "output_file": "ump45_white_carbon.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "UMP45 \"White Carbon\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "cyber",
+      "province"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688133529396289bac6543a5f5d4f779b949d2017.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/ump45_white_carbon.webp",
+    "alpha_ratio": 0.8478927612304688,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 288,
+    "canonical_name": "USP \"Fiend\"",
+    "target_title": "USP | Fiend",
+    "weapon": "USP",
+    "skin": "Fiend",
+    "output_base": "usp_fiend",
+    "output_file": "usp_fiend.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "USP \"Fiend\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17616602530b6eaa61179363a02d3ef248672b5938.png",
+    "source_page": "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_fiend.webp",
+    "alpha_ratio": 0.8163299560546875,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 289,
+    "canonical_name": "USP \"Pisces\"",
+    "target_title": "USP | Pisces",
+    "weapon": "USP",
+    "skin": "Pisces",
+    "output_base": "usp_pisces",
+    "output_file": "usp_pisces.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "USP \"Pisces\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1688133759feb6875febd2a35bb1e63c9cb2458d4a.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_pisces.webp",
+    "alpha_ratio": 0.8138427734375,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 290,
+    "canonical_name": "USP \"Purple Camo\"",
+    "target_title": "USP | Purple Camo",
+    "weapon": "USP",
+    "skin": "Purple Camo",
+    "output_base": "usp_purple_camo",
+    "output_file": "usp_purple_camo.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "USP \"Purple Camo\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "camo"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1689736248b18f99f599589b2fadff659ed3679f92.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_purple_camo.webp",
+    "alpha_ratio": 0.8342514038085938,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 291,
+    "canonical_name": "VAL \"Gilded Gale\"",
+    "target_title": "VAL | Gilded Gale",
+    "weapon": "VAL",
+    "skin": "Gilded Gale",
+    "output_base": "val_gilded_gale",
+    "output_file": "val_gilded_gale.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "VAL \"Gilded Gale\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "sandstone"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17104375375fae66c2465267c21ff3db3541100489.png",
+    "source_page": "https://ggstand.com/en/case/arcane",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/val_gilded_gale.webp",
+    "alpha_ratio": 0.9104690551757812,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 292,
+    "canonical_name": "VAL \"Joker\"",
+    "target_title": "VAL | Joker",
+    "weapon": "VAL",
+    "skin": "Joker",
+    "output_base": "val_joker",
+    "output_file": "val_joker.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "VAL \"Joker\""
+    ],
+    "rarities": [
+      "Rare"
+    ],
+    "new_case_keys": [
+      "basic"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/17104396701422db90419cf3bdff0b36bd480baae9.png",
+    "source_page": "https://ggstand.com/en/case/rare",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/val_joker.webp",
+    "alpha_ratio": 0.9099273681640625,
+    "status": "OK_DISCOVERED"
+  },
+  {
+    "index": 293,
+    "canonical_name": "VAL \"Night City\"",
+    "target_title": "VAL | Night City",
+    "weapon": "VAL",
+    "skin": "Night City",
+    "output_base": "val_night_city",
+    "output_file": "val_night_city.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* VAL \"Night City\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ],
+    "source_url": "https://ggstand.com/public/storage/items/1725201866ae88c8f1863547f1bb4e91508333e65b.png",
+    "source_page": "https://ggstand.com/en/case/epic",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/val_night_city.webp",
+    "alpha_ratio": 0.9098892211914062,
+    "status": "OK_DISCOVERED"
   }
 ]
