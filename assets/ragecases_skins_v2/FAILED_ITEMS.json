@@ -1,5 +1,62 @@
 [
   {
+    "index": 145,
+    "canonical_name": "USP \"Warden\"",
+    "target_title": "USP | Warden",
+    "weapon": "USP",
+    "skin": "Warden",
+    "output_base": "usp_warden",
+    "output_file": "usp_warden.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* USP \"Warden\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target USP | Warden",
+    "pages_tried": [
+      "https://ggstand.com/en/case/usp",
+      "https://ggstandoff.pro/ru/case/usp",
+      "https://ggstandoff.pro/en/case/usp",
+      "https://ggstand.io/ru/case/usp",
+      "https://ggstand.io/en/case/usp",
+      "https://ggstandoff.plus/ru/case/usp",
+      "https://ggstandoff.plus/en/case/usp",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
+    ],
+    "strict_repair": true,
+    "removed_wrong_cached": false
+  },
+  {
     "index": 148,
     "canonical_name": "Akimbo Uzi \"No Escape\"",
     "target_title": "Akimbo Uzi | No Escape",
@@ -18,12 +75,67 @@
     "new_case_keys": [
       "street"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/akimbo-uzi-no-escape.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target Akimbo Uzi | No Escape",
+    "pages_tried": [
+      "https://ggstand.com/en/case/akimbo-uzi",
+      "https://ggstand.com/en/case/akimbo",
+      "https://ggstand.com/en/case/akimbouzi",
+      "https://ggstand.com/en/case/breakout",
+      "https://ggstandoff.pro/ru/case/akimbo-uzi",
+      "https://ggstandoff.pro/en/case/akimbo-uzi",
+      "https://ggstand.io/ru/case/akimbo-uzi",
+      "https://ggstand.io/en/case/akimbo-uzi",
+      "https://ggstandoff.plus/ru/case/akimbo-uzi",
+      "https://ggstandoff.plus/en/case/akimbo-uzi",
+      "https://ggstandoff.pro/ru/case/akimbo",
+      "https://ggstandoff.pro/en/case/akimbo",
+      "https://ggstand.io/ru/case/akimbo",
+      "https://ggstand.io/en/case/akimbo",
+      "https://ggstandoff.plus/ru/case/akimbo",
+      "https://ggstandoff.plus/en/case/akimbo",
+      "https://ggstandoff.pro/ru/case/akimbouzi",
+      "https://ggstandoff.pro/en/case/akimbouzi",
+      "https://ggstand.io/ru/case/akimbouzi",
+      "https://ggstand.io/en/case/akimbouzi",
+      "https://ggstandoff.plus/ru/case/akimbouzi",
+      "https://ggstandoff.plus/en/case/akimbouzi",
+      "https://ggstandoff.pro/ru/case/breakout",
+      "https://ggstandoff.pro/en/case/breakout",
+      "https://ggstand.io/ru/case/breakout",
+      "https://ggstand.io/en/case/breakout",
+      "https://ggstandoff.plus/ru/case/breakout",
+      "https://ggstandoff.plus/en/case/breakout",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 162,
@@ -44,54 +156,59 @@
     "new_case_keys": [
       "camo"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/awm-dark-camo.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target AWM | Dark Camo",
+    "pages_tried": [
+      "https://ggstand.com/en/case/awm",
+      "https://ggstandoff.pro/ru/case/awm",
+      "https://ggstandoff.pro/en/case/awm",
+      "https://ggstand.io/ru/case/awm",
+      "https://ggstand.io/en/case/awm",
+      "https://ggstandoff.plus/ru/case/awm",
+      "https://ggstandoff.plus/en/case/awm",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
-    "index": 168,
-    "canonical_name": "Berettas \"Marco\"",
-    "target_title": "Berettas | Marco",
-    "weapon": "Berettas",
-    "skin": "Marco",
-    "output_base": "berettas_marco",
-    "output_file": "berettas_marco.webp",
+    "index": 190,
+    "canonical_name": "FabM \"Mayhem\"",
+    "target_title": "FabM | Mayhem",
+    "weapon": "FabM",
+    "skin": "Mayhem",
+    "output_base": "fabm_mayhem",
+    "output_file": "fabm_mayhem.webp",
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "Berettas \"Marco\"",
-      "STATTRACK* Berettas \"Marco\""
-    ],
-    "rarities": [
-      "Legendary"
-    ],
-    "new_case_keys": [
-      "street",
-      "sandstone",
-      "rust"
-    ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/berettas-marco.png"
-    ],
-    "source_page": ""
-  },
-  {
-    "index": 170,
-    "canonical_name": "Berettas \"Verdict\"",
-    "target_title": "Berettas | Verdict",
-    "weapon": "Berettas",
-    "skin": "Verdict",
-    "output_base": "berettas_verdict",
-    "output_file": "berettas_verdict.webp",
-    "mode": "ADD_NEW",
-    "old_github_urls": [],
-    "appears_as": [
-      "Berettas \"Verdict\""
+      "FabM \"Mayhem\""
     ],
     "rarities": [
       "Uncommon"
@@ -99,38 +216,113 @@
     "new_case_keys": [
       "default"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/berettas-verdict.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target FabM | Mayhem",
+    "pages_tried": [
+      "https://ggstand.com/en/case/fabm",
+      "https://ggstandoff.pro/ru/case/fabm",
+      "https://ggstandoff.pro/en/case/fabm",
+      "https://ggstand.io/ru/case/fabm",
+      "https://ggstand.io/en/case/fabm",
+      "https://ggstandoff.plus/ru/case/fabm",
+      "https://ggstandoff.plus/en/case/fabm",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
-    "index": 196,
-    "canonical_name": "FAMAS \"Spline\"",
-    "target_title": "FAMAS | Spline",
-    "weapon": "FAMAS",
-    "skin": "Spline",
-    "output_base": "famas_spline",
-    "output_file": "famas_spline.webp",
+    "index": 202,
+    "canonical_name": "G22 \"Adam\"",
+    "target_title": "G22 | Adam",
+    "weapon": "G22",
+    "skin": "Adam",
+    "output_base": "g22_adam",
+    "output_file": "g22_adam.webp",
     "mode": "ADD_NEW",
     "old_github_urls": [],
     "appears_as": [
-      "STATTRACK* FAMAS \"Spline\""
+      "STATTRACK* G22 \"Adam\""
     ],
     "rarities": [
       "Epic"
     ],
     "new_case_keys": [
-      "glitch"
+      "province"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/famas-spline.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target G22 | Adam; removed previously known-wrong cached image",
+    "pages_tried": [
+      "https://ggstand.com/en/case/g22",
+      "https://ggstand.com/en/case/division",
+      "https://ggstandoff.pro/ru/case/g22",
+      "https://ggstandoff.pro/en/case/g22",
+      "https://ggstand.io/ru/case/g22",
+      "https://ggstand.io/en/case/g22",
+      "https://ggstandoff.plus/ru/case/g22",
+      "https://ggstandoff.plus/en/case/g22",
+      "https://ggstandoff.pro/ru/case/division",
+      "https://ggstandoff.pro/en/case/division",
+      "https://ggstand.io/ru/case/division",
+      "https://ggstand.io/en/case/division",
+      "https://ggstandoff.plus/ru/case/division",
+      "https://ggstandoff.plus/en/case/division",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": true
   },
   {
     "index": 205,
@@ -151,12 +343,46 @@
     "new_case_keys": [
       "default"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/graffiti-gold-skull-packed.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target Graffiti | Gold Skull Packed",
+    "pages_tried": [
+      "https://ggstand.com/en/case/graffiti",
+      "https://ggstandoff.pro/ru/case/graffiti",
+      "https://ggstandoff.pro/en/case/graffiti",
+      "https://ggstand.io/ru/case/graffiti",
+      "https://ggstand.io/en/case/graffiti",
+      "https://ggstandoff.plus/ru/case/graffiti",
+      "https://ggstandoff.plus/en/case/graffiti",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 207,
@@ -177,12 +403,46 @@
     "new_case_keys": [
       "cyber"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/karambit-hologram.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target Karambit | Hologram",
+    "pages_tried": [
+      "https://ggstand.com/en/case/karambit",
+      "https://ggstandoff.pro/ru/case/karambit",
+      "https://ggstandoff.pro/en/case/karambit",
+      "https://ggstand.io/ru/case/karambit",
+      "https://ggstand.io/en/case/karambit",
+      "https://ggstandoff.plus/ru/case/karambit",
+      "https://ggstandoff.plus/en/case/karambit",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 222,
@@ -203,12 +463,46 @@
     "new_case_keys": [
       "low"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/m4a1-contour.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target M4A1 | Contour",
+    "pages_tried": [
+      "https://ggstand.com/en/case/m4a1",
+      "https://ggstandoff.pro/ru/case/m4a1",
+      "https://ggstandoff.pro/en/case/m4a1",
+      "https://ggstand.io/ru/case/m4a1",
+      "https://ggstand.io/en/case/m4a1",
+      "https://ggstandoff.plus/ru/case/m4a1",
+      "https://ggstandoff.plus/en/case/m4a1",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 223,
@@ -229,38 +523,46 @@
     "new_case_keys": [
       "neon"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/m4a1-cyber-dragon.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target M4A1 | Cyber Dragon",
+    "pages_tried": [
+      "https://ggstand.com/en/case/m4a1",
+      "https://ggstandoff.pro/ru/case/m4a1",
+      "https://ggstandoff.pro/en/case/m4a1",
+      "https://ggstand.io/ru/case/m4a1",
+      "https://ggstand.io/en/case/m4a1",
+      "https://ggstandoff.plus/ru/case/m4a1",
+      "https://ggstandoff.plus/en/case/m4a1",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
-  },
-  {
-    "index": 226,
-    "canonical_name": "M4A1 \"Renegade\"",
-    "target_title": "M4A1 | Renegade",
-    "weapon": "M4A1",
-    "skin": "Renegade",
-    "output_base": "m4a1_renegade",
-    "output_file": "m4a1_renegade.webp",
-    "mode": "ADD_NEW",
-    "old_github_urls": [],
-    "appears_as": [
-      "M4A1 \"Renegade\""
-    ],
-    "rarities": [
-      "Legendary"
-    ],
-    "new_case_keys": [
-      "province"
-    ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/m4a1-renegade.png"
-    ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 232,
@@ -281,12 +583,46 @@
     "new_case_keys": [
       "low"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/mac10-cardboard.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target MAC10 | Cardboard",
+    "pages_tried": [
+      "https://ggstand.com/en/case/mac10",
+      "https://ggstandoff.pro/ru/case/mac10",
+      "https://ggstandoff.pro/en/case/mac10",
+      "https://ggstand.io/ru/case/mac10",
+      "https://ggstand.io/en/case/mac10",
+      "https://ggstandoff.plus/ru/case/mac10",
+      "https://ggstandoff.plus/en/case/mac10",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 240,
@@ -307,38 +643,46 @@
     "new_case_keys": [
       "low"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/mp7-frequency.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target MP7 | Frequency",
+    "pages_tried": [
+      "https://ggstand.com/en/case/mp7",
+      "https://ggstandoff.pro/ru/case/mp7",
+      "https://ggstandoff.pro/en/case/mp7",
+      "https://ggstand.io/ru/case/mp7",
+      "https://ggstand.io/en/case/mp7",
+      "https://ggstandoff.plus/ru/case/mp7",
+      "https://ggstandoff.plus/en/case/mp7",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
-  },
-  {
-    "index": 241,
-    "canonical_name": "MP7 \"Future Tech\"",
-    "target_title": "MP7 | Future Tech",
-    "weapon": "MP7",
-    "skin": "Future Tech",
-    "output_base": "mp7_future_tech",
-    "output_file": "mp7_future_tech.webp",
-    "mode": "ADD_NEW",
-    "old_github_urls": [],
-    "appears_as": [
-      "STATTRACK* MP7 \"Future Tech\""
-    ],
-    "rarities": [
-      "Legendary"
-    ],
-    "new_case_keys": [
-      "cyber"
-    ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/mp7-future-tech.png"
-    ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 247,
@@ -362,38 +706,53 @@
       "rust",
       "camo"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/p350-lab-prototype.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target P350 | Lab Prototype",
+    "pages_tried": [
+      "https://ggstand.com/en/case/p350",
+      "https://ggstand.com/en/case/breakout",
+      "https://ggstandoff.pro/ru/case/p350",
+      "https://ggstandoff.pro/en/case/p350",
+      "https://ggstand.io/ru/case/p350",
+      "https://ggstand.io/en/case/p350",
+      "https://ggstandoff.plus/ru/case/p350",
+      "https://ggstandoff.plus/en/case/p350",
+      "https://ggstandoff.pro/ru/case/breakout",
+      "https://ggstandoff.pro/en/case/breakout",
+      "https://ggstand.io/ru/case/breakout",
+      "https://ggstand.io/en/case/breakout",
+      "https://ggstandoff.plus/ru/case/breakout",
+      "https://ggstandoff.plus/en/case/breakout",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
-  },
-  {
-    "index": 251,
-    "canonical_name": "P90 \"Data Flow\"",
-    "target_title": "P90 | Data Flow",
-    "weapon": "P90",
-    "skin": "Data Flow",
-    "output_base": "p90_data_flow",
-    "output_file": "p90_data_flow.webp",
-    "mode": "ADD_NEW",
-    "old_github_urls": [],
-    "appears_as": [
-      "STATTRACK* P90 \"Data Flow\""
-    ],
-    "rarities": [
-      "Epic"
-    ],
-    "new_case_keys": [
-      "breeze"
-    ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/p90-data-flow.png"
-    ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 263,
@@ -414,12 +773,53 @@
     "new_case_keys": [
       "basic"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/spas-waypoint.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target SPAS | Waypoint",
+    "pages_tried": [
+      "https://ggstand.com/en/case/spas",
+      "https://ggstand.com/en/case/breakout",
+      "https://ggstandoff.pro/ru/case/spas",
+      "https://ggstandoff.pro/en/case/spas",
+      "https://ggstand.io/ru/case/spas",
+      "https://ggstand.io/en/case/spas",
+      "https://ggstandoff.plus/ru/case/spas",
+      "https://ggstandoff.plus/en/case/spas",
+      "https://ggstandoff.pro/ru/case/breakout",
+      "https://ggstandoff.pro/en/case/breakout",
+      "https://ggstand.io/ru/case/breakout",
+      "https://ggstand.io/en/case/breakout",
+      "https://ggstandoff.plus/ru/case/breakout",
+      "https://ggstandoff.plus/en/case/breakout",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
   },
   {
     "index": 284,
@@ -440,11 +840,105 @@
     "new_case_keys": [
       "default"
     ],
-    "status": "DOWNLOAD_FAILED",
-    "note": "HTTP 404",
-    "candidate_urls": [
-      "https://skins4fps.com/images/standoff/ump45-professional.png"
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target UMP45 | Professional",
+    "pages_tried": [
+      "https://ggstand.com/en/case/ump45",
+      "https://ggstandoff.pro/ru/case/ump45",
+      "https://ggstandoff.pro/en/case/ump45",
+      "https://ggstand.io/ru/case/ump45",
+      "https://ggstand.io/en/case/ump45",
+      "https://ggstandoff.plus/ru/case/ump45",
+      "https://ggstandoff.plus/en/case/ump45",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
     ],
-    "source_page": ""
+    "strict_repair": true,
+    "removed_wrong_cached": false
+  },
+  {
+    "index": 288,
+    "canonical_name": "USP \"Fiend\"",
+    "target_title": "USP | Fiend",
+    "weapon": "USP",
+    "skin": "Fiend",
+    "output_base": "usp_fiend",
+    "output_file": "usp_fiend.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "USP \"Fiend\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ],
+    "status": "UNRESOLVED",
+    "note": "No exact weapon+skin image URL found for target USP | Fiend",
+    "pages_tried": [
+      "https://ggstand.com/en/case/usp",
+      "https://ggstandoff.pro/ru/case/usp",
+      "https://ggstandoff.pro/en/case/usp",
+      "https://ggstand.io/ru/case/usp",
+      "https://ggstand.io/en/case/usp",
+      "https://ggstandoff.plus/ru/case/usp",
+      "https://ggstandoff.plus/en/case/usp",
+      "https://ggstand.com/en/case/uncommon",
+      "https://ggstand.com/en/case/sttrack",
+      "https://ggstand.com/en/case/common",
+      "https://ggstand.com/en/case/rare",
+      "https://ggstand.com/en/case/epic",
+      "https://ggstand.com/en/case/legendary",
+      "https://ggstand.com/en/case/arcane",
+      "https://ggstand.com/en/case/ezknife-m-st",
+      "https://ggstand.com/en/case/origin",
+      "https://ggstand.com/en/case/nameless",
+      "https://ggstand.com/en/case/turbo",
+      "https://ggstand.com/en/case/millionaire",
+      "https://ggstand.com/en/case/ggstnff",
+      "https://ggstand.com/en/case/sandstone",
+      "https://ggstand.com/en/case/year-of-horse-st-collection",
+      "https://ggstand.com/en/case/dia-de-muertos-st-collection",
+      "https://ggstand.com/en/case/subject-x-st-collection",
+      "https://ggstand.com/en/case/syndicate-st-collection",
+      "https://ggstand.com/en/case/outcast-st-collection",
+      "https://ggstand.com/en/case/wild-safari-s-st",
+      "https://ggstand.com/en/case/summer-st-case",
+      "https://ggstand.com/en/case/reforged-st-collection",
+      "https://ggstand.com/en/case/ancient-coin-st",
+      "https://ggstand.com/en/case/erox",
+      "https://ggstand.com/en/case/aguia-noob",
+      "https://ggstand.com/en/case/darling-st",
+      "https://ggstand.com/en/case/legends-case"
+    ],
+    "strict_repair": true,
+    "removed_wrong_cached": false
   }
 ]
