@@ -19,6 +19,11 @@ MAP_JS = OUT / "skin_images_map_v2.js"
 PREVIEW = OUT / "index.html"
 READY = OUT / "READY_TO_SWITCH.txt"
 BASE = "https://ggstand.com"
+MIRROR_BASES = [
+    "https://ggstandoff.pro",
+    "https://ggstand.io",
+    "https://ggstandoff.plus",
+]
 PAGES_BASE = "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/"
 FORCE = os.environ.get("FORCE_REDOWNLOAD", "false").lower() in {"1","true","yes","on"}
 
@@ -105,6 +110,16 @@ def slug_variants(weapon: str) -> list[str]:
 def make_page_url(slug: str) -> str:
     return f"{BASE}/en/case/{slug}"
 
+def mirror_page_urls(slug: str) -> list[str]:
+    out=[]
+    for base in MIRROR_BASES:
+        # Mirrors are more consistently indexed in Russian, but try English too.
+        for lang in ("ru","en"):
+            url=f"{base}/{lang}/case/{slug}"
+            if url not in out:
+                out.append(url)
+    return out
+
 def best_src(tag) -> str:
     for key in ("data-src", "data-lazy-src", "data-original", "src"):
         v = tag.get(key)
@@ -119,7 +134,11 @@ def fetch_text(session: requests.Session, url: str) -> str:
     last=None
     for attempt in range(1,4):
         try:
-            r=session.get(url,headers=HEADERS,timeout=(20,70),allow_redirects=True)
+            headers=dict(HEADERS)
+            m=re.match(r"^(https?://[^/]+)",url)
+            if m:
+                headers["Referer"]=m.group(1)+"/"
+            r=session.get(url,headers=headers,timeout=(20,70),allow_redirects=True)
             if r.status_code >= 400: raise RuntimeError(f"HTTP {r.status_code}")
             if len(r.text) < 500: raise RuntimeError(f"HTML too small: {len(r.text)}")
             return r.text
@@ -131,7 +150,11 @@ def fetch_blob(session: requests.Session, url: str) -> bytes:
     last=None
     for attempt in range(1,5):
         try:
-            r=session.get(url,headers=IMAGE_HEADERS,timeout=(20,90),allow_redirects=True)
+            headers=dict(IMAGE_HEADERS)
+            m=re.match(r"^(https?://[^/]+)",url)
+            if m:
+                headers["Referer"]=m.group(1)+"/"
+            r=session.get(url,headers=headers,timeout=(20,90),allow_redirects=True)
             if r.status_code >= 400: raise RuntimeError(f"HTTP {r.status_code}")
             if len(r.content) < 900: raise RuntimeError(f"image too small: {len(r.content)}")
             return r.content
@@ -166,18 +189,62 @@ def page_candidates(item: dict) -> list[str]:
     target=item["target_title"]
     weapon=item["weapon"]
     skin=item["skin"]
-    slugs=[]
-    def add(xs):
+
+    direct_slugs=[]
+    all_slugs=[]
+
+    def add_direct(xs):
         for x in xs:
-            if x and x not in slugs: slugs.append(x)
-    add(SPECIAL.get(target,[]))
-    add(THEME_HINTS.get(skin,[]))
-    add(PRIMARY.get(weapon,[]))
-    add(slug_variants(weapon))
-    # The site's rarity cases are useful fallback indices.
-    for r in item.get("rarities",[]): add([r.casefold()])
-    add(FALLBACK)
-    return [make_page_url(x) for x in slugs]
+            if x and x not in direct_slugs:
+                direct_slugs.append(x)
+            if x and x not in all_slugs:
+                all_slugs.append(x)
+
+    def add_all(xs):
+        for x in xs:
+            if x and x not in all_slugs:
+                all_slugs.append(x)
+
+    # High-value pages: exact collection/theme and weapon pages.
+    add_direct(SPECIAL.get(target,[]))
+    add_direct(THEME_HINTS.get(skin,[]))
+    add_direct(PRIMARY.get(weapon,[]))
+    add_direct(slug_variants(weapon))
+
+    # Breakout contains several of the remaining skins.
+    if target in {
+        "Akimbo Uzi | No Escape",
+        "P350 | Lab Prototype",
+        "SPAS | Waypoint",
+    }:
+        add_direct(["breakout"])
+
+    # Keep the original rarity/general fallback search on the primary host only.
+    for r in item.get("rarities",[]):
+        add_all([r.casefold()])
+    add_all(FALLBACK)
+
+    urls=[]
+
+    # First: normal ggstand.com direct pages.
+    for slug in direct_slugs:
+        u=make_page_url(slug)
+        if u not in urls:
+            urls.append(u)
+
+    # Then: mirrors for only the high-value direct pages.
+    for slug in direct_slugs:
+        for u in mirror_page_urls(slug):
+            if u not in urls:
+                urls.append(u)
+
+    # Finally: broad fallback pages on ggstand.com only.
+    for slug in all_slugs:
+        u=make_page_url(slug)
+        if u not in urls:
+            urls.append(u)
+
+    return urls
 
 def has_alpha(im: Image.Image) -> tuple[bool,float]:
     rgba=im.convert("RGBA")
