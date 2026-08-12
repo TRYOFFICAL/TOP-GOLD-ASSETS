@@ -3432,11 +3432,11 @@
     "rarities": [
       "Epic"
     ],
-    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/1/1d/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_USP_%22Warden%22.png/revision/latest?cb=20260428234855&path-prefix=ru",
-    "source_page": "FANDOM_API_EXACT",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_warden.webp",
     "alpha_ratio": 0.7928924560546875,
-    "status": "OK_FANDOM_API_EXACT"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 146,
@@ -4871,11 +4871,11 @@
     "new_case_keys": [
       "province"
     ],
-    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/1/18/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_G22_%22Adam%22.png/revision/latest?cb=20260428234837&path-prefix=ru",
-    "source_page": "FANDOM_API_EXACT",
+    "source_url": "EXISTING_V2",
+    "source_page": "",
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_adam.webp",
     "alpha_ratio": 0.822662353515625,
-    "status": "OK_FANDOM_API_EXACT"
+    "status": "SKIPPED_VALID"
   },
   {
     "index": 203,
@@ -4982,31 +4982,6 @@
   },
   {
     "index": 207,
-    "canonical_name": "Karambit \"Hologram\"",
-    "target_title": "Karambit | Hologram",
-    "weapon": "Karambit",
-    "skin": "Hologram",
-    "output_base": "karambit_hologram",
-    "output_file": "karambit_hologram.webp",
-    "mode": "ADD_NEW",
-    "old_github_urls": [],
-    "appears_as": [
-      "Karambit \"Hologram\""
-    ],
-    "rarities": [
-      "Arcane"
-    ],
-    "new_case_keys": [
-      "cyber"
-    ],
-    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/b/b0/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_Karambit_%22Hologram%22.png/revision/latest?cb=20251219181915&path-prefix=ru",
-    "source_page": "FANDOM_API_EXACT",
-    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/karambit_hologram.webp",
-    "alpha_ratio": 0.8769454956054688,
-    "status": "OK_FANDOM_API_EXACT"
-  },
-  {
-    "index": 208,
     "canonical_name": "Karambit \"Purple Camo\"",
     "target_title": "Karambit | Purple Camo",
     "weapon": "Karambit",
@@ -5031,7 +5006,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 209,
+    "index": 208,
     "canonical_name": "Kukri \"Divine Power\"",
     "target_title": "Kukri | Divine Power",
     "weapon": "Kukri",
@@ -5056,7 +5031,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 210,
+    "index": 209,
     "canonical_name": "Kunai \"Glitch\"",
     "target_title": "Kunai | Glitch",
     "weapon": "Kunai",
@@ -5081,7 +5056,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 211,
+    "index": 210,
     "canonical_name": "M110 \"Grid\"",
     "target_title": "M110 | Grid",
     "weapon": "M110",
@@ -5106,7 +5081,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 212,
+    "index": 211,
     "canonical_name": "M110 \"Z-07 M.A.R.K.S.M.A.N.\"",
     "target_title": "M110 | Z-07 M.A.R.K.S.M.A.N.",
     "weapon": "M110",
@@ -5132,7 +5107,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 213,
+    "index": 212,
     "canonical_name": "M16 \"4 Years\"",
     "target_title": "M16 | 4 Years",
     "weapon": "M16",
@@ -5157,7 +5132,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 214,
+    "index": 213,
     "canonical_name": "M16 \"Dust Devil\"",
     "target_title": "M16 | Dust Devil",
     "weapon": "M16",
@@ -5182,7 +5157,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 215,
+    "index": 214,
     "canonical_name": "M16 \"Shogun Stripes\"",
     "target_title": "M16 | Shogun Stripes",
     "weapon": "M16",
@@ -5207,7 +5182,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 216,
+    "index": 215,
     "canonical_name": "M4 \"Grand Prix\"",
     "target_title": "M4 | Grand Prix",
     "weapon": "M4",
@@ -5232,7 +5207,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 217,
+    "index": 216,
     "canonical_name": "M4 \"N-Kai\"",
     "target_title": "M4 | N-Kai",
     "weapon": "M4",
@@ -5257,7 +5232,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 218,
+    "index": 217,
     "canonical_name": "M4 \"Necromancer\"",
     "target_title": "M4 | Necromancer",
     "weapon": "M4",
@@ -5283,7 +5258,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 219,
+    "index": 218,
     "canonical_name": "M4 \"Retro Film\"",
     "target_title": "M4 | Retro Film",
     "weapon": "M4",
@@ -5308,7 +5283,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 220,
+    "index": 219,
     "canonical_name": "M4 \"Revival\"",
     "target_title": "M4 | Revival",
     "weapon": "M4",
@@ -5333,7 +5308,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 221,
+    "index": 220,
     "canonical_name": "M4 \"Sunset\"",
     "target_title": "M4 | Sunset",
     "weapon": "M4",
@@ -5358,32 +5333,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 222,
-    "canonical_name": "M4A1 \"Contour\"",
-    "target_title": "M4A1 | Contour",
-    "weapon": "M4A1",
-    "skin": "Contour",
-    "output_base": "m4a1_contour",
-    "output_file": "m4a1_contour.webp",
-    "mode": "ADD_NEW",
-    "old_github_urls": [],
-    "appears_as": [
-      "M4A1 \"Contour\""
-    ],
-    "rarities": [
-      "Common"
-    ],
-    "new_case_keys": [
-      "low"
-    ],
-    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/6/61/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_M4A1_%22Contour%22.png/revision/latest?cb=20260428234000&path-prefix=ru",
-    "source_page": "FANDOM_API_EXACT",
-    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_contour.webp",
-    "alpha_ratio": 0.8196334838867188,
-    "status": "OK_FANDOM_API_EXACT"
-  },
-  {
-    "index": 224,
+    "index": 221,
     "canonical_name": "M4A1 \"Lincoln\"",
     "target_title": "M4A1 | Lincoln",
     "weapon": "M4A1",
@@ -5408,7 +5358,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 225,
+    "index": 222,
     "canonical_name": "M4A1 \"Overdrive\"",
     "target_title": "M4A1 | Overdrive",
     "weapon": "M4A1",
@@ -5433,7 +5383,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 226,
+    "index": 223,
     "canonical_name": "M4A1 \"Renegade\"",
     "target_title": "M4A1 | Renegade",
     "weapon": "M4A1",
@@ -5458,7 +5408,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 227,
+    "index": 224,
     "canonical_name": "M4A1 \"Stainless\"",
     "target_title": "M4A1 | Stainless",
     "weapon": "M4A1",
@@ -5483,7 +5433,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 228,
+    "index": 225,
     "canonical_name": "M60 \"Steam Beast\"",
     "target_title": "M60 | Steam Beast",
     "weapon": "M60",
@@ -5508,7 +5458,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 229,
+    "index": 226,
     "canonical_name": "M9 Bayonet \"Digital Burst\"",
     "target_title": "M9 Bayonet | Digital Burst",
     "weapon": "M9 Bayonet",
@@ -5533,7 +5483,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 230,
+    "index": 227,
     "canonical_name": "M9 Bayonet \"Kumo\"",
     "target_title": "M9 Bayonet | Kumo",
     "weapon": "M9 Bayonet",
@@ -5558,7 +5508,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 231,
+    "index": 228,
     "canonical_name": "MAC10 \"Argo\"",
     "target_title": "MAC10 | Argo",
     "weapon": "MAC10",
@@ -5583,7 +5533,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 232,
+    "index": 229,
     "canonical_name": "MAC10 \"Cardboard\"",
     "target_title": "MAC10 | Cardboard",
     "weapon": "MAC10",
@@ -5608,7 +5558,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 233,
+    "index": 230,
     "canonical_name": "MAC10 \"Shogun Stripes\"",
     "target_title": "MAC10 | Shogun Stripes",
     "weapon": "MAC10",
@@ -5635,7 +5585,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 234,
+    "index": 231,
     "canonical_name": "MAC10 \"Tempest\"",
     "target_title": "MAC10 | Tempest",
     "weapon": "MAC10",
@@ -5660,7 +5610,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 235,
+    "index": 232,
     "canonical_name": "Mallard \"Snake Scales\"",
     "target_title": "Mallard | Snake Scales",
     "weapon": "Mallard",
@@ -5687,7 +5637,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 236,
+    "index": 233,
     "canonical_name": "Mantis \"Glacier\"",
     "target_title": "Mantis | Glacier",
     "weapon": "Mantis",
@@ -5712,7 +5662,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 237,
+    "index": 234,
     "canonical_name": "MP5 \"Space Blaster\"",
     "target_title": "MP5 | Space Blaster",
     "weapon": "MP5",
@@ -5737,7 +5687,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 238,
+    "index": 235,
     "canonical_name": "MP5 \"Water Gun\"",
     "target_title": "MP5 | Water Gun",
     "weapon": "MP5",
@@ -5762,7 +5712,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 239,
+    "index": 236,
     "canonical_name": "MP7 \"Arcade\"",
     "target_title": "MP7 | Arcade",
     "weapon": "MP7",
@@ -5788,32 +5738,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 240,
-    "canonical_name": "MP7 \"Frequency\"",
-    "target_title": "MP7 | Frequency",
-    "weapon": "MP7",
-    "skin": "Frequency",
-    "output_base": "mp7_frequency",
-    "output_file": "mp7_frequency.webp",
-    "mode": "ADD_NEW",
-    "old_github_urls": [],
-    "appears_as": [
-      "MP7 \"Frequency\""
-    ],
-    "rarities": [
-      "Uncommon"
-    ],
-    "new_case_keys": [
-      "low"
-    ],
-    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/7/79/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_MP7_%22Frequency%22.png/revision/latest?cb=20260428234209&path-prefix=ru",
-    "source_page": "FANDOM_API_EXACT",
-    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_frequency.webp",
-    "alpha_ratio": 0.8146438598632812,
-    "status": "OK_FANDOM_API_EXACT"
-  },
-  {
-    "index": 241,
+    "index": 237,
     "canonical_name": "MP7 \"Future Tech\"",
     "target_title": "MP7 | Future Tech",
     "weapon": "MP7",
@@ -5838,7 +5763,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 242,
+    "index": 238,
     "canonical_name": "MP7 \"Lich\"",
     "target_title": "MP7 | Lich",
     "weapon": "MP7",
@@ -5863,7 +5788,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 243,
+    "index": 239,
     "canonical_name": "MP7 \"Palace\"",
     "target_title": "MP7 | Palace",
     "weapon": "MP7",
@@ -5890,7 +5815,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 244,
+    "index": 240,
     "canonical_name": "MP7 \"Rebellion\"",
     "target_title": "MP7 | Rebellion",
     "weapon": "MP7",
@@ -5915,7 +5840,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 245,
+    "index": 241,
     "canonical_name": "P350 \"4 Years\"",
     "target_title": "P350 | 4 Years",
     "weapon": "P350",
@@ -5940,7 +5865,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 246,
+    "index": 242,
     "canonical_name": "P350 \"Gearshift\"",
     "target_title": "P350 | Gearshift",
     "weapon": "P350",
@@ -5965,7 +5890,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 247,
+    "index": 243,
     "canonical_name": "P350 \"Lab Prototype\"",
     "target_title": "P350 | Lab Prototype",
     "weapon": "P350",
@@ -5993,7 +5918,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 248,
+    "index": 244,
     "canonical_name": "P350 \"Savannah\"",
     "target_title": "P350 | Savannah",
     "weapon": "P350",
@@ -6018,7 +5943,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 249,
+    "index": 245,
     "canonical_name": "P350 \"Tag King\"",
     "target_title": "P350 | Tag King",
     "weapon": "P350",
@@ -6044,7 +5969,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 250,
+    "index": 246,
     "canonical_name": "P90 \"Clash\"",
     "target_title": "P90 | Clash",
     "weapon": "P90",
@@ -6071,7 +5996,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 251,
+    "index": 247,
     "canonical_name": "P90 \"Data Flow\"",
     "target_title": "P90 | Data Flow",
     "weapon": "P90",
@@ -6096,7 +6021,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 252,
+    "index": 248,
     "canonical_name": "P90 \"Noir\"",
     "target_title": "P90 | Noir",
     "weapon": "P90",
@@ -6121,7 +6046,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 253,
+    "index": 249,
     "canonical_name": "P90 \"Oops\"",
     "target_title": "P90 | Oops",
     "weapon": "P90",
@@ -6146,7 +6071,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 254,
+    "index": 250,
     "canonical_name": "P90 \"Z-50 F.U.J.I.N.\"",
     "target_title": "P90 | Z-50 F.U.J.I.N.",
     "weapon": "P90",
@@ -6171,7 +6096,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 255,
+    "index": 251,
     "canonical_name": "S1 F/S \"Burning Mist\"",
     "target_title": "S1 F/S | Burning Mist",
     "weapon": "S1 F/S",
@@ -6199,7 +6124,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 256,
+    "index": 252,
     "canonical_name": "S3 FabM \"Cloud Lily\"",
     "target_title": "S3 FabM | Cloud Lily",
     "weapon": "S3 FabM",
@@ -6227,7 +6152,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 257,
+    "index": 253,
     "canonical_name": "Scorpion \"Veil\"",
     "target_title": "Scorpion | Veil",
     "weapon": "Scorpion",
@@ -6252,7 +6177,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 258,
+    "index": 254,
     "canonical_name": "SM1014 \"Necromancer\"",
     "target_title": "SM1014 | Necromancer",
     "weapon": "SM1014",
@@ -6277,7 +6202,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 259,
+    "index": 255,
     "canonical_name": "SM1014 \"Northern Camouflage\"",
     "target_title": "SM1014 | Northern Camouflage",
     "weapon": "SM1014",
@@ -6302,7 +6227,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 260,
+    "index": 256,
     "canonical_name": "SM1014 \"Serpent\"",
     "target_title": "SM1014 | Serpent",
     "weapon": "SM1014",
@@ -6327,7 +6252,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 261,
+    "index": 257,
     "canonical_name": "SM1014 \"Wasp\"",
     "target_title": "SM1014 | Wasp",
     "weapon": "SM1014",
@@ -6352,7 +6277,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 262,
+    "index": 258,
     "canonical_name": "SPAS \"Vibe\"",
     "target_title": "SPAS | Vibe",
     "weapon": "SPAS",
@@ -6377,7 +6302,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 263,
+    "index": 259,
     "canonical_name": "SPAS \"Waypoint\"",
     "target_title": "SPAS | Waypoint",
     "weapon": "SPAS",
@@ -6402,7 +6327,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 264,
+    "index": 260,
     "canonical_name": "SPAS \"Zeus\"",
     "target_title": "SPAS | Zeus",
     "weapon": "SPAS",
@@ -6427,7 +6352,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 265,
+    "index": 261,
     "canonical_name": "Sticker \"Bubblegum Space\" Swap",
     "target_title": "Sticker | Bubblegum Space Swap",
     "weapon": "Sticker",
@@ -6452,7 +6377,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 266,
+    "index": 262,
     "canonical_name": "Sticker \"FID\" Gold",
     "target_title": "Sticker | FID Gold",
     "weapon": "Sticker",
@@ -6477,7 +6402,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 267,
+    "index": 263,
     "canonical_name": "Sticker \"Fluffy Assassin\" Color",
     "target_title": "Sticker | Fluffy Assassin Color",
     "weapon": "Sticker",
@@ -6502,7 +6427,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 268,
+    "index": 264,
     "canonical_name": "Sticker \"Hot Gun\" Color",
     "target_title": "Sticker | Hot Gun Color",
     "weapon": "Sticker",
@@ -6527,7 +6452,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 269,
+    "index": 265,
     "canonical_name": "Sticker \"Province\"",
     "target_title": "Sticker | Province",
     "weapon": "Sticker",
@@ -6552,7 +6477,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 270,
+    "index": 266,
     "canonical_name": "Stiletto \"Ascend\"",
     "target_title": "Stiletto | Ascend",
     "weapon": "Stiletto",
@@ -6577,7 +6502,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 271,
+    "index": 267,
     "canonical_name": "Stiletto \"Damascus\"",
     "target_title": "Stiletto | Damascus",
     "weapon": "Stiletto",
@@ -6602,7 +6527,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 272,
+    "index": 268,
     "canonical_name": "Tanto \"Glitch\"",
     "target_title": "Tanto | Glitch",
     "weapon": "Tanto",
@@ -6627,7 +6552,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 273,
+    "index": 269,
     "canonical_name": "TEC-9 \"Dalmatian\"",
     "target_title": "TEC-9 | Dalmatian",
     "weapon": "TEC-9",
@@ -6652,7 +6577,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 274,
+    "index": 270,
     "canonical_name": "TEC-9 \"Disguise\"",
     "target_title": "TEC-9 | Disguise",
     "weapon": "TEC-9",
@@ -6677,7 +6602,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 275,
+    "index": 271,
     "canonical_name": "TEC-9 \"Gangster\"",
     "target_title": "TEC-9 | Gangster",
     "weapon": "TEC-9",
@@ -6704,7 +6629,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 276,
+    "index": 272,
     "canonical_name": "TEC-9 \"Glitch\"",
     "target_title": "TEC-9 | Glitch",
     "weapon": "TEC-9",
@@ -6729,7 +6654,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 277,
+    "index": 273,
     "canonical_name": "TEC-9 \"Needle\"",
     "target_title": "TEC-9 | Needle",
     "weapon": "TEC-9",
@@ -6754,7 +6679,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 278,
+    "index": 274,
     "canonical_name": "TEC-9 \"Night Slayer\"",
     "target_title": "TEC-9 | Night Slayer",
     "weapon": "TEC-9",
@@ -6779,7 +6704,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 279,
+    "index": 275,
     "canonical_name": "TEC-9 \"Reactor\"",
     "target_title": "TEC-9 | Reactor",
     "weapon": "TEC-9",
@@ -6804,7 +6729,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 280,
+    "index": 276,
     "canonical_name": "TEC-9 \"Tie Dye\"",
     "target_title": "TEC-9 | Tie Dye",
     "weapon": "TEC-9",
@@ -6829,7 +6754,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 281,
+    "index": 277,
     "canonical_name": "UMP45 \"Beast\"",
     "target_title": "UMP45 | Beast",
     "weapon": "UMP45",
@@ -6854,7 +6779,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 282,
+    "index": 278,
     "canonical_name": "UMP45 \"Geometric\"",
     "target_title": "UMP45 | Geometric",
     "weapon": "UMP45",
@@ -6879,7 +6804,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 283,
+    "index": 279,
     "canonical_name": "UMP45 \"Pixel V2\"",
     "target_title": "UMP45 | Pixel V2",
     "weapon": "UMP45",
@@ -6904,7 +6829,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 284,
+    "index": 280,
     "canonical_name": "UMP45 \"Professional\"",
     "target_title": "UMP45 | Professional",
     "weapon": "UMP45",
@@ -6929,7 +6854,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 285,
+    "index": 281,
     "canonical_name": "UMP45 \"Spirit\"",
     "target_title": "UMP45 | Spirit",
     "weapon": "UMP45",
@@ -6954,7 +6879,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 286,
+    "index": 282,
     "canonical_name": "UMP45 \"Warchief\"",
     "target_title": "UMP45 | Warchief",
     "weapon": "UMP45",
@@ -6979,7 +6904,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 287,
+    "index": 283,
     "canonical_name": "UMP45 \"White Carbon\"",
     "target_title": "UMP45 | White Carbon",
     "weapon": "UMP45",
@@ -7005,7 +6930,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 288,
+    "index": 284,
     "canonical_name": "USP \"Fiend\"",
     "target_title": "USP | Fiend",
     "weapon": "USP",
@@ -7030,7 +6955,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 289,
+    "index": 285,
     "canonical_name": "USP \"Pisces\"",
     "target_title": "USP | Pisces",
     "weapon": "USP",
@@ -7055,7 +6980,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 290,
+    "index": 286,
     "canonical_name": "USP \"Purple Camo\"",
     "target_title": "USP | Purple Camo",
     "weapon": "USP",
@@ -7080,7 +7005,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 291,
+    "index": 287,
     "canonical_name": "VAL \"Gilded Gale\"",
     "target_title": "VAL | Gilded Gale",
     "weapon": "VAL",
@@ -7105,7 +7030,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 292,
+    "index": 288,
     "canonical_name": "VAL \"Joker\"",
     "target_title": "VAL | Joker",
     "weapon": "VAL",
@@ -7130,7 +7055,7 @@
     "status": "SKIPPED_VALID"
   },
   {
-    "index": 293,
+    "index": 289,
     "canonical_name": "VAL \"Night City\"",
     "target_title": "VAL | Night City",
     "weapon": "VAL",
