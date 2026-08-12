@@ -143,7 +143,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 142,"USP ""Digital Burst""",REPLACE_EXISTING,SKIPPED_VALID,usp_digital_burst.webp,31186,,,alpha=88.1310%
 143,"USP ""Griffin""",ADD_NEW,SKIPPED_VALID,usp_griffin.webp,32074,,,alpha=86.9804%
 144,"USP ""Stone Cold""",REPLACE_EXISTING,SKIPPED_VALID,usp_stone_cold.webp,26616,,,alpha=86.8660%
-145,"USP ""Warden""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target USP | Warden
+145,"USP ""Warden""",ADD_NEW,OK_FANDOM_API_EXACT,usp_warden.webp,62284,https://static.wikia.nocookie.net/standoff-2/images/1/1d/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_USP_%22Warden%22.png/revision/latest?cb=20260428234855&path-prefix=ru,FANDOM_API_EXACT,source=WEBP; alpha=79.2892%
 146,"VAL ""Rosa Mortal""",ADD_NEW,SKIPPED_VALID,val_rosa_mortal.webp,16102,,,alpha=84.8244%
 147,"Akimbo Uzi ""Howling Ghost""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_howling_ghost.webp,20342,,,alpha=81.3728%
 148,"Akimbo Uzi ""No Escape""",ADD_NEW,SKIPPED_VALID,akimbo_uzi_no_escape.webp,17986,,,alpha=81.3683%
@@ -200,12 +200,12 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 199,"FN FAL ""Empyrean""",ADD_NEW,SKIPPED_VALID,fn_fal_empyrean.webp,19306,,,alpha=82.2266%
 200,"FN FAL ""PRO""",ADD_NEW,SKIPPED_VALID,fn_fal_pro.webp,18250,,,alpha=82.1854%
 201,"FN FAL ""Scaleskitter""",ADD_NEW,SKIPPED_VALID,fn_fal_scaleskitter.webp,25592,,,alpha=92.3462%
-202,"G22 ""Adam""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target G22 | Adam
+202,"G22 ""Adam""",ADD_NEW,OK_FANDOM_API_EXACT,g22_adam.webp,57126,https://static.wikia.nocookie.net/standoff-2/images/1/18/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_G22_%22Adam%22.png/revision/latest?cb=20260428234837&path-prefix=ru,FANDOM_API_EXACT,source=WEBP; alpha=82.2662%
 203,"G22 ""Casual""",ADD_NEW,SKIPPED_VALID,g22_casual.webp,38232,,,alpha=83.4160%
 204,"G22 ""Pixel Camouflage""",ADD_NEW,SKIPPED_VALID,g22_pixel_camouflage.webp,17718,,,alpha=93.2205%
 205,"Graffiti ""Gold Skull"" Packed",ADD_NEW,SKIPPED_VALID,graffiti_gold_skull_packed.webp,42716,,,alpha=97.4457%
 206,"jKommando ""Reaper""",ADD_NEW,SKIPPED_VALID,jkommando_reaper.webp,10102,,,alpha=93.1625%
-207,"Karambit ""Hologram""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target Karambit | Hologram
+207,"Karambit ""Hologram""",ADD_NEW,OK_FANDOM_API_EXACT,karambit_hologram.webp,44286,https://static.wikia.nocookie.net/standoff-2/images/b/b0/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_Karambit_%22Hologram%22.png/revision/latest?cb=20251219181915&path-prefix=ru,FANDOM_API_EXACT,source=WEBP; alpha=87.6945%
 208,"Karambit ""Purple Camo""",ADD_NEW,SKIPPED_VALID,karambit_purple_camo.webp,13248,,,alpha=87.8387%
 209,"Kukri ""Divine Power""",ADD_NEW,SKIPPED_VALID,kukri_divine_power.webp,16464,,,alpha=87.9364%
 210,"Kunai ""Glitch""",ADD_NEW,SKIPPED_VALID,kunai_glitch.webp,20494,,,alpha=90.4045%
@@ -220,7 +220,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 219,"M4 ""Retro Film""",ADD_NEW,SKIPPED_VALID,m4_retro_film.webp,18600,,,alpha=80.2498%
 220,"M4 ""Revival""",ADD_NEW,SKIPPED_VALID,m4_revival.webp,35984,,,alpha=83.7036%
 221,"M4 ""Sunset""",ADD_NEW,SKIPPED_VALID,m4_sunset.webp,49486,,,alpha=84.9831%
-222,"M4A1 ""Contour""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target M4A1 | Contour
+222,"M4A1 ""Contour""",ADD_NEW,OK_FANDOM_API_EXACT,m4a1_contour.webp,65022,https://static.wikia.nocookie.net/standoff-2/images/6/61/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_M4A1_%22Contour%22.png/revision/latest?cb=20260428234000&path-prefix=ru,FANDOM_API_EXACT,source=WEBP; alpha=81.9633%
 223,"M4A1 ""Cyber Dragon""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target M4A1 | Cyber Dragon
 224,"M4A1 ""Lincoln""",ADD_NEW,SKIPPED_VALID,m4a1_lincoln.webp,24952,,,alpha=81.7497%
 225,"M4A1 ""Overdrive""",ADD_NEW,SKIPPED_VALID,m4a1_overdrive.webp,24016,,,alpha=81.7848%
@@ -238,7 +238,7 @@ index,canonical_name,mode,status,filename,size_bytes,source_url,source_page,note
 237,"MP5 ""Space Blaster""",ADD_NEW,SKIPPED_VALID,mp5_space_blaster.webp,44954,,,alpha=83.1230%
 238,"MP5 ""Water Gun""",ADD_NEW,SKIPPED_VALID,mp5_water_gun.webp,42510,,,alpha=84.6222%
 239,"MP7 ""Arcade""",ADD_NEW,SKIPPED_VALID,mp7_arcade.webp,31352,,,alpha=87.3840%
-240,"MP7 ""Frequency""",ADD_NEW,UNRESOLVED,,0,,,No exact weapon+skin image URL found for target MP7 | Frequency
+240,"MP7 ""Frequency""",ADD_NEW,OK_FANDOM_API_EXACT,mp7_frequency.webp,61114,https://static.wikia.nocookie.net/standoff-2/images/7/79/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_MP7_%22Frequency%22.png/revision/latest?cb=20260428234209&path-prefix=ru,FANDOM_API_EXACT,source=WEBP; alpha=81.4644%
 241,"MP7 ""Future Tech""",ADD_NEW,SKIPPED_VALID,mp7_future_tech.webp,34514,,,alpha=81.5826%
 242,"MP7 ""Lich""",ADD_NEW,SKIPPED_VALID,mp7_lich.webp,43678,,,alpha=86.3800%
 243,"MP7 ""Palace""",ADD_NEW,SKIPPED_VALID,mp7_palace.webp,34762,,,alpha=86.9110%

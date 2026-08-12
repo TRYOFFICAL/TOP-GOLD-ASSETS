@@ -3417,6 +3417,28 @@
     "status": "SKIPPED_VALID"
   },
   {
+    "index": 145,
+    "canonical_name": "USP \"Warden\"",
+    "target_title": "USP | Warden",
+    "weapon": "USP",
+    "skin": "Warden",
+    "output_base": "usp_warden",
+    "output_file": "usp_warden.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* USP \"Warden\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/1/1d/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_USP_%22Warden%22.png/revision/latest?cb=20260428234855&path-prefix=ru",
+    "source_page": "FANDOM_API_EXACT",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/usp_warden.webp",
+    "alpha_ratio": 0.7928924560546875,
+    "status": "OK_FANDOM_API_EXACT"
+  },
+  {
     "index": 146,
     "canonical_name": "VAL \"Rosa Mortal\"",
     "target_title": "VAL | Rosa Mortal",
@@ -4831,6 +4853,31 @@
     "status": "SKIPPED_VALID"
   },
   {
+    "index": 202,
+    "canonical_name": "G22 \"Adam\"",
+    "target_title": "G22 | Adam",
+    "weapon": "G22",
+    "skin": "Adam",
+    "output_base": "g22_adam",
+    "output_file": "g22_adam.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "STATTRACK* G22 \"Adam\""
+    ],
+    "rarities": [
+      "Epic"
+    ],
+    "new_case_keys": [
+      "province"
+    ],
+    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/1/18/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_G22_%22Adam%22.png/revision/latest?cb=20260428234837&path-prefix=ru",
+    "source_page": "FANDOM_API_EXACT",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/g22_adam.webp",
+    "alpha_ratio": 0.822662353515625,
+    "status": "OK_FANDOM_API_EXACT"
+  },
+  {
     "index": 203,
     "canonical_name": "G22 \"Casual\"",
     "target_title": "G22 | Casual",
@@ -4932,6 +4979,31 @@
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/jkommando_reaper.webp",
     "alpha_ratio": 0.9316253662109375,
     "status": "SKIPPED_VALID"
+  },
+  {
+    "index": 207,
+    "canonical_name": "Karambit \"Hologram\"",
+    "target_title": "Karambit | Hologram",
+    "weapon": "Karambit",
+    "skin": "Hologram",
+    "output_base": "karambit_hologram",
+    "output_file": "karambit_hologram.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "Karambit \"Hologram\""
+    ],
+    "rarities": [
+      "Arcane"
+    ],
+    "new_case_keys": [
+      "cyber"
+    ],
+    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/b/b0/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_Karambit_%22Hologram%22.png/revision/latest?cb=20251219181915&path-prefix=ru",
+    "source_page": "FANDOM_API_EXACT",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/karambit_hologram.webp",
+    "alpha_ratio": 0.8769454956054688,
+    "status": "OK_FANDOM_API_EXACT"
   },
   {
     "index": 208,
@@ -5284,6 +5356,31 @@
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4_sunset.webp",
     "alpha_ratio": 0.8498306274414062,
     "status": "SKIPPED_VALID"
+  },
+  {
+    "index": 222,
+    "canonical_name": "M4A1 \"Contour\"",
+    "target_title": "M4A1 | Contour",
+    "weapon": "M4A1",
+    "skin": "Contour",
+    "output_base": "m4a1_contour",
+    "output_file": "m4a1_contour.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "M4A1 \"Contour\""
+    ],
+    "rarities": [
+      "Common"
+    ],
+    "new_case_keys": [
+      "low"
+    ],
+    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/6/61/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_M4A1_%22Contour%22.png/revision/latest?cb=20260428234000&path-prefix=ru",
+    "source_page": "FANDOM_API_EXACT",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/m4a1_contour.webp",
+    "alpha_ratio": 0.8196334838867188,
+    "status": "OK_FANDOM_API_EXACT"
   },
   {
     "index": 224,
@@ -5689,6 +5786,31 @@
     "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_arcade.webp",
     "alpha_ratio": 0.87384033203125,
     "status": "SKIPPED_VALID"
+  },
+  {
+    "index": 240,
+    "canonical_name": "MP7 \"Frequency\"",
+    "target_title": "MP7 | Frequency",
+    "weapon": "MP7",
+    "skin": "Frequency",
+    "output_base": "mp7_frequency",
+    "output_file": "mp7_frequency.webp",
+    "mode": "ADD_NEW",
+    "old_github_urls": [],
+    "appears_as": [
+      "MP7 \"Frequency\""
+    ],
+    "rarities": [
+      "Uncommon"
+    ],
+    "new_case_keys": [
+      "low"
+    ],
+    "source_url": "https://static.wikia.nocookie.net/standoff-2/images/7/79/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E_%E2%80%94_MP7_%22Frequency%22.png/revision/latest?cb=20260428234209&path-prefix=ru",
+    "source_page": "FANDOM_API_EXACT",
+    "public_url": "https://tryoffical.github.io/TOP-GOLD-ASSETS/assets/ragecases_skins_v2/mp7_frequency.webp",
+    "alpha_ratio": 0.8146438598632812,
+    "status": "OK_FANDOM_API_EXACT"
   },
   {
     "index": 241,
